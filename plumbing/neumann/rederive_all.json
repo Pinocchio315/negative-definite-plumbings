@@ -1,0 +1,2189 @@
+{
+ "12n_51": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "12n_184": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 0.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_125": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 2.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_315": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 6.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_560": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 52.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,2) (12,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_567": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_574": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 2.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,2) (9,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_611": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_612": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_751": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 1.2,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_761": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 9.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_860": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 1.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_931": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 1.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_968": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 6,
+  "seconds": 9.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1002": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 4.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (29,-17)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1059": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1062": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1083": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 6,
+  "seconds": 10.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1226": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1231": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 2.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1236": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1286": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 6,
+  "seconds": 5.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1287": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1313": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1314": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 6,
+  "seconds": 5.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1316": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1354": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 0.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (5,2) (5,2) (8,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1435": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,2) (11,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1588": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,2) (11,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2276": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 0.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_2296": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 7.2,
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -4,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (4,1) (9,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2559": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 6,
+  "seconds": 3.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -4,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,3) (9,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2950": {
+  "expected": 2,
+  "source": "NEW-GRAPH-PAIR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 0.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3163": {
+  "expected": 2,
+  "source": "NEW-GRAPH-STAR",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 6.2,
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -5,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,1) (7,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1021": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 8,
+  "seconds": 2.2,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (17,-13)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1133": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 1.3,
+  "plumbing": {
+   "weights": [
+    -1,
+    -4,
+    -5,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (4,1) (5,1) (5,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1552": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 7,
+  "seconds": 1.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -3,
+    -3,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (3,2) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_2066": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 0.7,
+  "plumbing": {
+   "weights": [
+    -1,
+    -2,
+    -5,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,1) (9,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2638": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 9,
+  "seconds": 3.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (4,1) (13,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2956": {
+  "expected": 3,
+  "source": "NEW-GRAPH-NF-OWENS",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 10.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (3,2) (5,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_3547": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": 0,
+  "vertices": 10,
+  "seconds": 2.2,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,1) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_572": {
+  "expected": 2,
+  "source": "NEW-GRAPH-NF",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED_HF",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 1.4,
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -3,
+    -2,
+    -6
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,2) (6,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2933": {
+  "expected": 3,
+  "source": "NEW-GRAPH-OWENS",
+  "applicability": "APPLICABLE",
+  "verdict": "OBSTRUCTED",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 10.9,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (3,2) (5,-3)]",
+  "plumbing_name_matches": true
+ }
+}

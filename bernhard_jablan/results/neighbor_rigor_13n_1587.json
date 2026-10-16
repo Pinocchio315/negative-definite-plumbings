@@ -1,0 +1,1072 @@
+[
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 6,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "12a_237",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 12,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 3,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 7,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 4,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 5,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 4,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 6,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "11n_66",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 3,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 6,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 3,
+"name": "11n_66",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 4,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 7,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 3,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 4,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 6,
+"name": "12n_563",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"cover_invariant_matches_named": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"cover_invariant_matches_named": true,
+"simplified_alternating_crossings": 10,
+"mccoy_no_unknotting_crossing": true
+}
+]

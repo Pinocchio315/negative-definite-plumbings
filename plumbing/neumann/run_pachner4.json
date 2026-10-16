@@ -1,0 +1,134 @@
+{
+ "13n_3596": {
+  "D": 5,
+  "sigma": 0,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "star"
+  ],
+  "applicability": "APPLICABLE",
+  "pplus": {
+   "+": 1,
+   "-": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ]
+   ]
+  },
+  "link_orientation": 0,
+  "L": "8",
+  "R": "-8",
+  "cw_signs": [
+   -1
+  ],
+  "cw_consistent": true,
+  "test": null,
+  "verdict": "NO TEST (sigma)",
+  "seconds": 2.0
+ },
+ "13n_446": {
+  "D": 11,
+  "sigma": -2,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ },
+ "13n_468": {
+  "D": 13,
+  "sigma": 0,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ },
+ "13n_689": {
+  "D": 39,
+  "sigma": -2,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.1
+ }
+}

@@ -1,0 +1,8 @@
+11n_66    D=  75 d(0)=1/2    sigma(KnotInfo)= -2 -sigma/4=1/2   linking-form check (+,-)=(True, False)  Ni-Wu survivors=0  -> u >= 2
+11n_99    D=  39 d(0)=-1/2   sigma(KnotInfo)=  2 -sigma/4=-1/2  linking-form check (+,-)=(True, False)  Ni-Wu survivors=0  -> u >= 2
+8_20      D=   9 d(0)=0      sigma(KnotInfo)=  0 -sigma/4=0     linking-form check (+,-)=(True, False)  Ni-Wu survivors=2  -> u=1 NOT excluded
+9_44      D=  17 d(0)=0      sigma(KnotInfo)=  0 -sigma/4=0     linking-form check (+,-)=(True, True)  Ni-Wu survivors=4  -> u=1 NOT excluded
+9_43      D=  13 d(0)=1      sigma(KnotInfo)= -4 -sigma/4=1     linking-form check (+,-)=(True, True)  Ni-Wu survivors=0  -> u >= 2
+12n_491   D=  69 d(0)=0      sigma(KnotInfo)=  0 -sigma/4=0     linking-form check (+,-)=(True, False)  Ni-Wu survivors=0  -> u >= 2
+13n_1587  D=  75 d(0)=1/2    sigma(KnotInfo)= -2 -sigma/4=1/2   linking-form check (+,-)=(True, False)  Ni-Wu survivors=0  -> u >= 2
+13n_1669  D=  69 d(0)=-1     sigma(KnotInfo)=  4 -sigma/4=-1    linking-form check (+,-)=(True, False)  Ni-Wu survivors=0  -> u >= 2

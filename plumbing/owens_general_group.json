@@ -1,0 +1,23 @@
+{
+ "13n_2933": {
+  "D": 99,
+  "sigma": 2,
+  "n_even": 1,
+  "forms": 150,
+  "forms_with_isomorphic_group": 44,
+  "fit_plus": [],
+  "fit_minus": [],
+  "blocked": [
+   1,
+   -1
+  ],
+  "traczyk_eps": -1,
+  "dim3": 2,
+  "traczyk_excludes_02": true,
+  "v2code": {
+   "verdict": "OBSTRUCTED",
+   "eps": -1,
+   "dim3": 2
+  }
+ }
+}

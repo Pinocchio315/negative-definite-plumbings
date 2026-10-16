@@ -1,0 +1,666 @@
+{
+ "calibration": {
+  "13n_1002": {
+   "L_floer": "43/2",
+   "L_closed": "43/2",
+   "equal": true
+  },
+  "13n_1059": {
+   "L_floer": "121/6",
+   "L_closed": "121/6",
+   "equal": true
+  },
+  "13n_1062": {
+   "L_floer": "121/6",
+   "L_closed": "121/6",
+   "equal": true
+  },
+  "13n_1083": {
+   "L_floer": "52/3",
+   "L_closed": "52/3",
+   "equal": true
+  },
+  "13n_1286": {
+   "L_floer": "52/3",
+   "L_closed": "52/3",
+   "equal": true
+  },
+  "13n_1287": {
+   "L_floer": "56/3",
+   "L_closed": "56/3",
+   "equal": true
+  },
+  "13n_1313": {
+   "L_floer": "56/3",
+   "L_closed": "56/3",
+   "equal": true
+  },
+  "13n_1314": {
+   "L_floer": "52/3",
+   "L_closed": "52/3",
+   "equal": true
+  },
+  "13n_1354": {
+   "L_floer": "51/2",
+   "L_closed": "51/2",
+   "equal": true
+  },
+  "13n_1435": {
+   "L_floer": "40/3",
+   "L_closed": "40/3",
+   "equal": true
+  },
+  "13n_1496": {
+   "L_floer": "8",
+   "L_closed": "8",
+   "equal": true
+  },
+  "13n_1588": {
+   "L_floer": "39/2",
+   "L_closed": "39/2",
+   "equal": true
+  },
+  "13n_2300": {
+   "L_floer": "12",
+   "L_closed": "12",
+   "equal": true
+  },
+  "13n_2559": {
+   "L_floer": "15/2",
+   "L_closed": "15/2",
+   "equal": true
+  },
+  "13n_560": {
+   "L_floer": "121/6",
+   "L_closed": "121/6",
+   "equal": true
+  },
+  "13n_571": {
+   "L_floer": "12",
+   "L_closed": "12",
+   "equal": true
+  },
+  "13n_577": {
+   "L_floer": "12",
+   "L_closed": "12",
+   "equal": true
+  },
+  "13n_931": {
+   "L_floer": "121/6",
+   "L_closed": "121/6",
+   "equal": true
+  },
+  "13n_968": {
+   "L_floer": "52/3",
+   "L_closed": "52/3",
+   "equal": true
+  },
+  "12n_309": {
+   "L_floer": "4",
+   "L_closed": "4",
+   "equal": true
+  },
+  "13n_1316": {
+   "L_floer": "56/3",
+   "L_closed": "56/3",
+   "equal": true
+  },
+  "13n_2296": {
+   "L_floer": "16/3",
+   "L_closed": "16/3",
+   "equal": true
+  },
+  "13n_3163": {
+   "L_floer": "11/2",
+   "L_closed": "11/2",
+   "equal": true
+  },
+  "13n_574": {
+   "L_floer": "157/6",
+   "L_closed": "157/6",
+   "equal": true
+  },
+  "10_143": {
+   "L_floer": "23/6",
+   "L_closed": "23/6",
+   "equal": true
+  },
+  "11a_46": {
+   "L_floer": "-133/6",
+   "L_closed": "-133/6",
+   "equal": true
+  },
+  "10_130": {
+   "L_floer": "8",
+   "L_closed": "8",
+   "equal": true
+  },
+  "10_72": {
+   "L_floer": "9",
+   "L_closed": "9",
+   "equal": true
+  },
+  "10_59": {
+   "L_floer": "73/6",
+   "L_closed": "73/6",
+   "equal": true
+  },
+  "11n_13": {
+   "L_floer": "55/6",
+   "L_closed": "55/6",
+   "equal": true
+  },
+  "11n_49": {
+   "L_floer": "4",
+   "L_closed": "4",
+   "equal": true
+  },
+  "11n_62": {
+   "L_floer": "8/3",
+   "L_closed": "8/3",
+   "equal": true
+  },
+  "10_46": {
+   "L_floer": "29/2",
+   "L_closed": "29/2",
+   "equal": true
+  },
+  "11a_103": {
+   "L_floer": "64/3",
+   "L_closed": "64/3",
+   "equal": true
+  },
+  "11n_103": {
+   "L_floer": "13",
+   "L_closed": "13",
+   "equal": true
+  },
+  "11a_199": {
+   "L_floer": "137/6",
+   "L_closed": "137/6",
+   "equal": true
+  },
+  "11n_81": {
+   "L_floer": "33/2",
+   "L_closed": "33/2",
+   "equal": true
+  },
+  "12n_36": {
+   "L_floer": "21/2",
+   "L_closed": "21/2",
+   "equal": true
+  },
+  "11a_258": {
+   "L_floer": "169/6",
+   "L_closed": "169/6",
+   "equal": true
+  },
+  "12n_78": {
+   "L_floer": "-4",
+   "L_closed": "-4",
+   "equal": true
+  },
+  "12n_54": {
+   "L_floer": "17",
+   "L_closed": "17",
+   "equal": true
+  },
+  "12n_168": {
+   "L_floer": "7",
+   "L_closed": "7",
+   "equal": true
+  },
+  "12n_225": {
+   "L_floer": "91/6",
+   "L_closed": "91/6",
+   "equal": true
+  },
+  "12n_152": {
+   "L_floer": "64/3",
+   "L_closed": "64/3",
+   "equal": true
+  },
+  "12n_278": {
+   "L_floer": "0",
+   "L_closed": "0",
+   "equal": true
+  },
+  "12n_244": {
+   "L_floer": "14",
+   "L_closed": "14",
+   "equal": true
+  },
+  "12a_937": {
+   "L_floer": "53/2",
+   "L_closed": "53/2",
+   "equal": true
+  },
+  "12a_679": {
+   "L_floer": "27",
+   "L_closed": "27",
+   "equal": true
+  },
+  "12n_457": {
+   "L_floer": "11/2",
+   "L_closed": "11/2",
+   "equal": true
+  },
+  "12n_478": {
+   "L_floer": "12",
+   "L_closed": "12",
+   "equal": true
+  },
+  "12n_342": {
+   "L_floer": "16",
+   "L_closed": "16",
+   "equal": true
+  },
+  "12n_306": {
+   "L_floer": "37/2",
+   "L_closed": "37/2",
+   "equal": true
+  },
+  "12n_556": {
+   "L_floer": "24",
+   "L_closed": "24",
+   "equal": true
+  },
+  "12a_146": {
+   "L_floer": "53/2",
+   "L_closed": "53/2",
+   "equal": true
+  }
+ },
+ "verify": {
+  "12n_51": {
+   "kind": "pair",
+   "det": 9,
+   "bad_vertices": 1,
+   "vertices": 11,
+   "name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "44/3",
+   "R": "44/3",
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": "1.0"
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "12n_184": {
+   "kind": "pair",
+   "det": 43,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "43/2",
+   "R": "-43/2",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": "1.0"
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_125": {
+   "kind": "pair",
+   "det": 59,
+   "bad_vertices": 1,
+   "vertices": 11,
+   "name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "75/2",
+   "R": "75/2",
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_315": {
+   "kind": "pair",
+   "det": 53,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "20",
+   "R": "-20",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_567": {
+   "kind": "pair",
+   "det": 31,
+   "bad_vertices": 1,
+   "vertices": 12,
+   "name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "55/2",
+   "R": "55/2",
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_611": {
+   "kind": "pair",
+   "det": 9,
+   "bad_vertices": 2,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "32/3",
+   "R": "-32/3",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_612": {
+   "kind": "pair",
+   "det": 9,
+   "bad_vertices": 2,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "32/3",
+   "R": "-32/3",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_751": {
+   "kind": "pair",
+   "det": 25,
+   "bad_vertices": 1,
+   "vertices": 11,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "28",
+   "R": "-28",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_761": {
+   "kind": "pair",
+   "det": 69,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "80/3",
+   "R": "-80/3",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_860": {
+   "kind": "pair",
+   "det": 77,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "28",
+   "R": "-28",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_1226": {
+   "kind": "pair",
+   "det": 7,
+   "bad_vertices": 1,
+   "vertices": 12,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "39/2",
+   "R": "-39/2",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_1231": {
+   "kind": "pair",
+   "det": 29,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "16",
+   "R": "-16",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_1236": {
+   "kind": "pair",
+   "det": 35,
+   "bad_vertices": 1,
+   "vertices": 10,
+   "name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "45/2",
+   "R": "-45/2",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_2276": {
+   "kind": "pair",
+   "det": 19,
+   "bad_vertices": 1,
+   "vertices": 11,
+   "name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "43/2",
+   "R": "-43/2",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  },
+  "13n_2950": {
+   "kind": "pair",
+   "det": 9,
+   "bad_vertices": 1,
+   "vertices": 11,
+   "name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+   "name_from": "Sigma_2/mirror",
+   "L_closed": "52/3",
+   "R": "-52/3",
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true,
+   "independent_ni_wu_survivors": 0,
+   "knotinfo_2026_09_16": {
+    "u": "[1,2]",
+    "ua": ""
+   },
+   "v2_table": [
+    1,
+    2
+   ],
+   "in_jablonowski_36": false
+  }
+ }
+}

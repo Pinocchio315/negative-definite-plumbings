@@ -1,0 +1,367 @@
+{
+ "date": "2026-10-15",
+ "description": "New exact unknotting numbers established in the paper. strict=true: the 43 values of Sections 3.2 and 3.3 (u = 2, resp. u = 3, from correction terms computed with the Neumann normal form; \"source\" records the route by which the value was first found, \"test\" the obstruction). strict=false: u = 5 for the special alternating knots 13a4770, 13a4787 and 13a4801 (Section 4.2). \"lo\" is the new lower bound, equal to the known upper bound.",
+ "variants": {
+  "baseline": "no entries",
+  "strict": "entries with strict=true",
+  "full": "all entries"
+ },
+ "values": [
+  {
+   "knot": "12n_51",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "12n_184",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_125",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_315",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_560",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED_HF",
+   "sigma2": "SFS [S2: (3,1) (5,2) (12,-7)]"
+  },
+  {
+   "knot": "13n_567",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_574",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (3,1) (5,2) (9,-4)]"
+  },
+  {
+   "knot": "13n_611",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]"
+  },
+  {
+   "knot": "13n_612",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]"
+  },
+  {
+   "knot": "13n_751",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_761",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_860",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_931",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+  },
+  {
+   "knot": "13n_968",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]"
+  },
+  {
+   "knot": "13n_1002",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (29,-17)]"
+  },
+  {
+   "knot": "13n_1059",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+  },
+  {
+   "knot": "13n_1062",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+  },
+  {
+   "knot": "13n_1083",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]"
+  },
+  {
+   "knot": "13n_1226",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_1231",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_1236",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_1286",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]"
+  },
+  {
+   "knot": "13n_1287",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+  },
+  {
+   "knot": "13n_1313",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+  },
+  {
+   "knot": "13n_1314",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]"
+  },
+  {
+   "knot": "13n_1316",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+  },
+  {
+   "knot": "13n_1354",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (5,2) (5,2) (8,-5)]"
+  },
+  {
+   "knot": "13n_1435",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (7,2) (11,-8)]"
+  },
+  {
+   "knot": "13n_1588",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (7,2) (11,-7)]"
+  },
+  {
+   "knot": "13n_2276",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_2296",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED_HF",
+   "sigma2": "SFS [S2: (3,1) (4,1) (9,-7)]"
+  },
+  {
+   "knot": "13n_2559",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [S2: (2,1) (7,3) (9,-5)]"
+  },
+  {
+   "knot": "13n_2950",
+   "lo": 2,
+   "source": "NEW-GRAPH-PAIR",
+   "strict": true,
+   "test": "OBSTRUCTED",
+   "sigma2": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]"
+  },
+  {
+   "knot": "13n_3163",
+   "lo": 2,
+   "source": "NEW-GRAPH-STAR",
+   "strict": true,
+   "test": "OBSTRUCTED_HF",
+   "sigma2": "SFS [S2: (3,1) (5,1) (7,-5)]"
+  },
+  {
+   "knot": "13n_1021",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED"
+  },
+  {
+   "knot": "13n_1133",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED_HF"
+  },
+  {
+   "knot": "13n_1552",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED"
+  },
+  {
+   "knot": "13n_2066",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED_HF"
+  },
+  {
+   "knot": "13n_2638",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED"
+  },
+  {
+   "knot": "13n_2956",
+   "lo": 3,
+   "source": "NEW-GRAPH-NF-OWENS",
+   "strict": true,
+   "test": "Owens (1,1) + Traczyk (0,2)"
+  },
+  {
+   "knot": "13n_3547",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED"
+  },
+  {
+   "knot": "13n_572",
+   "lo": 2,
+   "source": "NEW-GRAPH-NF",
+   "strict": true,
+   "test": "OBSTRUCTED_HF"
+  },
+  {
+   "knot": "13n_2933",
+   "lo": 3,
+   "source": "NEW-GRAPH-OWENS",
+   "strict": true,
+   "test": "Owens (1,1) + Traczyk (0,2)"
+  },
+  {
+   "knot": "13a_4770",
+   "lo": 5,
+   "source": "NEW-SA",
+   "strict": false,
+   "test": "special alternating theorem (arXiv:2603.10732, Thm 1) + direct check"
+  },
+  {
+   "knot": "13a_4787",
+   "lo": 5,
+   "source": "NEW-SA",
+   "strict": false,
+   "test": "special alternating theorem (arXiv:2603.10732, Thm 1) + direct check"
+  },
+  {
+   "knot": "13a_4801",
+   "lo": 5,
+   "source": "NEW-SA",
+   "strict": false,
+   "test": "special alternating theorem (arXiv:2603.10732, Thm 1) + direct check"
+  }
+ ]
+}

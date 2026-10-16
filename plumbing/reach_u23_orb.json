@@ -1,0 +1,7328 @@
+[
+ {
+  "name": "11n_137",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,2) (3,2) (7,-3)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "11n_141",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (5,-1)]",
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "11n_173",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "11n_23",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "11n_30",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (9,-2)]",
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "11n_65",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "11n_78",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (3,-1)]",
+  "H1": "Z/3 + Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "11n_99",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/39",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_101",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_104",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_113",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_125",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_135",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_137",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/109",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_139",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_140",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/111",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_167",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (13,-4)]",
+  "H1": "Z/67",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_186",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/89",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_190",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/65",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_193",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_196",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_202",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_204",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,1 | 0,1 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_208",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_212",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_216",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,1)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_233",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (7,-1)]",
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_235",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (7,-6)]",
+  "H1": "Z/13",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_236",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (13,-3)]",
+  "H1": "Z/47",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_239",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (17,-7)]",
+  "H1": "Z/43",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_248",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (11,-5)]",
+  "H1": "Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_253",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_260",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_270",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/3 + Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_291",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/99",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_294",
+  "kind": "star",
+  "sigma2": "SFS [S2: (4,1) (5,3) (5,-2)]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_304",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,4) (7,-2)]",
+  "H1": "Z/71",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_307",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,4) (7,-2)]",
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_361",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_404",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (11,-7)]",
+  "H1": "Z/3",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_416",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_432",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_443",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_454",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_509",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7 + Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_522",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/23",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_524",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/91",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_527",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_531",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_557",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_569",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_630",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_631",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/81",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_675",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_701",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3 + Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_707",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_721",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,1) (5,-1)]",
+  "H1": "Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_75",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 2,1 | 1,0 ]",
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_769",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_791",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_793",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_8",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,3)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_803",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_804",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_805",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_811",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_814",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_818",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/91",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_833",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/99",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_84",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_844",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5 + Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_854",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "12n_855",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_856",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "12n_859",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/149",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_873",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_881",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11 + Z/11",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "12n_90",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "12n_92",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/109",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "12n_98",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1004",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1009",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1011",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1014",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1020",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1022",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1029",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1030",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1043",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1050",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1055",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1058",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1061",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (3,2) (7,-2)]",
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1063",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-2)]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_107",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,2) (13,-4)]",
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1072",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | -1,1 ]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1077",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | -1,1 ]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1080",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (5,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1086",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/165",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1088",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/101",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1089",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/151",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1091",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1095",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/185",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1097",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_11",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,2)], m = [ 2,1 | 1,0 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1100",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1103",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ 0,1 | -1,1 ]",
+  "H1": "Z/123",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1106",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-5)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1111",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/163",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1112",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | -1,0 ]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1117",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,4)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1118",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (7,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/5",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1121",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,1)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1126",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/163",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1127",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | -1,0 ]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1149",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (23,-14)]",
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1160",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (17,-11)]",
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1175",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1181",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1187",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (25,-14)]",
+  "H1": "Z/41",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1192",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ -1,2 | -1,1 ]",
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1194",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 1,-1 ]",
+  "H1": "Z/81",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1198",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 1,-1 ]",
+  "H1": "Z/81",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1200",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1203",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 1,-2 | 0,1 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1205",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ -1,2 | 1,-1 ]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1207",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (13,-6)]",
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1218",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1225",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1228",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,4)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/91",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1229",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1233",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1238",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (27,-17)]",
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1240",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1251",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1257",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1268",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (5,1)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1271",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1272",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/165",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1273",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1277",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1278",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1280",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1284",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (3,2) (5,-4)]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1285",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1290",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (5,-1)]",
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1293",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-3)]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1295",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1298",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (23,-13)]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1300",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/165",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1305",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (5,-1)]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1310",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1311",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,2) (3,2) (5,-4)]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1312",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1317",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1322",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1324",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-4)]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1325",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1328",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1329",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1333",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1334",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-3)]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1344",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1346",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/75",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1348",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/65",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1361",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1372",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_138",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/175",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1383",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1415",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,4) (13,-8)]",
+  "H1": "Z/89",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1420",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,4) (13,-8)]",
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1421",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,3) (13,-8)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1423",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1425",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/107",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1429",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,4) (11,-8)]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1454",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,5)], m = [ 1,1 | 0,1 ]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1475",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1491",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,5) (9,-2)]",
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1498",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1503",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1551",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (5,3)] U/m SFS [D: (3,2) (3,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1581",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,5) (9,-4)]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1582",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,5) (9,-5)]",
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1586",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,5)] U/m SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1600",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,3) (12,-5)]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_162",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (5,3) (5,-7)]",
+  "H1": "Z/5",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1651",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/39",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1652",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1653",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1654",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1656",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_1659",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,4)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/51",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1660",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1668",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,4)] U/m SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1669",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,1)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1672",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1675",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 2,1 | 1,1 ]",
+  "H1": "Z/3",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1683",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1684",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1735",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1744",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/167",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1749",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,2) (7,5) (8,-5)]",
+  "H1": "Z/127",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_175",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1769",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/197",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1775",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/167",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1789",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/197",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1804",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/111",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1806",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1901",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/59",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1906",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1912",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1917",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1950",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/217",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_1955",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1959",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1962",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_197",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,-1 ]",
+  "H1": "Z/75",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_1974",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 1,2 | 0,1 ]",
+  "H1": "Z/51",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_1975",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ 1,2 | 1,1 ]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_1988",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_199",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,3) (11,-5)]",
+  "H1": "Z/71",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2008",
+  "kind": "triple",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/3 + Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2009",
+  "kind": "triple",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/3 + Z/39",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2064",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,4) (9,-2)]",
+  "H1": "Z/107",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2065",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,3) (9,-2)]",
+  "H1": "Z/89",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_208",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]",
+  "H1": "Z/3 + Z/9",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2104",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2105",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2121",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2123",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2125",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2131",
+  "kind": "star",
+  "sigma2": "SFS [S2: (5,3) (5,3) (7,-5)]",
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2133",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2153",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2159",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2178",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2190",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2195",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/161",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2202",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_222",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_225",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 1,1 | 0,1 ]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2253",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/113",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2271",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (7,2) (7,-4)]",
+  "H1": "Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2297",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/109",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2303",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_231",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2310",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2378",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,2) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/75",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2382",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/159",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2383",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,2) (3,2)] U/m SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2393",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_24",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_240",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 1,0 ]",
+  "H1": "Z/75",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2442",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_247",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2472",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2482",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2486",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2494",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2496",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2498",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2502",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/161",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_251",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,-2 ]",
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_254",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2542",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2546",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2548",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2556",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2562",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/183",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2566",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/13",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2580",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,2) (11,-6)]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2586",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2589",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/215",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2594",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2595",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_260",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2605",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ 1,2 | 1,1 ]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2613",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3 + Z/9",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2647",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/159",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2649",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_265",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,3)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2657",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (3,1) (4,-1)]",
+  "H1": "Z/3 + Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2669",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/239",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2672",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/241",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2673",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2674",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,2) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/213",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2677",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/161",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2721",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,2) (14,-9)]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2731",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2738",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_274",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/89",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2745",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2758",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2767",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/91",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2779",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2797",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2808",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/259",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2810",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2849",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_285",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_290",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 1,0 ]",
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2904",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,2) (3,2) (19,-7)]",
+  "H1": "Z/165",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2906",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2911",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/13",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_2928",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2929",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (3,2) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/231",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2933",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (3,2) (5,-3)]",
+  "H1": "Z/3 + Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2935",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (3,1) (5,-8)]",
+  "H1": "Z/3 + Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2939",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,2) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2948",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (4,3)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2951",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (15,-11)]",
+  "H1": "Z/3 + Z/3",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2956",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2965",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (17,-5)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2966",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2974",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/45",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_2975",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15 + Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2976",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_2989",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/175",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_299",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/75",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_2990",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,4)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/101",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_2991",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,3)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/151",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3039",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3060",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (14,-3)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3076",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3081",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/107",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3084",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3089",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_309",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,1 | 0,-1 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_31",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3104",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3115",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3119",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3124",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/65",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3144",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,4) (7,-4)]",
+  "H1": "Z/59",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3160",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (5,4)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3161",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,1)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_317",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3196",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_32",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_321",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/185",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3225",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3227",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3239",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/65",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_325",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3250",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3254",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3257",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3280",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3282",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3297",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3298",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3311",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_3312",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3317",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3319",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_3332",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3347",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3375",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3377",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/213",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_338",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/17",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3383",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3386",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5 + Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_339",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3421",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3449",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/139",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3467",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_347",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3470",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3501",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (11,-5)]",
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3503",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (17,-7)]",
+  "H1": "Z/39",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3505",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (3,1) (5,-2)]",
+  "H1": "Z/3 + Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3507",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5 + Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3511",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3512",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3514",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (13,-3)]",
+  "H1": "Z/51",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3516",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,2) (13,-10)]",
+  "H1": "Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3518",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/3 + Z/3",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3520",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ 1,1 | 0,1 ]",
+  "H1": "Z/3 + Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3521",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (3,1) (7,-1)]",
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3524",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3539",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3550",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/91",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3554",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/55",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3558",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3562",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3583",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3594",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3595",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,2) (5,4) (5,-1)]",
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3596",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_360",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3601",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_361",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3612",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3648",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3653",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3663",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3664",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/99",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_367",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3675",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/181",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3676",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3688",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/113",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3697",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3698",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3700",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3 + Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3703",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/223",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3709",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3712",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3713",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3721",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/255",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3724",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/159",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3728",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/111",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_3735",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3739",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3743",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3745",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3749",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3753",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,7)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3755",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,7)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_3759",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3770",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3774",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3776",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3780",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3785",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3787",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/171",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3793",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3801",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3810",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3814",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3836",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_384",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3840",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3866",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/149",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3868",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/167",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3884",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/75",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3915",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/15",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3942",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3944",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/171",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3947",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/149",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3949",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/167",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_3965",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3990",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/113",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3993",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,1) (11,-4)]",
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_3998",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_400",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/25",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4033",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4050",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_406",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/171",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4067",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4074",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/163",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4085",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4096",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/83",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_41",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4117",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/167",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_413",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4162",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4179",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/217",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_418",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/171",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4181",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_42",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/3 + Z/75",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4200",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4207",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/185",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4223",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4226",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4229",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/109",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4231",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4233",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/107",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4235",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4253",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_426",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ -1,1 | 0,1 ]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_427",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_428",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_430",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4309",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/173",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_431",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4343",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4345",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4349",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4353",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3 + Z/51",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4354",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4359",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4360",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4364",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4366",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4367",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/115",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_437",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ -1,1 | 0,1 ]",
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4371",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4377",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4386",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4404",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4405",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4407",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/181",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4435",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/265",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4443",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/77",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_445",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/11",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4455",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4456",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/115",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4461",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/81",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4473",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4480",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/229",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4489",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4497",
+  "kind": "triple",
+  "sigma2": "SFS [D: (3,2) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/3 + Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4499",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/91",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4501",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/57",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4515",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_452",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/211",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4520",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/249",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4531",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_454",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/119",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4541",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/191",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4552",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4561",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4588",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_46",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (5,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/43",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_460",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4612",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4622",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4626",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/127",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4637",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4645",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/189",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4646",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/175",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_465",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4650",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4658",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4667",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/171",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4681",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4687",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4698",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/95",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_47",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,1)] U/m SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4708",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4714",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4715",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3 + Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4717",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4725",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_473",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4731",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4738",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_474",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4762",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/223",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4766",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_477",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/211",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4776",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4791",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4793",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_480",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_482",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4834",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4865",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_488",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,4)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4881",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4885",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/187",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4887",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/183",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4891",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4892",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7 + Z/35",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4896",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4902",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4904",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/127",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4905",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/241",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4928",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_4932",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/217",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4939",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_494",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4951",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4960",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4967",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_4981",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/213",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_4984",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/203",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_499",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_4990",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/241",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_4997",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/197",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_5",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/109",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_5009",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/255",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_5014",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/145",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_5018",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/39",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_5032",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_5036",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/183",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_5062",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_5065",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/261",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_5069",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/175",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_5089",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/147",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_509",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,1 | 0,-1 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_5097",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_517",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/33",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_523",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_533",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_538",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_540",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/133",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_546",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/185",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_555",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_556",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_584",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_586",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_594",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_601",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3 + Z/27",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_606",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/123",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_607",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | -1,1 ]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_608",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | -1,1 ]",
+  "H1": "Z/63",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_618",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_629",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/105",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_646",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ -1,1 | 0,1 ]",
+  "H1": "Z/117",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_656",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 2,3 | 1,2 ]",
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_670",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_675",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_676",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_683",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (19,-4)]",
+  "H1": "Z/71",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_689",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/39",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_690",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (25,-16)]",
+  "H1": "Z/29",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_691",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (29,-12)]",
+  "H1": "Z/73",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_701",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (17,-4)]",
+  "H1": "Z/61",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_711",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/85",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_720",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-2 | 0,1 ]",
+  "H1": "Z/159",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_725",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_727",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_732",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_733",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/115",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_735",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/101",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_74",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_749",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_750",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (5,2) (5,3)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/175",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_754",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/103",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_755",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/137",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_765",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/37",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_769",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/115",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_771",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_772",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,3) (5,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/143",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_788",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_791",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_797",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_798",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_81",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_815",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_819",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/155",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_82",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/177",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_823",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/69",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_832",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (5,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/201",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_837",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/87",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_84",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_852",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/141",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_858",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/97",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_861",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/129",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_868",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/101",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_869",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/163",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_879",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/163",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_888",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_892",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,1) (5,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/107",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_905",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/181",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_907",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_916",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/185",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_920",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/125",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_923",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/157",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 0
+ },
+ {
+  "name": "13n_929",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-2)]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_932",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/195",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_935",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/165",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_937",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/101",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_938",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/151",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_94",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/111",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_941",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/181",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_943",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/193",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_959",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,1 ]",
+  "H1": "Z/45",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_962",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | -1,1 ]",
+  "H1": "Z/153",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 4
+ },
+ {
+  "name": "13n_972",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/183",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_980",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ 0,1 | -1,1 ]",
+  "H1": "Z/123",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_983",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-5)]",
+  "H1": "Z/57",
+  "range": [
+   2,
+   4
+  ],
+  "sigma": -4
+ },
+ {
+  "name": "13n_984",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/135",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -2
+ },
+ {
+  "name": "13n_994",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7 + Z/21",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": 2
+ },
+ {
+  "name": "13n_995",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/189",
+  "range": [
+   2,
+   3
+  ],
+  "sigma": -4
+ }
+]

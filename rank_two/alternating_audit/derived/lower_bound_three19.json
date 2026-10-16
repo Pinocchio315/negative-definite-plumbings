@@ -1,0 +1,420 @@
+[
+  {
+    "name": "13a_290",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      8
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_336",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      6
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_1665",
+    "signature_KnotInfo": 0,
+    "determinant": 425,
+    "H1_invariant_factors": [
+      5,
+      85
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_1804",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      4,
+      10
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_1829",
+    "signature_KnotInfo": 2,
+    "determinant": 375,
+    "H1_invariant_factors": [
+      5,
+      75
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      5,
+      6
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2079",
+    "signature_KnotInfo": 2,
+    "determinant": 275,
+    "H1_invariant_factors": [
+      5,
+      55
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      8,
+      9
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2181",
+    "signature_KnotInfo": -2,
+    "determinant": 275,
+    "H1_invariant_factors": [
+      5,
+      55
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      4,
+      8
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2277",
+    "signature_KnotInfo": 0,
+    "determinant": 425,
+    "H1_invariant_factors": [
+      5,
+      85
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2381",
+    "signature_KnotInfo": -2,
+    "determinant": 375,
+    "H1_invariant_factors": [
+      5,
+      75
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2507",
+    "signature_KnotInfo": -2,
+    "determinant": 175,
+    "H1_invariant_factors": [
+      5,
+      35
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      7,
+      10
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2594",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      4,
+      7
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_2933",
+    "signature_KnotInfo": -2,
+    "determinant": 375,
+    "H1_invariant_factors": [
+      5,
+      75
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3118",
+    "signature_KnotInfo": -2,
+    "determinant": 475,
+    "H1_invariant_factors": [
+      5,
+      95
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      4,
+      8
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3131",
+    "signature_KnotInfo": -2,
+    "determinant": 375,
+    "H1_invariant_factors": [
+      5,
+      75
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      3,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3302",
+    "signature_KnotInfo": 0,
+    "determinant": 425,
+    "H1_invariant_factors": [
+      5,
+      85
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      2,
+      6
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3407",
+    "signature_KnotInfo": 0,
+    "determinant": 425,
+    "H1_invariant_factors": [
+      5,
+      85
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      2,
+      7
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3581",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      1,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_3613",
+    "signature_KnotInfo": 0,
+    "determinant": 325,
+    "H1_invariant_factors": [
+      5,
+      65
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      1,
+      5
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  },
+  {
+    "name": "13a_4030",
+    "signature_KnotInfo": 2,
+    "determinant": 375,
+    "H1_invariant_factors": [
+      5,
+      75
+    ],
+    "certified_lower_bound": 3,
+    "recorded_prior_upper_bound": 3,
+    "independently_replayed_upper_bound": 3,
+    "computed_exact_unknotting_number": 3,
+    "crossing_triple_0based": [
+      0,
+      2,
+      8
+    ],
+    "prior_range_source": "frozen arxiv_v2 AppendixF cohort, not a newly verified upper certificate",
+    "ua_pinned_export": "",
+    "lower_proof": "complete binary BF obstruction; independent finite negative replay and fresh-PD matrix transfer",
+    "named_identity_scope": "frozen name-to-PD table, unsigned bound also holds for mirror"
+  }
+]

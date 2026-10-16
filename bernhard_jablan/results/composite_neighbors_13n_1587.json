@@ -1,0 +1,461 @@
+[
+ {
+  "ref": "13a_811",
+  "subset": [
+   10,
+   11,
+   12
+  ],
+  "crossing": 4,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_811",
+  "subset": [
+   10,
+   11,
+   12
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2129",
+  "subset": [
+   4,
+   5,
+   6
+  ],
+  "crossing": 4,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2129",
+  "subset": [
+   4,
+   5,
+   6
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2129",
+  "subset": [
+   4,
+   5,
+   6
+  ],
+  "crossing": 6,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_1728",
+  "subset": [
+   5,
+   6,
+   7,
+   10,
+   11,
+   12
+  ],
+  "crossing": 6,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_1952",
+  "subset": [
+   4,
+   5,
+   6,
+   9,
+   10,
+   11,
+   12
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2105",
+  "subset": [
+   4,
+   5,
+   6,
+   12
+  ],
+  "crossing": 4,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2105",
+  "subset": [
+   4,
+   5,
+   6,
+   12
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_1947",
+  "subset": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_1947",
+  "subset": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "crossing": 6,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   },
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   }
+  ]
+ },
+ {
+  "ref": "13a_2582",
+  "subset": [
+   4,
+   5,
+   6,
+   10,
+   12
+  ],
+  "crossing": 5,
+  "total_signature": 4,
+  "summands": [
+   {
+    "crossings": 5,
+    "hfk_total_rank": 7,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "5_2"
+    ],
+    "snappy_identify": [
+     "m015(0,0)",
+     "5_2(0,0)",
+     "K3_2(0,0)",
+     "K5a1(0,0)"
+    ],
+    "nontrivial": true
+   },
+   {
+    "crossings": 3,
+    "hfk_total_rank": 3,
+    "seifert_genus": 1,
+    "hfk_matches": [
+     "3_1"
+    ],
+    "snappy_identify": [],
+    "nontrivial": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,190 @@
+{
+ "13n_3596": {
+  "names": [
+   "SFS [S2: (3,2) (5,1) (5,-4)]"
+  ],
+  "visited": 801,
+  "seconds": 1.1
+ },
+ "13n_352": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 79.4
+ },
+ "13n_358": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 80.0
+ },
+ "13n_330": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 80.9
+ },
+ "13n_345": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 82.4
+ },
+ "13n_347": {
+  "names": [],
+  "visited": 173410,
+  "seconds": 84.5
+ },
+ "13n_326": {
+  "names": [],
+  "visited": 171776,
+  "seconds": 84.7
+ },
+ "13n_348": {
+  "names": [],
+  "visited": 171776,
+  "seconds": 85.5
+ },
+ "13n_360": {
+  "names": [],
+  "visited": 210000,
+  "seconds": 101.7
+ },
+ "13n_3739": {
+  "names": [],
+  "visited": 164140,
+  "seconds": 84.5
+ },
+ "13n_3743": {
+  "names": [],
+  "visited": 166446,
+  "seconds": 85.7
+ },
+ "13n_3741": {
+  "names": [],
+  "visited": 175574,
+  "seconds": 89.0
+ },
+ "13n_3745": {
+  "names": [],
+  "visited": 164140,
+  "seconds": 85.3
+ },
+ "13n_3749": {
+  "names": [],
+  "visited": 166446,
+  "seconds": 87.3
+ },
+ "13n_3744": {
+  "names": [],
+  "visited": 173818,
+  "seconds": 90.6
+ },
+ "13n_3747": {
+  "names": [],
+  "visited": 175574,
+  "seconds": 90.2
+ },
+ "13n_3750": {
+  "names": [],
+  "visited": 173818,
+  "seconds": 87.9
+ },
+ "13n_3770": {
+  "names": [],
+  "visited": 164140,
+  "seconds": 84.6
+ },
+ "13n_3774": {
+  "names": [],
+  "visited": 166446,
+  "seconds": 84.9
+ },
+ "13n_3772": {
+  "names": [],
+  "visited": 175574,
+  "seconds": 89.6
+ },
+ "13n_3775": {
+  "names": [],
+  "visited": 173818,
+  "seconds": 88.8
+ },
+ "13n_3776": {
+  "names": [],
+  "visited": 164140,
+  "seconds": 85.8
+ },
+ "13n_446": {
+  "names": [
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ -1,1 | 2,-3 ]"
+  ],
+  "visited": 26285,
+  "seconds": 11.0
+ },
+ "13n_3780": {
+  "names": [],
+  "visited": 166446,
+  "seconds": 85.3
+ },
+ "13n_468": {
+  "names": [
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1)], m = [ 3,1 | 2,1 ]"
+  ],
+  "visited": 17924,
+  "seconds": 7.1
+ },
+ "13n_3778": {
+  "names": [],
+  "visited": 175574,
+  "seconds": 90.9
+ },
+ "13n_3781": {
+  "names": [],
+  "visited": 173818,
+  "seconds": 89.4
+ },
+ "13n_514": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 83.7
+ },
+ "13n_689": {
+  "names": [
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1)], m = [ 2,3 | 1,2 ]"
+  ],
+  "visited": 2218,
+  "seconds": 0.9
+ },
+ "13n_521": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 84.7
+ },
+ "13n_526": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 82.6
+ },
+ "13n_523": {
+  "names": [],
+  "visited": 173410,
+  "seconds": 85.9
+ },
+ "13n_524": {
+  "names": [],
+  "visited": 171776,
+  "seconds": 86.7
+ },
+ "13n_531": {
+  "names": [],
+  "visited": 163200,
+  "seconds": 84.2
+ },
+ "13n_510": {
+  "names": [],
+  "visited": 210000,
+  "seconds": 103.1
+ },
+ "13n_533": {
+  "names": [],
+  "visited": 173410,
+  "seconds": 81.6
+ }
+}

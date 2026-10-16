@@ -1,0 +1,19 @@
+{
+  "independent_method": "HNF representatives + stdlib Fraction Gaussian inverse + literal Lemma5.2 bounds + 96 direct residue bases + full pair and subgroup search; no project imports",
+  "records": 44,
+  "claimed19_originals_and_mirrors": 38,
+  "controls": [
+    "10_6",
+    "10_11",
+    "11a_293"
+  ],
+  "verdicts": {
+    "ALL_PATTERNS_EXCLUDED": 38,
+    "SURVIVES": 6
+  },
+  "all_frozen_verdicts_agree": true,
+  "all_frozen_patterns_agree": true,
+  "all_negative_candidate_lists_agree": true,
+  "counterexamples": [],
+  "code_sha256": "7852a288c058701508704237306bee4760ef5646ad4fa9b10af82ce67430a03b"
+}

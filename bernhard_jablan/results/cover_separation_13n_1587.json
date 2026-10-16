@@ -1,0 +1,1107 @@
+{
+"target": "13n_1587",
+"dmax": 5,
+"target_invariant": {
+"2": [
+"Z/75 + Z"
+],
+"3": [
+"Z + Z",
+"Z/41 + Z/41 + Z"
+],
+"4": [
+"Z/11 + Z/110 + Z",
+"Z/17 + Z/1275 + Z"
+],
+"5": [
+"Z + Z + Z",
+"Z/13 + Z + Z",
+"Z/15 + Z + Z",
+"Z/2 + Z + Z",
+"Z/2 + Z + Z",
+"Z/2 + Z/2 + Z/218 + Z/218 + Z",
+"Z/36 + Z + Z"
+]
+},
+"rows": [
+{
+"ref": "13a_89",
+"subset": [
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_449",
+"subset": [
+4,
+5,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_619",
+"subset": [
+4,
+5,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_619",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_650",
+"subset": [
+3,
+4
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_656",
+"subset": [
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_677",
+"subset": [
+3,
+4,
+6,
+7,
+8,
+9
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_681",
+"subset": [
+3,
+4,
+6,
+7,
+8,
+9,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_685",
+"subset": [
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_689",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_1451",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_2187",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2188",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2190",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2257",
+"subset": [
+9,
+10,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2258",
+"subset": [
+9,
+10
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2347",
+"subset": [
+4,
+5,
+6,
+7,
+8,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_2357",
+"subset": [
+4,
+5,
+6,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_2510",
+"subset": [
+3,
+4,
+5,
+6,
+7,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_2510",
+"subset": [
+4,
+5,
+6,
+7,
+8,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"prior": "ACCEPTED",
+"snappy": [
+"K13n1587(0,0)"
+],
+"cover_invariant_equal": true,
+"first_differing_degree": null
+},
+{
+"ref": "13a_2886",
+"subset": [
+5,
+6,
+7,
+8,
+9,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2888",
+"subset": [
+5,
+6,
+7,
+8,
+9,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_2891",
+"subset": [
+5,
+6,
+7,
+8,
+9
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_3085",
+"subset": [
+3,
+4,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_3529",
+"subset": [
+3,
+4,
+8,
+9,
+10
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3590",
+"subset": [
+1,
+2,
+3,
+7,
+8,
+9,
+10
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3622",
+"subset": [
+2,
+3,
+6,
+7,
+8,
+9
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3622",
+"subset": [
+2,
+3,
+4,
+6,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3626",
+"subset": [
+6,
+7
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3693",
+"subset": [
+1,
+2,
+3,
+4
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3693",
+"subset": [
+1,
+2,
+3,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3694",
+"subset": [
+2,
+3,
+4,
+6
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3694",
+"subset": [
+2,
+3,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3699",
+"subset": [
+1,
+2,
+3,
+4,
+7
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_3708",
+"subset": [
+6,
+7,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3747",
+"subset": [
+2,
+3,
+4,
+8,
+9
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"11_187(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 3
+},
+{
+"ref": "13a_3791",
+"subset": [
+1,
+2
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_3801",
+"subset": [
+1,
+2,
+3,
+5,
+6,
+7,
+8
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3822",
+"subset": [
+1,
+2,
+3,
+4
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_3868",
+"subset": [
+1,
+2,
+8
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_3886",
+"subset": [
+1,
+2,
+3,
+5,
+6,
+7,
+8,
+9,
+10,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_3947",
+"subset": [
+2,
+3,
+4,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4155",
+"subset": [
+1,
+2,
+3,
+5,
+6,
+7,
+8,
+9,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4165",
+"subset": [
+2,
+3,
+8,
+9,
+10,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4167",
+"subset": [
+2,
+3,
+4,
+10,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4196",
+"subset": [
+1,
+2,
+3,
+4
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4197",
+"subset": [
+8,
+9,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4204",
+"subset": [
+2,
+3,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4208",
+"subset": [
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4487",
+"subset": [
+1,
+2,
+3,
+4,
+9,
+10
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4502",
+"subset": [
+1,
+2,
+3,
+5,
+6,
+11
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4624",
+"subset": [
+1,
+2
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4641",
+"subset": [
+3,
+4,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+},
+{
+"ref": "13a_4700",
+"subset": [
+2,
+3,
+6
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4700",
+"subset": [
+2,
+3,
+4,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4719",
+"subset": [
+2,
+3,
+6,
+7,
+8,
+10,
+11,
+12
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n195(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 4
+},
+{
+"ref": "13a_4848",
+"subset": [
+9,
+10
+],
+"prior": "UNRESOLVED",
+"snappy": [
+"K13n1409(0,0)"
+],
+"cover_invariant_equal": false,
+"first_differing_degree": 2
+}
+]
+}

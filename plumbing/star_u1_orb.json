@@ -1,0 +1,396 @@
+{
+ "12n_309": {
+  "sigma2": "SFS [S2: (2,1) (5,1) (7,-5)]",
+  "det": 1,
+  "in_v2_greene": null,
+  "search": {
+   "total": 29,
+   "det": 1,
+   "negdef": 1,
+   "linking": 1,
+   "regina": 1,
+   "seconds": 0
+  },
+  "plumbing": {
+   "weights": [
+    -1,
+    -2,
+    -5,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [S2: (2,1) (5,1) (7,-5)]"
+  },
+  "verdict": "PASS",
+  "hf_red_ranks": [
+   2
+  ],
+  "L": "4",
+  "R": "4",
+  "cw_signs": [
+   1
+  ],
+  "link_sign": 1,
+  "cw_consistent": true
+ },
+ "13n_1316": {
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "det": 9,
+  "in_v2_greene": null,
+  "search": {
+   "total": 51,
+   "det": 1,
+   "negdef": 1,
+   "linking": 1,
+   "regina": 1,
+   "seconds": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+  },
+  "verdict": "OBSTRUCTED",
+  "hf_red_ranks": [
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "L": "56/3",
+  "R": "56/3",
+  "cw_signs": [
+   1
+  ],
+  "link_sign": 1,
+  "cw_consistent": true
+ },
+ "13n_2296": {
+  "sigma2": "SFS [S2: (3,1) (4,1) (9,-7)]",
+  "det": 21,
+  "in_v2_greene": null,
+  "search": {
+   "total": 57,
+   "det": 1,
+   "negdef": 1,
+   "linking": 1,
+   "regina": 1,
+   "seconds": 0
+  },
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -4,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [S2: (3,1) (4,1) (9,-7)]"
+  },
+  "verdict": "OBSTRUCTED_HF",
+  "hf_red_ranks": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "L": "16/3",
+  "R": "-16/3",
+  "cw_signs": [
+   -1
+  ],
+  "link_sign": -1,
+  "cw_consistent": true
+ },
+ "13n_3163": {
+  "sigma2": "SFS [S2: (3,1) (5,1) (7,-5)]",
+  "det": 19,
+  "in_v2_greene": null,
+  "search": {
+   "total": 57,
+   "det": 1,
+   "negdef": 1,
+   "linking": 1,
+   "regina": 1,
+   "seconds": 0
+  },
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -5,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [S2: (3,1) (5,1) (7,-5)]"
+  },
+  "verdict": "OBSTRUCTED_HF",
+  "hf_red_ranks": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "L": "11/2",
+  "R": "-11/2",
+  "cw_signs": [
+   -1
+  ],
+  "link_sign": -1,
+  "cw_consistent": true
+ },
+ "13n_574": {
+  "sigma2": "SFS [S2: (3,1) (5,2) (9,-4)]",
+  "det": 39,
+  "in_v2_greene": null,
+  "search": {
+   "total": 55,
+   "det": 1,
+   "negdef": 1,
+   "linking": 1,
+   "regina": 1,
+   "seconds": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [S2: (3,1) (5,2) (9,-4)]"
+  },
+  "verdict": "OBSTRUCTED",
+  "hf_red_ranks": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "L": "157/6",
+  "R": "157/6",
+  "cw_signs": [
+   1
+  ],
+  "link_sign": 1,
+  "cw_consistent": true
+ }
+}

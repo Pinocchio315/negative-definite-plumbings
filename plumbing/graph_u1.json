@@ -1,0 +1,3741 @@
+{
+ "12n_19": {
+  "det": 1,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 0,
+     "negdef": 0,
+     "linking": 0,
+     "regina": 0,
+     "seconds": 1
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 1
+ },
+ "12n_230": {
+  "det": 19,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 0,
+     "negdef": 0,
+     "linking": 0,
+     "regina": 0,
+     "seconds": 1
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 1
+ },
+ "12n_184": {
+  "det": 43,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72571,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -3,
+    -3,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "1/2",
+  "hf_box": 248832,
+  "seconds": 2
+ },
+ "12n_195": {
+  "det": 19,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73089,
+     "det": 11,
+     "negdef": 11,
+     "linking": 11,
+     "regina": 11,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "1/2",
+  "hf_box": 233280,
+  "seconds": 3
+ },
+ "12n_346": {
+  "det": 13,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73607,
+     "det": 13,
+     "negdef": 13,
+     "linking": 7,
+     "regina": 7,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "0",
+  "hf_box": 233280,
+  "seconds": 3
+ },
+ "12n_437": {
+  "det": 29,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 14,
+     "negdef": 14,
+     "linking": 8,
+     "regina": 8,
+     "seconds": 4
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 4
+ },
+ "12n_132": {
+  "det": 49,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 7
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 605052,
+     "det": 4,
+     "negdef": 4,
+     "linking": 4,
+     "regina": 4,
+     "seconds": 8
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 8
+ },
+ "12n_258": {
+  "det": 15,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]",
+    "stats": {
+     "total": 207200,
+     "det": 45,
+     "negdef": 45,
+     "linking": 36,
+     "regina": 36,
+     "seconds": 7
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 7
+ },
+ "12n_456": {
+  "det": 17,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 16,
+     "negdef": 16,
+     "linking": 5,
+     "regina": 5,
+     "seconds": 4
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 4
+ },
+ "12n_51": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 15
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72830,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 559872,
+  "seconds": 2
+ },
+ "12n_82": {
+  "det": 35,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 36311,
+     "det": 5,
+     "negdef": 5,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -4,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "1/2",
+  "hf_box": 233280,
+  "seconds": 3
+ },
+ "12n_210": {
+  "det": 1,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 38,
+     "negdef": 38,
+     "linking": 38,
+     "regina": 38,
+     "seconds": 12
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 12
+ },
+ "13n_1231": {
+  "det": 29,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]": 6
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73089,
+     "det": 6,
+     "negdef": 6,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -5,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 279936,
+  "seconds": 5
+ },
+ "12n_87": {
+  "det": 49,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 7
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 605052,
+     "det": 4,
+     "negdef": 4,
+     "linking": 4,
+     "regina": 4,
+     "seconds": 8
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 8
+ },
+ "13n_1226": {
+  "det": 7,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73089,
+     "det": 2,
+     "negdef": 2,
+     "linking": 2,
+     "regina": 2,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "1/2",
+  "hf_box": 1679616,
+  "seconds": 6
+ },
+ "13n_1236": {
+  "det": 35,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72830,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -3,
+    -2,
+    -4,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "-1/2",
+  "hf_box": 311040,
+  "seconds": 3
+ },
+ "13n_125": {
+  "det": 59,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72571,
+     "det": 7,
+     "negdef": 7,
+     "linking": 7,
+     "regina": 7,
+     "seconds": 4
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -3,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "1/2",
+  "hf_box": 746496,
+  "seconds": 8
+ },
+ "13n_1337": {
+  "det": 51,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 6,
+     "negdef": 6,
+     "linking": 0,
+     "regina": 0,
+     "seconds": 4
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 9
+ },
+ "13n_1505": {
+  "det": 11,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,0 ]": 15
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 0,
+     "negdef": 0,
+     "linking": 0,
+     "regina": 0,
+     "seconds": 1
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 1
+ },
+ "13n_1576": {
+  "det": 3,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]": 16
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]": 16
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 36829,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 0
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4,
+    -3,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "1/2",
+  "hf_box": 699840,
+  "seconds": 3
+ },
+ "13n_158": {
+  "det": 1,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72830,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "2",
+  "hf_box": 1679616,
+  "seconds": 5
+ },
+ "13n_1618": {
+  "det": 11,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73607,
+     "det": 5,
+     "negdef": 5,
+     "linking": 5,
+     "regina": 5,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -3,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "1/2",
+  "hf_box": 746496,
+  "seconds": 4
+ },
+ "13n_1674": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 15
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 44,
+     "negdef": 44,
+     "linking": 24,
+     "regina": 24,
+     "seconds": 5
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 6
+ },
+ "13n_1087": {
+  "det": 51,
+  "names_sigma2": {},
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 41,
+     "negdef": 41,
+     "linking": 25,
+     "regina": 25,
+     "seconds": 35
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 35
+ },
+ "13n_1351": {
+  "det": 47,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 13,
+     "negdef": 13,
+     "linking": 13,
+     "regina": 13,
+     "seconds": 19
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 25
+ },
+ "13n_1128": {
+  "det": 39,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 6
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 67,
+     "negdef": 67,
+     "linking": 16,
+     "regina": 16,
+     "seconds": 43
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 43
+ },
+ "13n_1658": {
+  "det": 27,
+  "names_sigma2": {
+   "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 92,
+     "negdef": 92,
+     "linking": 78,
+     "regina": 78,
+     "seconds": 20
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 22
+ },
+ "13n_2276": {
+  "det": 19,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 73607,
+     "det": 6,
+     "negdef": 6,
+     "linking": 6,
+     "regina": 6,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "1/2",
+  "hf_box": 699840,
+  "seconds": 4
+ },
+ "13n_172": {
+  "det": 49,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {},
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 11,
+     "negdef": 11,
+     "linking": 11,
+     "regina": 11,
+     "seconds": 19
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 20
+ },
+ "13n_2249": {
+  "det": 61,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 7
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 11,
+     "negdef": 11,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 14
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 16
+ },
+ "13n_2611": {
+  "det": 43,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 4,
+     "negdef": 4,
+     "linking": 4,
+     "regina": 4,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 7
+ },
+ "13n_2376": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "names_mirror": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 414400,
+     "det": 134,
+     "negdef": 134,
+     "linking": 88,
+     "regina": 88,
+     "seconds": 13
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 14
+ },
+ "13n_2950": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "names_mirror": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]": 16
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 146645,
+     "det": 13,
+     "negdef": 13,
+     "linking": 13,
+     "regina": 13,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 699840,
+  "seconds": 5
+ },
+ "13n_2992": {
+  "det": 11,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 7,
+     "negdef": 7,
+     "linking": 7,
+     "regina": 7,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 3
+ },
+ "13n_2645": {
+  "det": 55,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,2)], m = [ 0,1 | 1,0 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,2)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 18,
+     "negdef": 18,
+     "linking": 9,
+     "regina": 9,
+     "seconds": 9
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 15
+ },
+ "13n_1777": {
+  "det": 31,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 7
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 50,
+     "negdef": 50,
+     "linking": 50,
+     "regina": 50,
+     "seconds": 33
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 34
+ },
+ "13n_315": {
+  "det": 53,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]": 2
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 36311,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -5,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 279936,
+  "seconds": 8
+ },
+ "12n_141": {
+  "det": 57,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 105,
+     "negdef": 105,
+     "linking": 50,
+     "regina": 50,
+     "seconds": 83
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 84
+ },
+ "13n_3173": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (5,3)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (5,3)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 414400,
+     "det": 138,
+     "negdef": 138,
+     "linking": 100,
+     "regina": 100,
+     "seconds": 13
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 14
+ },
+ "13n_3181": {
+  "det": 61,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]": 12
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 8,
+     "negdef": 8,
+     "linking": 2,
+     "regina": 2,
+     "seconds": 6
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 12
+ },
+ "13n_318": {
+  "det": 79,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | -1,0 ]": 3
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | -1,0 ]": 4
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | -1,0 ]",
+    "stats": {
+     "total": 605052,
+     "det": 4,
+     "negdef": 4,
+     "linking": 4,
+     "regina": 4,
+     "seconds": 8
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 15
+ },
+ "13n_36": {
+  "det": 19,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 10,
+     "negdef": 10,
+     "linking": 10,
+     "regina": 10,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 4
+ },
+ "13n_322": {
+  "det": 31,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 605052,
+     "det": 28,
+     "negdef": 28,
+     "linking": 28,
+     "regina": 28,
+     "seconds": 14
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 17
+ },
+ "13n_3782": {
+  "det": 13,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {},
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 68,
+     "negdef": 68,
+     "linking": 27,
+     "regina": 27,
+     "seconds": 16
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 16
+ },
+ "13n_2968": {
+  "det": 45,
+  "names_sigma2": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 414400,
+     "det": 128,
+     "negdef": 128,
+     "linking": 54,
+     "regina": 54,
+     "seconds": 48
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 53
+ },
+ "13n_388": {
+  "det": 13,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,3)], m = [ 0,1 | 1,0 ]": 15
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,3)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 103600,
+     "det": 14,
+     "negdef": 14,
+     "linking": 5,
+     "regina": 5,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 3
+ },
+ "13n_3885": {
+  "det": 31,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 5,
+     "negdef": 5,
+     "linking": 5,
+     "regina": 5,
+     "seconds": 3
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 4
+ },
+ "13n_2458": {
+  "det": 21,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 2420208,
+     "det": 203,
+     "negdef": 203,
+     "linking": 115,
+     "regina": 115,
+     "seconds": 73
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 74
+ },
+ "13n_369": {
+  "det": 41,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 6
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 54,
+     "negdef": 54,
+     "linking": 17,
+     "regina": 17,
+     "seconds": 38
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 39
+ },
+ "13n_3287": {
+  "det": 69,
+  "names_sigma2": {
+   "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "names_mirror": {
+   "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 414400,
+     "det": 61,
+     "negdef": 61,
+     "linking": 30,
+     "regina": 30,
+     "seconds": 39
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 45
+ },
+ "13n_396": {
+  "det": 5,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]": 10
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 36570,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 0
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -3,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "0",
+  "hf_box": 746496,
+  "seconds": 3
+ },
+ "13n_3752": {
+  "det": 79,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 23,
+     "negdef": 23,
+     "linking": 23,
+     "regina": 23,
+     "seconds": 37
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 39
+ },
+ "13n_412": {
+  "det": 1,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]": 11
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]": 13
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 36570,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 0
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "2",
+  "hf_box": 1679616,
+  "seconds": 5
+ },
+ "13n_440": {
+  "det": 81,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 70758,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -4,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "0",
+  "hf_box": 699840,
+  "seconds": 6
+ },
+ "13n_449": {
+  "det": 81,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 4
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 70758,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -4,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "0",
+  "hf_box": 699840,
+  "seconds": 7
+ },
+ "13n_453": {
+  "det": 11,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 10,
+     "negdef": 10,
+     "linking": 10,
+     "regina": 10,
+     "seconds": 7
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 7
+ },
+ "13n_3846": {
+  "det": 47,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "names_mirror": {},
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 28,
+     "negdef": 28,
+     "linking": 28,
+     "regina": 28,
+     "seconds": 29
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 30
+ },
+ "13n_478": {
+  "det": 11,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 10,
+     "negdef": 10,
+     "linking": 10,
+     "regina": 10,
+     "seconds": 7
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 7
+ },
+ "13n_487": {
+  "det": 19,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 24,
+     "negdef": 24,
+     "linking": 24,
+     "regina": 24,
+     "seconds": 11
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 11
+ },
+ "13n_456": {
+  "det": 67,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 605052,
+     "det": 19,
+     "negdef": 19,
+     "linking": 19,
+     "regina": 19,
+     "seconds": 21
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 23
+ },
+ "13n_547": {
+  "det": 31,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 5
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 605052,
+     "det": 28,
+     "negdef": 28,
+     "linking": 28,
+     "regina": 28,
+     "seconds": 14
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 17
+ },
+ "13n_567": {
+  "det": 31,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]",
+    "stats": {
+     "total": 53664,
+     "det": 6,
+     "negdef": 6,
+     "linking": 6,
+     "regina": 6,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -6,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "1/2",
+  "hf_box": 1469664,
+  "seconds": 7
+ },
+ "13n_611": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 12
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+    "stats": {
+     "total": 95623,
+     "det": 9,
+     "negdef": 9,
+     "linking": 9,
+     "regina": 9,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -4,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 2,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 155520,
+  "seconds": 2
+ },
+ "13n_3937": {
+  "det": 73,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "names_mirror": {},
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 40,
+     "negdef": 40,
+     "linking": 8,
+     "regina": 8,
+     "seconds": 41
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 42
+ },
+ "13n_612": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+    "stats": {
+     "total": 95623,
+     "det": 9,
+     "negdef": 9,
+     "linking": 9,
+     "regina": 9,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -4,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 2,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 155520,
+  "seconds": 2
+ },
+ "13n_746": {
+  "det": 35,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]": 6
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 3,
+     "negdef": 3,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 5
+ },
+ "13n_751": {
+  "det": 25,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72830,
+     "det": 6,
+     "negdef": 6,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 2
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2,
+    -3,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "+",
+   "orientation_ambiguous": true,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 746496,
+  "seconds": 5
+ },
+ "13n_475": {
+  "det": 89,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 7
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 34,
+     "negdef": 34,
+     "linking": 20,
+     "regina": 20,
+     "seconds": 42
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 44
+ },
+ "13n_496": {
+  "det": 41,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 54,
+     "negdef": 54,
+     "linking": 17,
+     "regina": 17,
+     "seconds": 38
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 39
+ },
+ "13n_783": {
+  "det": 25,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,0 ]": 14
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 207200,
+     "det": 3,
+     "negdef": 3,
+     "linking": 0,
+     "regina": 0,
+     "seconds": 2
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 3
+ },
+ "13n_761": {
+  "det": 69,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]": 8
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72571,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -4,
+    -3,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 311040,
+  "seconds": 11
+ },
+ "13n_737": {
+  "det": 49,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 10
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 24,
+     "negdef": 24,
+     "linking": 24,
+     "regina": 24,
+     "seconds": 24
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 26
+ },
+ "13n_860": {
+  "det": 77,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]": 5
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 72571,
+     "det": 9,
+     "negdef": 9,
+     "linking": 9,
+     "regina": 9,
+     "seconds": 7
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -3,
+    -2,
+    -3,
+    -3,
+    -4,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "OBSTRUCTED",
+  "d_spin": "0",
+  "hf_box": 311040,
+  "seconds": 10
+ },
+ "13n_557": {
+  "det": 89,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 7
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 34,
+     "negdef": 34,
+     "linking": 20,
+     "regina": 20,
+     "seconds": 41
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 43
+ },
+ "13n_863": {
+  "det": 3,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 15,
+     "negdef": 15,
+     "linking": 15,
+     "regina": 15,
+     "seconds": 12
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 12
+ },
+ "13n_93": {
+  "det": 69,
+  "names_sigma2": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]": 5
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]": 4
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]",
+    "stats": {
+     "total": 207200,
+     "det": 13,
+     "negdef": 13,
+     "linking": 7,
+     "regina": 7,
+     "seconds": 9
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 12
+ },
+ "13n_973": {
+  "det": 9,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 1
+  },
+  "names_mirror": {},
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+    "stats": {
+     "total": 207200,
+     "det": 66,
+     "negdef": 66,
+     "linking": 40,
+     "regina": 40,
+     "seconds": 5
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 7
+ },
+ "13n_872": {
+  "det": 49,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 10
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 24,
+     "negdef": 24,
+     "linking": 24,
+     "regina": 24,
+     "seconds": 25
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 26
+ },
+ "13n_979": {
+  "det": 81,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 6
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 6
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 70758,
+     "det": 1,
+     "negdef": 1,
+     "linking": 1,
+     "regina": 1,
+     "seconds": 1
+    }
+   }
+  ],
+  "plumbing": {
+   "weights": [
+    -5,
+    -4,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     10,
+     1
+    ]
+   ],
+   "orientation": "-",
+   "orientation_ambiguous": false,
+   "identified_by": "name",
+   "regina_name_of_plumbing": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+   "kind": "pair"
+  },
+  "bad_vertices": 1,
+  "verdict": "PASS (d only)",
+  "d_spin": "0",
+  "hf_box": 699840,
+  "seconds": 6
+ },
+ "13n_741": {
+  "det": 71,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 86,
+     "negdef": 86,
+     "linking": 86,
+     "regina": 86,
+     "seconds": 86
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 88
+ },
+ "13n_954": {
+  "det": 71,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 8
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 9
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+    "stats": {
+     "total": 1210104,
+     "det": 86,
+     "negdef": 86,
+     "linking": 86,
+     "regina": 86,
+     "seconds": 85
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 87
+ },
+ "13n_876": {
+  "det": 27,
+  "names_sigma2": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 2420208,
+     "det": 474,
+     "negdef": 474,
+     "linking": 140,
+     "regina": 140,
+     "seconds": 177
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 178
+ },
+ "13n_951": {
+  "det": 27,
+  "names_sigma2": {},
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 2420208,
+     "det": 474,
+     "negdef": 474,
+     "linking": 140,
+     "regina": 140,
+     "seconds": 177
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 178
+ },
+ "13n_988": {
+  "det": 27,
+  "names_sigma2": {},
+  "names_mirror": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "shapes": 1,
+  "searches": [
+   {
+    "shape_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+    "stats": {
+     "total": 2420208,
+     "det": 474,
+     "negdef": 474,
+     "linking": 140,
+     "regina": 140,
+     "seconds": 177
+    }
+   }
+  ],
+  "verdict": "NO PLUMBING",
+  "seconds": 177
+ }
+}

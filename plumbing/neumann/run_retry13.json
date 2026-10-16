@@ -1,0 +1,447 @@
+{
+ "12n_522": {
+  "D": 23,
+  "sigma": 2,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "star"
+  ],
+  "applicability": "APPLICABLE",
+  "pplus": {
+   "+": 1,
+   "-": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ]
+   ]
+  },
+  "link_orientation": 1,
+  "L": "17/2",
+  "R": "17/2",
+  "cw_signs": [
+   1
+  ],
+  "cw_consistent": true,
+  "test": "owens",
+  "verdict": "PASS",
+  "owens": {
+   "L": "17/2",
+   "R": "17/2",
+   "cw_signs": [
+    1
+   ],
+   "verdict": "PASS",
+   "forms": 2,
+   "group": [
+    23
+   ],
+   "s_expected": 1,
+   "d_spin": "-1/2",
+   "passing_plus": [
+    [
+     1,
+     12,
+     0
+    ]
+   ],
+   "passing_minus": [],
+   "undecided": 0,
+   "pattern": "(1,1) [n=1]",
+   "traczyk_excludes_02": false,
+   "traczyk_eps": 1,
+   "dim3": 0
+  },
+  "seconds": 0.7
+ },
+ "13n_3594": {
+  "D": 25,
+  "sigma": 0,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "star"
+  ],
+  "applicability": "APPLICABLE",
+  "pplus": {
+   "+": 1,
+   "-": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ]
+   ]
+  },
+  "link_orientation": 0,
+  "L": "12",
+  "R": "12",
+  "cw_signs": [
+   1
+  ],
+  "cw_consistent": true,
+  "test": null,
+  "verdict": "NO TEST (sigma)",
+  "seconds": 7.5
+ },
+ "13n_3764": {
+  "D": 13,
+  "sigma": 0,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 1,
+   "+-+": 1,
+   "-+-": 2,
+   "---": 2
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.5
+ },
+ "13n_3782": {
+  "D": 13,
+  "sigma": 0,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 1,
+   "+-+": 1,
+   "-+-": 2,
+   "---": 2
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.5
+ },
+ "13n_413": {
+  "D": 37,
+  "sigma": -4,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ },
+ "13n_420": {
+  "D": 31,
+  "sigma": -2,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ },
+ "13n_3939": {
+  "D": 71,
+  "sigma": 2,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 1,
+   "---": 2
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.6
+ },
+ "13n_459": {
+  "D": 19,
+  "sigma": 2,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 2,
+   "+-+": 2,
+   "-+-": 1,
+   "---": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.5
+ },
+ "13n_584": {
+  "D": 21,
+  "sigma": 4,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ },
+ "13n_586": {
+  "D": 15,
+  "sigma": -2,
+  "u": [
+   2,
+   3
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "APPLICABLE",
+  "pplus": {
+   "++": 2,
+   "--": 0
+  },
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  "link_orientation": 1,
+  "L": "77/6",
+  "R": "77/6",
+  "cw_signs": [
+   1
+  ],
+  "cw_consistent": true,
+  "test": "owens",
+  "verdict": "PASS",
+  "owens": {
+   "L": "77/6",
+   "R": "77/6",
+   "cw_signs": [
+    1
+   ],
+   "verdict": "PASS",
+   "forms": 2,
+   "group": [
+    3,
+    5
+   ],
+   "s_expected": -1,
+   "d_spin": "1/2",
+   "passing_plus": [],
+   "passing_minus": [
+    [
+     2,
+     3,
+     0
+    ]
+   ],
+   "undecided": 0,
+   "pattern": "(1,1) [n=1]",
+   "traczyk_excludes_02": false,
+   "traczyk_eps": 1,
+   "dim3": 1
+  },
+  "seconds": 1.4
+ },
+ "13n_936": {
+  "D": 51,
+  "sigma": 2,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 1,
+   "---": 2
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.5
+ },
+ "13n_939": {
+  "D": 49,
+  "sigma": 0,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "triple"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+++": 1,
+   "---": 2
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 1.5
+ },
+ "13n_99": {
+  "D": 29,
+  "sigma": 0,
+  "u": [
+   1,
+   2
+  ],
+  "kinds": [
+   "pair"
+  ],
+  "applicability": "NOT APPLICABLE",
+  "pplus": {
+   "+-": 1,
+   "-+": 1
+  },
+  "verdict": "NOT APPLICABLE",
+  "seconds": 0.0
+ }
+}

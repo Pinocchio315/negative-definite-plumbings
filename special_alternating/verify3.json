@@ -1,0 +1,53 @@
+{
+ "13a_4770": {
+  "sign": 1,
+  "sigma": -8,
+  "unknotting_sets_up_to_4": 0,
+  "five_set": [
+   0,
+   2,
+   3,
+   4,
+   5
+  ],
+  "five_set_pi1": [
+   1,
+   0
+  ],
+  "KnotInfo_u": "[4,5]"
+ },
+ "13a_4787": {
+  "sign": 1,
+  "sigma": -8,
+  "unknotting_sets_up_to_4": 0,
+  "five_set": [
+   0,
+   1,
+   2,
+   9,
+   10
+  ],
+  "five_set_pi1": [
+   1,
+   0
+  ],
+  "KnotInfo_u": "[4,5]"
+ },
+ "13a_4801": {
+  "sign": 1,
+  "sigma": -8,
+  "unknotting_sets_up_to_4": 0,
+  "five_set": [
+   0,
+   1,
+   4,
+   5,
+   6
+  ],
+  "five_set_pi1": [
+   1,
+   0
+  ],
+  "KnotInfo_u": "[4,5]"
+ }
+}

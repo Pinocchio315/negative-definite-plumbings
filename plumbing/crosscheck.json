@@ -1,0 +1,392 @@
+{
+ "star": {
+  "13n_1286": {
+   "det": 33,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+   "H1_orbifold": "Z/33",
+   "names_equal": true,
+   "L": "52/3",
+   "R": "-52/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1083": {
+   "det": 69,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+   "H1_orbifold": "Z/69",
+   "names_equal": true,
+   "L": "52/3",
+   "R": "-52/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1059": {
+   "det": 27,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "H1_orbifold": "Z/27",
+   "names_equal": true,
+   "L": "121/6",
+   "R": "-121/6",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1062": {
+   "det": 27,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "H1_orbifold": "Z/27",
+   "names_equal": true,
+   "L": "121/6",
+   "R": "121/6",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1314": {
+   "det": 33,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+   "H1_orbifold": "Z/33",
+   "names_equal": true,
+   "L": "52/3",
+   "R": "-52/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1287": {
+   "det": 9,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+   "H1_orbifold": "Z/9",
+   "names_equal": true,
+   "L": "56/3",
+   "R": "-56/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1313": {
+   "det": 9,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+   "H1_orbifold": "Z/9",
+   "names_equal": true,
+   "L": "56/3",
+   "R": "-56/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1002": {
+   "det": 43,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (29,-17)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (29,-17)]",
+   "H1_orbifold": "Z/43",
+   "names_equal": true,
+   "L": "43/2",
+   "R": "43/2",
+   "hf_red_ranks_nonzero": [],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1496": {
+   "det": 1,
+   "verdict": "PASS",
+   "name_star_u1": "SFS [S2: (2,1) (7,2) (9,-7)]",
+   "name_orbifold": "SFS [S2: (2,1) (7,2) (9,-7)]",
+   "H1_orbifold": "0",
+   "names_equal": true,
+   "L": "8",
+   "R": "-8",
+   "hf_red_ranks_nonzero": [
+    3
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true
+  },
+  "13n_2300": {
+   "det": 1,
+   "verdict": "PASS",
+   "name_star_u1": "SFS [S2: (3,1) (7,2) (8,-5)]",
+   "name_orbifold": "SFS [S2: (3,1) (7,2) (8,-5)]",
+   "H1_orbifold": "0",
+   "names_equal": true,
+   "L": "12",
+   "R": "-12",
+   "hf_red_ranks_nonzero": [
+    6
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true
+  },
+  "13n_1354": {
+   "det": 35,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (5,2) (5,2) (8,-5)]",
+   "name_orbifold": "SFS [S2: (5,2) (5,2) (8,-5)]",
+   "H1_orbifold": "Z/35",
+   "names_equal": true,
+   "L": "51/2",
+   "R": "51/2",
+   "hf_red_ranks_nonzero": [
+    1,
+    1
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_2559": {
+   "det": 47,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (7,3) (9,-5)]",
+   "name_orbifold": "SFS [S2: (2,1) (7,3) (9,-5)]",
+   "H1_orbifold": "Z/47",
+   "names_equal": true,
+   "L": "15/2",
+   "R": "15/2",
+   "hf_red_ranks_nonzero": [],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_1435": {
+   "det": 9,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (7,2) (11,-8)]",
+   "name_orbifold": "SFS [S2: (2,1) (7,2) (11,-8)]",
+   "H1_orbifold": "Z/9",
+   "names_equal": true,
+   "L": "40/3",
+   "R": "40/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_571": {
+   "det": 5,
+   "verdict": "PASS",
+   "name_star_u1": "SFS [S2: (3,1) (5,2) (10,-7)]",
+   "name_orbifold": "SFS [S2: (3,1) (5,2) (10,-7)]",
+   "H1_orbifold": "Z/5",
+   "names_equal": true,
+   "L": "12",
+   "R": "12",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true
+  },
+  "13n_931": {
+   "det": 27,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+   "H1_orbifold": "Z/27",
+   "names_equal": true,
+   "L": "121/6",
+   "R": "-121/6",
+   "hf_red_ranks_nonzero": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_968": {
+   "det": 69,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+   "name_orbifold": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+   "H1_orbifold": "Z/69",
+   "names_equal": true,
+   "L": "52/3",
+   "R": "-52/3",
+   "hf_red_ranks_nonzero": [
+    1,
+    1
+   ],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_560": {
+   "det": 27,
+   "verdict": "OBSTRUCTED_HF",
+   "name_star_u1": "SFS [S2: (3,1) (5,2) (12,-7)]",
+   "name_orbifold": "SFS [S2: (3,1) (5,2) (12,-7)]",
+   "H1_orbifold": "Z/27",
+   "names_equal": true,
+   "L": "121/6",
+   "R": "121/6",
+   "hf_red_ranks_nonzero": [
+    1,
+    1
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  },
+  "13n_577": {
+   "det": 1,
+   "verdict": "PASS",
+   "name_star_u1": "SFS [S2: (3,1) (5,2) (11,-8)]",
+   "name_orbifold": "SFS [S2: (3,1) (5,2) (11,-8)]",
+   "H1_orbifold": "0",
+   "names_equal": true,
+   "L": "12",
+   "R": "12",
+   "hf_red_ranks_nonzero": [
+    5
+   ],
+   "cw_signs": [
+    1
+   ],
+   "link_sign": 1,
+   "link_ambiguous": true,
+   "cw_consistent": true
+  },
+  "13n_1588": {
+   "det": 23,
+   "verdict": "OBSTRUCTED",
+   "name_star_u1": "SFS [S2: (2,1) (7,2) (11,-7)]",
+   "name_orbifold": "SFS [S2: (2,1) (7,2) (11,-7)]",
+   "H1_orbifold": "Z/23",
+   "names_equal": true,
+   "L": "39/2",
+   "R": "-39/2",
+   "hf_red_ranks_nonzero": [],
+   "cw_signs": [
+    -1
+   ],
+   "link_sign": -1,
+   "link_ambiguous": false,
+   "cw_consistent": true
+  }
+ }
+}

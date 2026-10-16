@@ -1,0 +1,4382 @@
+{
+ "12n_522": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_524": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.071747203350422,
+  "H1": "Z/91",
+  "old": "hyperbolic"
+ },
+ "12n_527": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.98677378877415,
+  "H1": "Z/93",
+  "old": "hyperbolic"
+ },
+ "12n_531": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.7784113216734996,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "12n_265": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_282": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.14269579183921,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "12n_314": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.378063908284166,
+  "H1": "Z/55",
+  "old": "hyperbolic"
+ },
+ "12n_318": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.516221380418248,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "12n_443": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8022537822618574,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "12n_449": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7951597015169423,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "12n_509": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5854830479569646,
+  "H1": "Z/7 + Z/7",
+  "old": "hyperbolic"
+ },
+ "12n_519": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.7589634386754183,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "12n_382": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.413976024045649,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "12n_411": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5274184773160875,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "12n_416": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.9709840073185845,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "12n_432": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.08713782294371,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "12n_631": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.5296368851561715,
+  "H1": "Z/81",
+  "old": "hyperbolic"
+ },
+ "12n_634": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.564118902861566,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "12n_690": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_701": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4181464888257205,
+  "H1": "Z/3 + Z/21",
+  "old": "hyperbolic"
+ },
+ "12n_557": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.6776243784891163,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "12n_569": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.509777290968759,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "12n_629": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.4594860822931945,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "12n_630": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.475585524782822,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "11n_116": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9122102500524318,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "11n_173": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.920304592627025,
+  "H1": "Z/45",
+  "old": "hyperbolic"
+ },
+ "12n_202": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_253": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_351": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1293466776405436,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "12n_354": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.087137822943711,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "12n_361": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5621063651050404,
+  "H1": "Z/73",
+  "old": "hyperbolic"
+ },
+ "12n_377": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.5760006865165535,
+  "H1": "Z/39",
+  "old": "hyperbolic"
+ },
+ "12n_803": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.796299123810325,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "12n_804": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4209474085087246,
+  "H1": "Z/95",
+  "old": "hyperbolic"
+ },
+ "12n_805": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.358480528232681,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "12n_808": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.8145085670992405,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "12n_707": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.84722380058565,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "12n_769": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.164400025210668,
+  "H1": "Z/87",
+  "old": "hyperbolic"
+ },
+ "12n_791": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.128654098264988,
+  "H1": "Z/93",
+  "old": "hyperbolic"
+ },
+ "12n_793": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.3084800759929216,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "12n_818": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8507960813569686,
+  "H1": "Z/91",
+  "old": "hyperbolic"
+ },
+ "12n_833": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.75535221939907,
+  "H1": "Z/99",
+  "old": "hyperbolic"
+ },
+ "12n_835": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.1713204013225,
+  "H1": "Z/13",
+  "old": "hyperbolic"
+ },
+ "12n_844": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.2680326736028045,
+  "H1": "Z/5 + Z/15",
+  "old": "hyperbolic"
+ },
+ "12n_811": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.957616686117644,
+  "H1": "Z/63",
+  "old": "hyperbolic"
+ },
+ "12n_812": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.214901772225403,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "12n_814": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.951152252492572,
+  "H1": "Z/95",
+  "old": "hyperbolic"
+ },
+ "12n_815": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.402033305772217,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "12n_854": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.057038003010938,
+  "H1": "Z/143",
+  "old": "hyperbolic"
+ },
+ "12n_855": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9225930390003376,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "12n_856": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.7657163052182558,
+  "H1": "Z/55",
+  "old": "hyperbolic"
+ },
+ "12n_859": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.4926901441905,
+  "H1": "Z/149",
+  "old": "hyperbolic"
+ },
+ "13n_1007": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1009": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1010": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1011": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1022": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1029": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1030": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1033": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "12n_868": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.333489566898119,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "12n_873": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.632359752635642,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "12n_881": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.7135368138846365,
+  "H1": "Z/11 + Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_1004": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1038": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1041": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1043": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1048": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1175": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1181": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1200": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1218": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1050": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1051": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1091": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1095": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1240": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1242": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1245": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1251": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1096": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1097": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1099": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1100": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1257": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1271": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1272": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1273": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1275": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1277": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1278": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1279": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1441": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1652467237000046,
+  "H1": "Z/13",
+  "old": "hyperbolic"
+ },
+ "13n_1467": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.3550983380772843,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_1469": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.640367188384134,
+  "H1": "Z/51",
+  "old": "hyperbolic"
+ },
+ "13n_1474": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.183106936260692,
+  "H1": "Z/25",
+  "old": "hyperbolic"
+ },
+ "13n_1475": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8516914219026104,
+  "H1": "Z/87",
+  "old": "hyperbolic"
+ },
+ "13n_1526": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.399417683706421,
+  "H1": "Z/39",
+  "old": "hyperbolic"
+ },
+ "13n_1541": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.6646126469258973,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_1550": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2038861952151114,
+  "H1": "Z/71",
+  "old": "hyperbolic"
+ },
+ "13n_1300": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1304": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1325": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1328": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1329": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1330": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1348": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1371": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1607": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.678707457422886,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_1616": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.417611468178123,
+  "H1": "Z/49",
+  "old": "hyperbolic"
+ },
+ "13n_1625": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.652016183326986,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_1639": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.609396399398398,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_1372": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1376": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1387": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1391": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_1646": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8733431175561837,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "13n_1687": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.503144097178707,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_1690": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.665506256646051,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_1694": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.52367777647756,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_1717": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.1883063705462575,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_1720": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.199482038746236,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_1735": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.5883713854548067,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_1736": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.6976950515832296,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_1739": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.116968736386067,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_1780": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.7065218138257,
+  "H1": "Z/71",
+  "old": "hyperbolic"
+ },
+ "13n_1799": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6490056174759076,
+  "H1": "Z/69",
+  "old": "hyperbolic"
+ },
+ "13n_1804": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.055081855077808,
+  "H1": "Z/111",
+  "old": "hyperbolic"
+ },
+ "13n_1830": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.521644354853128,
+  "H1": "Z/51",
+  "old": "hyperbolic"
+ },
+ "13n_1848": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.084187843200188,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "13n_1849": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8409485927750824,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_1868": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.651687738648393,
+  "H1": "Z/71",
+  "old": "hyperbolic"
+ },
+ "13n_1911": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.600360881372866,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "13n_1912": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.6453254728406943,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "13n_1915": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.670361473073484,
+  "H1": "Z/29",
+  "old": "hyperbolic"
+ },
+ "13n_1917": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.377075582460313,
+  "H1": "Z/123",
+  "old": "hyperbolic"
+ },
+ "13n_1888": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.90115618104943,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_1899": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.376089767055116,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_1901": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.9209138938399235,
+  "H1": "Z/59",
+  "old": "hyperbolic"
+ },
+ "13n_1906": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.493610832435424,
+  "H1": "Z/57",
+  "old": "hyperbolic"
+ },
+ "13n_1805": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.387976082804415,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_1806": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.987375137228528,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "13n_1815": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.4284225559858665,
+  "H1": "Z/59",
+  "old": "hyperbolic"
+ },
+ "13n_1816": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.993374192687776,
+  "H1": "Z/55",
+  "old": "hyperbolic"
+ },
+ "13n_1988": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.3142948570374156,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_1995": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.905668648997479,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_1999": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.313021639575447,
+  "H1": "Z/3",
+  "old": "hyperbolic"
+ },
+ "13n_2003": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.53313354346072,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_1955": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.73735874449055,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "13n_1957": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.686034273802613,
+  "H1": "Z/29",
+  "old": "hyperbolic"
+ },
+ "13n_1959": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.198969938243489,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_1962": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.2571020111092635,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_1944": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.2395916778086935,
+  "H1": "Z/87",
+  "old": "hyperbolic"
+ },
+ "13n_1948": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.958951809288346,
+  "H1": "Z/59",
+  "old": "hyperbolic"
+ },
+ "13n_1950": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.047045182796977,
+  "H1": "Z/217",
+  "old": "hyperbolic"
+ },
+ "13n_1953": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.304658692931754,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_2004": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.592336555289675,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_2033": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8733431175561828,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_2051": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.027229010346258,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_2079": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.774463323884638,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_2094": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.379039335511872,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_2104": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.7033389578519635,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_2105": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.827232853495253,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_2117": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.135635891132287,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_2127": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2713456390220284,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2133": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.960770585526209,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_2134": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.878115053110403,
+  "H1": "Z/45",
+  "old": "hyperbolic"
+ },
+ "13n_2140": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.2260120245603785,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_2256": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.035221492206605,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_2266": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.306257385483534,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2279": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.616846799430557,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_2282": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8775934276716044,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2121": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.986188838986031,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_2122": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7457263086053363,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2123": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.402343983417396,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_2125": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.69709385736682,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_2230": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.9701318245484023,
+  "H1": "Z/29",
+  "old": "hyperbolic"
+ },
+ "13n_2233": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.472937682368666,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_2253": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.494475636988001,
+  "H1": "Z/113",
+  "old": "hyperbolic"
+ },
+ "13n_2255": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.561682015620122,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2153": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.9819091438194514,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_2159": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.772922404271653,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_217": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2178": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.522551136935937,
+  "H1": "Z/157",
+  "old": "hyperbolic"
+ },
+ "13n_2303": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.131535000085069,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_2310": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.88397202518518,
+  "H1": "Z/95",
+  "old": "hyperbolic"
+ },
+ "13n_2333": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.080486856664112,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_2343": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.832296786755827,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_2471": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5861181554691943,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_2472": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4760120973811315,
+  "H1": "Z/69",
+  "old": "hyperbolic"
+ },
+ "13n_2475": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.651134670470446,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_2480": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1147290372429133,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_2344": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.187393525785205,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_2442": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.897421086984302,
+  "H1": "Z/73",
+  "old": "hyperbolic"
+ },
+ "13n_2445": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.436011232335554,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_2454": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2482": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0853965620557195,
+  "H1": "Z/143",
+  "old": "hyperbolic"
+ },
+ "13n_2485": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.108827439370378,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "13n_2486": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8254478957904956,
+  "H1": "Z/63",
+  "old": "hyperbolic"
+ },
+ "13n_2494": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.947272314415667,
+  "H1": "Z/157",
+  "old": "hyperbolic"
+ },
+ "13n_2496": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8328755461670103,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_2498": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.609500975977721,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_2502": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2810509420994416,
+  "H1": "Z/161",
+  "old": "hyperbolic"
+ },
+ "13n_2522": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.316978251499552,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_2190": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.847597813986229,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "13n_2195": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 3,
+  "volume": 4.912751542863161,
+  "H1": "Z/161",
+  "old": "hyperbolic"
+ },
+ "13n_2202": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.987084993169037,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_2222": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.174006424901871,
+  "H1": "Z/51",
+  "old": "hyperbolic"
+ },
+ "13n_2527": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2424198815977827,
+  "H1": "Z/5",
+  "old": "hyperbolic"
+ },
+ "13n_2533": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.618694511205153,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_2542": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.988474505123801,
+  "H1": "Z/87",
+  "old": "hyperbolic"
+ },
+ "13n_2546": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.123192154854537,
+  "H1": "Z/73",
+  "old": "hyperbolic"
+ },
+ "13n_2548": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.035621315464362,
+  "H1": "Z/125",
+  "old": "hyperbolic"
+ },
+ "13n_2556": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8258309060985414,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_2562": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.564187496955334,
+  "H1": "Z/183",
+  "old": "hyperbolic"
+ },
+ "13n_2586": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.183935960970815,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "13n_2599": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.385386796258094,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "13n_2613": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6586859967842678,
+  "H1": "Z/3 + Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_2622": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.714720844454981,
+  "H1": "Z/5",
+  "old": "hyperbolic"
+ },
+ "13n_2632": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.322296579659507,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_2589": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.118313651088213,
+  "H1": "Z/215",
+  "old": "hyperbolic"
+ },
+ "13n_2592": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.037757282446645,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_2594": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.320424074751859,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "13n_2595": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7503935744919974,
+  "H1": "Z/157",
+  "old": "hyperbolic"
+ },
+ "13n_2647": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5453748273336414,
+  "H1": "Z/159",
+  "old": "hyperbolic"
+ },
+ "13n_2648": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.4715512660199392,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_2649": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.4534892652129123,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_2669": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.771665543473439,
+  "H1": "Z/239",
+  "old": "hyperbolic"
+ },
+ "13n_2735": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.441614169375878,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_2738": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.323547523830099,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_2745": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.084052254759727,
+  "H1": "Z/123",
+  "old": "hyperbolic"
+ },
+ "13n_2757": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2672": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.506207323286231,
+  "H1": "Z/241",
+  "old": "hyperbolic"
+ },
+ "13n_2677": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.057853150735358,
+  "H1": "Z/161",
+  "old": "hyperbolic"
+ },
+ "13n_2683": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.512376025478907,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_2695": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.796931661764401,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_2719": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.288708070954926,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_2728": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.539941080433177,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "13n_2731": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.863322274710873,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_2734": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.456851031510248,
+  "H1": "Z/63",
+  "old": "hyperbolic"
+ },
+ "13n_2784": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.867164718962938,
+  "H1": "Z/5",
+  "old": "hyperbolic"
+ },
+ "13n_2794": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.260843463918843,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_2797": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2644466082723778,
+  "H1": "Z/63",
+  "old": "hyperbolic"
+ },
+ "13n_2798": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1440268504935807,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_2758": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2767": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.225295120615814,
+  "H1": "Z/91",
+  "old": "hyperbolic"
+ },
+ "13n_2769": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 2,
+  "volume": 3.119308896621903,
+  "H1": "Z/3",
+  "old": "hyperbolic"
+ },
+ "13n_2779": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0774088132268647,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_2800": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.4399016536960247,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_2808": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.512474698325061,
+  "H1": "Z/259",
+  "old": "hyperbolic"
+ },
+ "13n_2810": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.179858802571711,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_2828": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.878243452443874,
+  "H1": "Z/65",
+  "old": "hyperbolic"
+ },
+ "13n_3077": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.181572232948018,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_3081": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.050522101975677,
+  "H1": "Z/107",
+  "old": "hyperbolic"
+ },
+ "13n_3084": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.07799672862599,
+  "H1": "Z/25",
+  "old": "hyperbolic"
+ },
+ "13n_3089": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.576767997218198,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_3238": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7254515187782222,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_3239": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.967568130225924,
+  "H1": "Z/65",
+  "old": "hyperbolic"
+ },
+ "13n_3242": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.880399848430661,
+  "H1": "Z/41",
+  "old": "hyperbolic"
+ },
+ "13n_3247": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.6754260797456206,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_2849": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.747043623746022,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_2872": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.5391081485456066,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "13n_2911": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0859040747779405,
+  "H1": "Z/13",
+  "old": "hyperbolic"
+ },
+ "13n_2943": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3149": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.798760981564513,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_3192": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.2726318635865588,
+  "H1": "Z/13",
+  "old": "hyperbolic"
+ },
+ "13n_3225": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.954727093644972,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_3227": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.330386431370124,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "13n_3104": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.033446893461067,
+  "H1": "Z/143",
+  "old": "hyperbolic"
+ },
+ "13n_3115": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.371860187883012,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_3119": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.130108542307598,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_3124": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.88569596979743,
+  "H1": "Z/65",
+  "old": "hyperbolic"
+ },
+ "13n_2974": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2975": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2976": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_2989": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.778279514691011,
+  "H1": "Z/175",
+  "old": "hyperbolic"
+ },
+ "13n_2995": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.618485693062246,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_3023": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.270275838176124,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_3039": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 3.203460308068567,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "13n_3076": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.1976126832259535,
+  "H1": "Z/93",
+  "old": "hyperbolic"
+ },
+ "13n_3250": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7912609238704493,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_3254": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.044584823909356,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_3257": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.67863918703743,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_326": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_330": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3301": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6736337263978576,
+  "H1": "Z/7",
+  "old": "hyperbolic"
+ },
+ "13n_3311": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4931195293533865,
+  "H1": "Z/69",
+  "old": "hyperbolic"
+ },
+ "13n_3312": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.674264903472363,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_3343": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8535209185476234,
+  "H1": "Z/63",
+  "old": "hyperbolic"
+ },
+ "13n_3346": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.9679380001345863,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "13n_3347": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.692557800994218,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_3375": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.710169701344867,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "13n_3315": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3317": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.148514252599037,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "13n_3319": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.5180429550976164,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_3332": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.570488782178566,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "13n_3280": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.695227147617494,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_3282": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.971124224325122,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_3297": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 4.113257224073622,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_3298": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.48211899311445,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_345": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3466": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.967450857465475,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_3467": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.3663290999946587,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_3469": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9578878017053607,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_3377": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.982840899689132,
+  "H1": "Z/213",
+  "old": "hyperbolic"
+ },
+ "13n_3383": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.434912416105329,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_3386": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.295032843138252,
+  "H1": "Z/5 + Z/25",
+  "old": "hyperbolic"
+ },
+ "13n_3410": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_348": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3507": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3510": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3511": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3413": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.957552370642804,
+  "H1": "Z/79",
+  "old": "hyperbolic"
+ },
+ "13n_3421": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.8699963028346955,
+  "H1": "Z/55",
+  "old": "hyperbolic"
+ },
+ "13n_3428": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.378166804865029,
+  "H1": "Z/65",
+  "old": "hyperbolic"
+ },
+ "13n_3449": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.653837277194899,
+  "H1": "Z/139",
+  "old": "hyperbolic"
+ },
+ "13n_3554": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0361673877857567,
+  "H1": "Z/55",
+  "old": "hyperbolic"
+ },
+ "13n_3558": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.984321107413479,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_3562": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.399463958319078,
+  "H1": "Z/57",
+  "old": "hyperbolic"
+ },
+ "13n_3567": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.007809735821618,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_347": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3470": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.334268588715164,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_3477": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.886368647717577,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_3479": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.168368563736046,
+  "H1": "Z/79",
+  "old": "hyperbolic"
+ },
+ "13n_3512": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3517": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_352": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3524": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3539": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.277705785404132,
+  "H1": "Z/95",
+  "old": "hyperbolic"
+ },
+ "13n_3541": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.191077383209125,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_3545": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.800646400971045,
+  "H1": "Z/49",
+  "old": "hyperbolic"
+ },
+ "13n_3550": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.702212597028978,
+  "H1": "Z/91",
+  "old": "hyperbolic"
+ },
+ "13n_3577": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.374271270853176,
+  "H1": "Z/81",
+  "old": "hyperbolic"
+ },
+ "13n_3578": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 6.294104563693887,
+  "H1": "Z/49",
+  "old": "hyperbolic"
+ },
+ "13n_358": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3582": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.7586201607788925,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_3648": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.081512395911673,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_3653": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.702608772629281,
+  "H1": "Z/153",
+  "old": "hyperbolic"
+ },
+ "13n_3658": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3661": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.346384789207844,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_3601": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.7198968587560897,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_3612": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.154007667603773,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_3624": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.248552607856647,
+  "H1": "Z/49",
+  "old": "hyperbolic"
+ },
+ "13n_3630": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.716804086473195,
+  "H1": "Z/81",
+  "old": "hyperbolic"
+ },
+ "13n_3663": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.725401585109003,
+  "H1": "Z/3",
+  "old": "hyperbolic"
+ },
+ "13n_3664": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.9031370647706884,
+  "H1": "Z/99",
+  "old": "hyperbolic"
+ },
+ "13n_3675": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.232260134503353,
+  "H1": "Z/181",
+  "old": "hyperbolic"
+ },
+ "13n_3676": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.759314587822224,
+  "H1": "Z/97",
+  "old": "hyperbolic"
+ },
+ "13n_3677": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.200481696732147,
+  "H1": "Z/41",
+  "old": "hyperbolic"
+ },
+ "13n_3687": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6890404166915487,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_3688": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.477155584778948,
+  "H1": "Z/113",
+  "old": "hyperbolic"
+ },
+ "13n_3690": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.2710417987721385,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_3693": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.8873785153494915,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_3697": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.05465738327736,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_3698": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.021330524793329,
+  "H1": "Z/57",
+  "old": "hyperbolic"
+ },
+ "13n_3700": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.041416238117305,
+  "H1": "Z/3 + Z/33",
+  "old": "hyperbolic"
+ },
+ "13n_3713": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.941557807811064,
+  "H1": "Z/125",
+  "old": "hyperbolic"
+ },
+ "13n_3721": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.044817725987529,
+  "H1": "Z/255",
+  "old": "hyperbolic"
+ },
+ "13n_3724": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3728": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0840682196447218,
+  "H1": "Z/111",
+  "old": "hyperbolic"
+ },
+ "13n_3583": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.519184906629893,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_3594": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3596": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_360": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3750": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3764": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3770": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3772": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3735": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1295268184115197,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_3739": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3741": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3743": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3744": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3745": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3747": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3749": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3702": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.680352119703468,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_3703": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.138846672196052,
+  "H1": "Z/223",
+  "old": "hyperbolic"
+ },
+ "13n_3709": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.650052348693146,
+  "H1": "Z/193",
+  "old": "hyperbolic"
+ },
+ "13n_3712": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.024297677053613,
+  "H1": "Z/193",
+  "old": "hyperbolic"
+ },
+ "13n_3774": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3775": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3776": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3778": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3810": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3812": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3814": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3826": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3780": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3781": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3782": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3793": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2193844239924694,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_3843": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3847": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3850": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3851": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3828": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3832": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3840": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3842": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3856": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3857": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3863": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3864": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3865": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3873": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3884": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4636821238719966,
+  "H1": "Z/75",
+  "old": "hyperbolic"
+ },
+ "13n_3887": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3888": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3892": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3894": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3895": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3896": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3912": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3915": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3935": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3990": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.462389610338642,
+  "H1": "Z/113",
+  "old": "hyperbolic"
+ },
+ "13n_3997": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.013683333332685,
+  "H1": "Z/41",
+  "old": "hyperbolic"
+ },
+ "13n_3998": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.858685776922011,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_4010": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.288342216192094,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_3939": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_3951": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.292356372574753,
+  "H1": "Z/43",
+  "old": "hyperbolic"
+ },
+ "13n_3962": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.451680653255782,
+  "H1": "Z/47",
+  "old": "hyperbolic"
+ },
+ "13n_3963": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.757547668182886,
+  "H1": "Z/49",
+  "old": "hyperbolic"
+ },
+ "13n_4028": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.532463195147068,
+  "H1": "Z/79",
+  "old": "hyperbolic"
+ },
+ "13n_4032": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4033": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.8124424619671125,
+  "H1": "Z/157",
+  "old": "hyperbolic"
+ },
+ "13n_4036": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.141498353111672,
+  "H1": "Z/71",
+  "old": "hyperbolic"
+ },
+ "13n_4079": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.36996637643178,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_4085": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.923837656799791,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_4096": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.535947650054095,
+  "H1": "Z/83",
+  "old": "hyperbolic"
+ },
+ "13n_4104": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.116968736386066,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_4050": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.443071415247232,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_4058": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4067": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.169186625859191,
+  "H1": "Z/153",
+  "old": "hyperbolic"
+ },
+ "13n_4074": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.023124279585409,
+  "H1": "Z/163",
+  "old": "hyperbolic"
+ },
+ "13n_3965": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.057892026490336,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_3975": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.698515613148154,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_3981": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.012472996064581,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_3982": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 8.365685050071248,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_4105": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.90646483130028,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_4115": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.4805465230606565,
+  "H1": "Z/81",
+  "old": "hyperbolic"
+ },
+ "13n_4117": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.537319675387824,
+  "H1": "Z/167",
+  "old": "hyperbolic"
+ },
+ "13n_413": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_420": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4200": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.240180244932538,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "13n_4206": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.561979784205057,
+  "H1": "Z/51",
+  "old": "hyperbolic"
+ },
+ "13n_4207": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.666849453868769,
+  "H1": "Z/185",
+  "old": "hyperbolic"
+ },
+ "13n_4223": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.7195297528103435,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_4226": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.217272256572117,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_4229": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.457018880336004,
+  "H1": "Z/109",
+  "old": "hyperbolic"
+ },
+ "13n_4231": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.907572590406915,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_4132": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.713536813884639,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_4162": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.060162482360569,
+  "H1": "Z/147",
+  "old": "hyperbolic"
+ },
+ "13n_4179": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.52953387732973,
+  "H1": "Z/217",
+  "old": "hyperbolic"
+ },
+ "13n_4181": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.0375144028757255,
+  "H1": "Z/141",
+  "old": "hyperbolic"
+ },
+ "13n_4233": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.26823748629236,
+  "H1": "Z/107",
+  "old": "hyperbolic"
+ },
+ "13n_4235": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.828567029875074,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_4238": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.108865101740787,
+  "H1": "Z/67",
+  "old": "hyperbolic"
+ },
+ "13n_4241": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.253219662116794,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_4253": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.824459116233197,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_4283": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.989001525007579,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_4298": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.410983833554297,
+  "H1": "Z/25",
+  "old": "hyperbolic"
+ },
+ "13n_4304": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.3371467364196805,
+  "H1": "Z/11",
+  "old": "hyperbolic"
+ },
+ "13n_4309": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.171502408693057,
+  "H1": "Z/173",
+  "old": "hyperbolic"
+ },
+ "13n_4317": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.754717550204296,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_4324": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.3804721444560935,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_4332": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.20330725625473,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_4354": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.212604075035661,
+  "H1": "Z/147",
+  "old": "hyperbolic"
+ },
+ "13n_4359": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.1369947439393675,
+  "H1": "Z/129",
+  "old": "hyperbolic"
+ },
+ "13n_4360": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.212464758702194,
+  "H1": "Z/123",
+  "old": "hyperbolic"
+ },
+ "13n_4364": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.0178270647643646,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_4343": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.575528427165568,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_4345": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.869837436725213,
+  "H1": "Z/93",
+  "old": "hyperbolic"
+ },
+ "13n_4349": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.638036768902647,
+  "H1": "Z/103",
+  "old": "hyperbolic"
+ },
+ "13n_4353": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.284348875335371,
+  "H1": "Z/3 + Z/51",
+  "old": "hyperbolic"
+ },
+ "13n_4366": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.9748166549952963,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_4367": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.03784367720166,
+  "H1": "Z/115",
+  "old": "hyperbolic"
+ },
+ "13n_4371": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.405279694291585,
+  "H1": "Z/87",
+  "old": "hyperbolic"
+ },
+ "13n_4373": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.6177900531772895,
+  "H1": "Z/53",
+  "old": "hyperbolic"
+ },
+ "13n_4377": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.346250947171227,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "13n_4379": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.207897573625722,
+  "H1": "Z/61",
+  "old": "hyperbolic"
+ },
+ "13n_4386": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.671568320302465,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_4390": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.567196819853938,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_446": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4461": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.857807368053871,
+  "H1": "Z/81",
+  "old": "hyperbolic"
+ },
+ "13n_4462": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.977941131142847,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_4466": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.292646175279433,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_4435": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 8.387369654255608,
+  "H1": "Z/265",
+  "old": "hyperbolic"
+ },
+ "13n_4443": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.420161429396309,
+  "H1": "Z/77",
+  "old": "hyperbolic"
+ },
+ "13n_4455": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4611501833413563,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_4456": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.4877989951031503,
+  "H1": "Z/115",
+  "old": "hyperbolic"
+ },
+ "13n_4396": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 8.137030666848364,
+  "H1": "Z/135",
+  "old": "hyperbolic"
+ },
+ "13n_4404": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 4.671828728319112,
+  "H1": "Z/137",
+  "old": "hyperbolic"
+ },
+ "13n_4405": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.371509185648022,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_4407": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.843640430040655,
+  "H1": "Z/181",
+  "old": "hyperbolic"
+ },
+ "13n_4473": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.4778589622707985,
+  "H1": "Z/141",
+  "old": "hyperbolic"
+ },
+ "13n_4475": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.861050029902755,
+  "H1": "Z/37",
+  "old": "hyperbolic"
+ },
+ "13n_4480": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.2942269010982566,
+  "H1": "Z/229",
+  "old": "hyperbolic"
+ },
+ "13n_4486": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.164599377420191,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_4489": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.428399783340259,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_4499": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.54937481758804,
+  "H1": "Z/91",
+  "old": "hyperbolic"
+ },
+ "13n_4501": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.9311990343251284,
+  "H1": "Z/57",
+  "old": "hyperbolic"
+ },
+ "13n_4515": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.953376875195289,
+  "H1": "Z/147",
+  "old": "hyperbolic"
+ },
+ "13n_4541": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.454382027737888,
+  "H1": "Z/191",
+  "old": "hyperbolic"
+ },
+ "13n_4552": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.332592844667781,
+  "H1": "Z/155",
+  "old": "hyperbolic"
+ },
+ "13n_4561": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.529115137483226,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_4571": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.1941263427185245,
+  "H1": "Z/39",
+  "old": "hyperbolic"
+ },
+ "13n_4520": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.8507339169539865,
+  "H1": "Z/249",
+  "old": "hyperbolic"
+ },
+ "13n_4522": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.899166853843019,
+  "H1": "Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_4531": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.5259561966614665,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_4539": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.905910821013893,
+  "H1": "Z/13",
+  "old": "hyperbolic"
+ },
+ "13n_4572": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.7593230022800554,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_4578": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.9494288141367555,
+  "H1": "Z/17",
+  "old": "hyperbolic"
+ },
+ "13n_4582": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.361836728352209,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_4588": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.539375260579855,
+  "H1": "Z/119",
+  "old": "hyperbolic"
+ },
+ "13n_459": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4591": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.463813579641478,
+  "H1": "0",
+  "old": "hyperbolic"
+ },
+ "13n_4595": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.4295042557582756,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "13n_4607": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.467824684442643,
+  "H1": "Z/29",
+  "old": "hyperbolic"
+ },
+ "13n_4667": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.207712464552048,
+  "H1": "Z/171",
+  "old": "hyperbolic"
+ },
+ "13n_468": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_4681": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.085204957495685,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_4687": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.970693807782074,
+  "H1": "Z/73",
+  "old": "hyperbolic"
+ },
+ "13n_4612": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.000980320889283,
+  "H1": "Z/85",
+  "old": "hyperbolic"
+ },
+ "13n_4620": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.756946371759708,
+  "H1": "Z/21",
+  "old": "hyperbolic"
+ },
+ "13n_4622": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.557141210582682,
+  "H1": "Z/177",
+  "old": "hyperbolic"
+ },
+ "13n_4626": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.215162962108353,
+  "H1": "Z/127",
+  "old": "hyperbolic"
+ },
+ "13n_4634": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.95550547183029,
+  "H1": "Z/19",
+  "old": "hyperbolic"
+ },
+ "13n_4637": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 7.935129680270003,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_4638": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.44546099083271,
+  "H1": "Z/29",
+  "old": "hyperbolic"
+ },
+ "13n_4643": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.738504477506209,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_4717": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.006406064929401,
+  "H1": "Z/195",
+  "old": "hyperbolic"
+ },
+ "13n_4725": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1084335265435517,
+  "H1": "Z/117",
+  "old": "hyperbolic"
+ },
+ "13n_4731": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1013984360839157,
+  "H1": "Z/153",
+  "old": "hyperbolic"
+ },
+ "13n_4737": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9392684602226873,
+  "H1": "Z/15",
+  "old": "hyperbolic"
+ },
+ "13n_4698": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.71198302846724,
+  "H1": "Z/95",
+  "old": "hyperbolic"
+ },
+ "13n_4708": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.777126686588401,
+  "H1": "Z/23",
+  "old": "hyperbolic"
+ },
+ "13n_4714": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.80516583953065,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_4715": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.1168721824951926,
+  "H1": "Z/3 + Z/45",
+  "old": "hyperbolic"
+ },
+ "13n_4645": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 8.089111591217804,
+  "H1": "Z/189",
+  "old": "hyperbolic"
+ },
+ "13n_4646": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6708654347464997,
+  "H1": "Z/175",
+  "old": "hyperbolic"
+ },
+ "13n_4650": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.346316827273583,
+  "H1": "Z/143",
+  "old": "hyperbolic"
+ },
+ "13n_4658": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.425460485907938,
+  "H1": "Z/45",
+  "old": "hyperbolic"
+ },
+ "13n_4738": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.8932154816443756,
+  "H1": "Z/5",
+  "old": "hyperbolic"
+ },
+ "13n_4762": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.7091341968892975,
+  "H1": "Z/223",
+  "old": "hyperbolic"
+ },
+ "13n_4766": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.084038439290666,
+  "H1": "Z/45",
+  "old": "hyperbolic"
+ },
+ "13n_4776": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.730854997474705,
+  "H1": "Z/69",
+  "old": "hyperbolic"
+ },
+ "13n_4791": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.6117764510190846,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_4793": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.3243328915659145,
+  "H1": "Z/73",
+  "old": "hyperbolic"
+ },
+ "13n_4802": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.0461052358251335,
+  "H1": "Z/45",
+  "old": "hyperbolic"
+ },
+ "13n_4828": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.52343492235827,
+  "H1": "Z/75",
+  "old": "hyperbolic"
+ },
+ "13n_4902": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.275147422916058,
+  "H1": "Z/141",
+  "old": "hyperbolic"
+ },
+ "13n_4904": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.54578365126595,
+  "H1": "Z/127",
+  "old": "hyperbolic"
+ },
+ "13n_4905": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.841185658389808,
+  "H1": "Z/241",
+  "old": "hyperbolic"
+ },
+ "13n_4928": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.503608143812581,
+  "H1": "Z/143",
+  "old": "hyperbolic"
+ },
+ "13n_4834": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.506886822609179,
+  "H1": "Z/193",
+  "old": "hyperbolic"
+ },
+ "13n_4865": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.462077346822827,
+  "H1": "Z/105",
+  "old": "hyperbolic"
+ },
+ "13n_4881": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.8726450766969,
+  "H1": "Z/133",
+  "old": "hyperbolic"
+ },
+ "13n_4885": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.712705916084649,
+  "H1": "Z/187",
+  "old": "hyperbolic"
+ },
+ "13n_4887": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.3847712194471224,
+  "H1": "Z/183",
+  "old": "hyperbolic"
+ },
+ "13n_4891": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.93347904977662,
+  "H1": "Z/195",
+  "old": "hyperbolic"
+ },
+ "13n_4892": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.879519277026269,
+  "H1": "Z/7 + Z/35",
+  "old": "hyperbolic"
+ },
+ "13n_4896": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.85196117253548,
+  "H1": "Z/147",
+  "old": "hyperbolic"
+ },
+ "13n_4932": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.678405256249921,
+  "H1": "Z/217",
+  "old": "hyperbolic"
+ },
+ "13n_4934": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.513102439457006,
+  "H1": "Z/41",
+  "old": "hyperbolic"
+ },
+ "13n_4939": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.011625633897735,
+  "H1": "Z/155",
+  "old": "hyperbolic"
+ },
+ "13n_4951": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.4134925130477995,
+  "H1": "Z/33",
+  "old": "hyperbolic"
+ },
+ "13n_4960": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.911176180758015,
+  "H1": "Z/129",
+  "old": "hyperbolic"
+ },
+ "13n_4967": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.546215646712938,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_4968": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.279186362491914,
+  "H1": "Z/31",
+  "old": "hyperbolic"
+ },
+ "13n_4981": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.428987299864616,
+  "H1": "Z/213",
+  "old": "hyperbolic"
+ },
+ "13n_4984": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.52097942510537,
+  "H1": "Z/203",
+  "old": "hyperbolic"
+ },
+ "13n_4990": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.946860906591459,
+  "H1": "Z/241",
+  "old": "hyperbolic"
+ },
+ "13n_4997": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.738542343368787,
+  "H1": "Z/197",
+  "old": "hyperbolic"
+ },
+ "13n_5009": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.336108693110966,
+  "H1": "Z/255",
+  "old": "hyperbolic"
+ },
+ "13n_5014": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.273511067938293,
+  "H1": "Z/145",
+  "old": "hyperbolic"
+ },
+ "13n_5017": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.258837613269587,
+  "H1": "Z/9",
+  "old": "hyperbolic"
+ },
+ "13n_5018": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.657214623588007,
+  "H1": "Z/39",
+  "old": "hyperbolic"
+ },
+ "13n_5019": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.834918326862273,
+  "H1": "Z/27",
+  "old": "hyperbolic"
+ },
+ "13n_5032": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 6.683546521031121,
+  "H1": "Z/155",
+  "old": "hyperbolic"
+ },
+ "13n_5036": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.550134382799478,
+  "H1": "Z/183",
+  "old": "hyperbolic"
+ },
+ "13n_5062": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_5065": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.981845170878581,
+  "H1": "Z/261",
+  "old": "hyperbolic"
+ },
+ "13n_5069": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.642178136400246,
+  "H1": "Z/175",
+  "old": "hyperbolic"
+ },
+ "13n_5089": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.770847444467852,
+  "H1": "Z/147",
+  "old": "hyperbolic"
+ },
+ "13n_5097": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.775972918327919,
+  "H1": "Z/135",
+  "old": "hyperbolic"
+ },
+ "13n_510": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_586": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_601": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_606": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_689": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_526": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_531": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_533": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_584": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_514": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_521": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_523": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_524": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_732": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_733": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_765": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_769": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_711": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_715": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_725": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_727": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_791": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_793": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_795": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_797": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_823": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_826": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_837": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_869": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_917": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_920": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_922": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_923": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_879": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_882": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_888": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_901": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_798": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_803": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_815": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_819": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_925": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_936": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_939": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_941": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_942": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_943": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_948": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_972": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_985": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_99": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_994": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_995": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_905": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_906": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_907": {
+  "certified": false,
+  "old": "unrecognised"
+ },
+ "13n_916": {
+  "certified": false,
+  "old": "unrecognised"
+ }
+}

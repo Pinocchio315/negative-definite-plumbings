@@ -1,0 +1,926 @@
+[
+{
+"name": "11n_99",
+"ref": "13a_811",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_811",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_811",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "11n_66",
+"ref": "13a_811",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+75
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_811",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_811",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_99",
+"ref": "13a_811",
+"crossing": 6,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_811",
+"crossing": 7,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_811",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_811",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_811",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_811",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12a_237",
+"ref": "13a_811",
+"crossing": 12,
+"sigma": 4,
+"H1": [
+161
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_99",
+"ref": "13a_2129",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_2129",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_2129",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "12n_563",
+"ref": "13a_2129",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2129",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2129",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2129",
+"crossing": 6,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_2129",
+"crossing": 7,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_2129",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2129",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2129",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2129",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2129",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_1728",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_1728",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_1728",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "11n_66",
+"ref": "13a_1728",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+75
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12n_155",
+"ref": "13a_1728",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_1728",
+"crossing": 5,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_1728",
+"crossing": 6,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_155",
+"ref": "13a_1728",
+"crossing": 7,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_99",
+"ref": "13a_1728",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1728",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1728",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1728",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1728",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_1952",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_1952",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_1952",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "11n_66",
+"ref": "13a_1952",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+75
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12n_155",
+"ref": "13a_1952",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_1952",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_155",
+"ref": "13a_1952",
+"crossing": 6,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_66",
+"ref": "13a_1952",
+"crossing": 7,
+"sigma": 2,
+"H1": [
+75
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_1952",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1952",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1952",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1952",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1952",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_2105",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_2105",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_2105",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "12n_563",
+"ref": "13a_2105",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2105",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2105",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_2105",
+"crossing": 6,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12n_155",
+"ref": "13a_2105",
+"crossing": 7,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_99",
+"ref": "13a_2105",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2105",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2105",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2105",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2105",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_1947",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_1947",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_1947",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "11n_66",
+"ref": "13a_1947",
+"crossing": 3,
+"sigma": 2,
+"H1": [
+75
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12n_155",
+"ref": "13a_1947",
+"crossing": 4,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_1947",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_1947",
+"crossing": 6,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_1947",
+"crossing": 7,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_1947",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1947",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1947",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1947",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_1947",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "11n_99",
+"ref": "13a_2582",
+"crossing": 0,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "9_46",
+"ref": "13a_2582",
+"crossing": 1,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "9_46",
+"ref": "13a_2582",
+"crossing": 2,
+"sigma": 0,
+"H1": [
+3,
+3
+],
+"lower": "H1 needs >=2 generators (Wendt)"
+},
+{
+"name": "12n_155",
+"ref": "13a_2582",
+"crossing": 3,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_2582",
+"crossing": 4,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "5_2#?3c",
+"ref": "13a_2582",
+"crossing": 5,
+"sigma": 4,
+"H1": [
+21
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "12n_563",
+"ref": "13a_2582",
+"crossing": 6,
+"sigma": 2,
+"H1": [
+71
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "12n_155",
+"ref": "13a_2582",
+"crossing": 7,
+"sigma": 4,
+"H1": [
+89
+],
+"lower": "|sigma|>=4"
+},
+{
+"name": "11n_99",
+"ref": "13a_2582",
+"crossing": 8,
+"sigma": 2,
+"H1": [
+39
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2582",
+"crossing": 9,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2582",
+"crossing": 10,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2582",
+"crossing": 11,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+},
+{
+"name": "10_38",
+"ref": "13a_2582",
+"crossing": 12,
+"sigma": 2,
+"H1": [
+59
+],
+"lower": "none classical (rank-1 survives)"
+}
+]

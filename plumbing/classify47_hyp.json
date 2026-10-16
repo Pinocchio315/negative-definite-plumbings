@@ -1,0 +1,290 @@
+{
+ "13n_2034": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.8703291949572725,
+  "H1": "Z/5 + Z/15"
+ },
+ "13n_2691": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.343252264135348,
+  "H1": "Z/3 + Z/63"
+ },
+ "13n_2526": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.705700650598388,
+  "H1": "Z/5 + Z/5"
+ },
+ "13n_1992": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.373882322952668,
+  "H1": "Z/5 + Z/15"
+ },
+ "13n_2245": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.84096922359491,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_2550": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.2487055192195973,
+  "H1": "Z/3 + Z/15"
+ },
+ "13n_2688": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.51663612971447,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_3127": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.9251575827114733,
+  "H1": "Z/5 + Z/15"
+ },
+ "13n_2791": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.631008577013133,
+  "H1": "Z/5 + Z/15"
+ },
+ "13n_2305": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 2.3643758384076667,
+  "H1": "Z/5 + Z/5"
+ },
+ "13n_3099": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.764485585039803,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_3231": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.574563992570082,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_2833": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.71353681388464,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_3329": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9950786030368874,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_3546": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 1.9034399031282445,
+  "H1": "Z/5 + Z/5"
+ },
+ "13n_3446": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.34362557309946,
+  "H1": "Z/13 + Z/13"
+ },
+ "13n_3570": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.331171543038498,
+  "H1": "Z/13 + Z/13"
+ },
+ "13n_3525": {
+  "certified": false
+ },
+ "13n_3923": {
+  "certified": false
+ },
+ "13n_3253": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 3.231048016259402,
+  "H1": "Z/13 + Z/13"
+ },
+ "13n_3718": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.617897891631492,
+  "H1": "Z/3 + Z/15"
+ },
+ "13n_3695": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.7071157694161885,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_3902": {
+  "certified": false
+ },
+ "13n_3720": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.638247672015001,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_4696": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.347643199912129,
+  "H1": "Z/5 + Z/5"
+ },
+ "13n_4674": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.792455022680201,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_4401": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.9186678265879005,
+  "H1": "Z/3 + Z/39"
+ },
+ "13n_4695": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.8619524022681215,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_4262": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.829726353775683,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_4771": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.036012614261973,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_4800": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.699486140883025,
+  "H1": "Z/3 + Z/39"
+ },
+ "13n_4805": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.684514495569475,
+  "H1": "Z/3 + Z/39"
+ },
+ "13n_4783": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.167597707288216,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_4903": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.892982887141526,
+  "H1": "Z/13 + Z/13"
+ },
+ "13n_4870": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.12623349158498,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_4927": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.7943169758294735,
+  "H1": "Z/3 + Z/51"
+ },
+ "13n_4954": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 4.9597480373626945,
+  "H1": "Z/5 + Z/25"
+ },
+ "13n_5076": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.027372511237648,
+  "H1": "Z/15 + Z/15"
+ },
+ "13n_4831": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.556459184204657,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_714": {
+  "certified": false
+ },
+ "13n_989": {
+  "certified": false
+ },
+ "13n_5085": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 5.743320734855855,
+  "H1": "Z/5 + Z/35"
+ },
+ "13n_5008": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 0,
+  "volume": 6.388707781553975,
+  "H1": "Z/5 + Z/45"
+ },
+ "13n_4735": {
+  "certified": true,
+  "tries": 1,
+  "drilled": 1,
+  "volume": 5.035191624063425,
+  "H1": "Z/5 + Z/25"
+ }
+}

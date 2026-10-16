@@ -1,0 +1,413 @@
+{
+ "13n_3525": {
+  "tetrahedra": 15,
+  "H1": "Z_3 + Z_63",
+  "irreducible": true,
+  "vertex_surfaces": 33,
+  "candidate_tori": 17,
+  "incompressible_tori": [
+   {
+    "kind": "torus",
+    "surface": 2,
+    "pieces": [
+     {
+      "tetrahedra": 5,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (3,1) (3,-2)]",
+      "ideal_isosig": "cPcbbbalm",
+      "snappy_solution": "contains flat tetrahedra",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 10,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "dLQacccjsnb",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.828122088330783,
+      "snappy_identify": [
+       "m017(0,0)"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 16,
+    "pieces": [
+     {
+      "tetrahedra": 10,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "dLQacccjsnb",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.828122088330783,
+      "snappy_identify": [
+       "m017(0,0)"
+      ]
+     },
+     {
+      "tetrahedra": 5,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (3,1) (3,-2)]",
+      "ideal_isosig": "cPcbbbalm",
+      "snappy_solution": "contains flat tetrahedra",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     }
+    ]
+   }
+  ],
+  "verdict": "toroidal, a piece with a geometric solution (likely hyperbolic piece: mixed)",
+  "seconds": 1.2
+ },
+ "13n_989": {
+  "tetrahedra": 13,
+  "H1": "Z_5 + Z_15",
+  "irreducible": true,
+  "vertex_surfaces": 26,
+  "candidate_tori": 15,
+  "incompressible_tori": [
+   {
+    "kind": "torus",
+    "surface": 1,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "dLQbcbcdlcj",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": -1.249000902703301e-16,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 8,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "cPcbbbdxm",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.029883212819307,
+      "snappy_identify": [
+       "m003(0,0)",
+       "otet02_00000(0,0)"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 7,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "dLQbcbcdlcj",
+      "snappy_solution": "unrecognized solution type",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 8,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "cPcbbbdxm",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.029883212819307,
+      "snappy_identify": [
+       "m003(0,0)",
+       "otet02_00000(0,0)"
+      ]
+     }
+    ]
+   }
+  ],
+  "verdict": "toroidal, a piece with a geometric solution (likely hyperbolic piece: mixed)",
+  "seconds": 1.2
+ },
+ "13n_714": {
+  "tetrahedra": 14,
+  "H1": "Z_5 + Z_25",
+  "irreducible": true,
+  "vertex_surfaces": 34,
+  "candidate_tori": 16,
+  "incompressible_tori": [
+   {
+    "kind": "torus",
+    "surface": 1,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "eLAkbcbddducqn",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 10,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "dLQacccjnjs",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.5689706009367086,
+      "snappy_identify": [
+       "m006(0,0)"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 10,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "eLAkbcbddducqj",
+      "snappy_solution": "contains flat tetrahedra",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 10,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "dLQacccjnjs",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.5689706009367086,
+      "snappy_identify": [
+       "m006(0,0)"
+      ]
+     }
+    ]
+   }
+  ],
+  "verdict": "toroidal, a piece with a geometric solution (likely hyperbolic piece: mixed)",
+  "seconds": 1.4
+ },
+ "13n_3923": {
+  "tetrahedra": 15,
+  "H1": "Z_5 + Z_15",
+  "irreducible": true,
+  "vertex_surfaces": 26,
+  "candidate_tori": 18,
+  "incompressible_tori": [
+   {
+    "kind": "torus",
+    "surface": 0,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "eLAkbcbdddmcxj",
+      "snappy_solution": "unrecognized solution type",
+      "snappy_volume": -2.6906024769290937e-09,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 11,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "kLvPMzQkcceghhiijjjlvdmsvqxips",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 2.029883213009822,
+      "snappy_identify": []
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 2,
+    "pieces": [
+     {
+      "tetrahedra": 7,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "gLLAQbcedfeftsqwesb",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 3.4778303061450603e-07,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 8,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "cPcbbbdxm",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.029883212819307,
+      "snappy_identify": [
+       "m003(0,0)",
+       "otet02_00000(0,0)"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 8,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "dLQabccbrwn",
+      "snappy_solution": "unrecognized solution type",
+      "snappy_volume": -2.7620067954726177e-07,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 11,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "hLAzPkabcefgggbrwbxmck",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 2.029886287082937,
+      "snappy_identify": []
+     }
+    ]
+   }
+  ],
+  "verdict": "toroidal, a piece with a geometric solution (likely hyperbolic piece: mixed)",
+  "seconds": 1.5
+ },
+ "13n_3902": {
+  "tetrahedra": 15,
+  "H1": "Z_5 + Z_15",
+  "irreducible": true,
+  "vertex_surfaces": 26,
+  "candidate_tori": 18,
+  "incompressible_tori": [
+   {
+    "kind": "torus",
+    "surface": 0,
+    "pieces": [
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "dLQbcbcdlcj",
+      "snappy_solution": "unrecognized solution type",
+      "snappy_volume": -1.4374019288720952e-07,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 11,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "kLvPMzQkcceghhiijjjlvdmsvqxips",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 2.029883213338978,
+      "snappy_identify": []
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 2,
+    "pieces": [
+     {
+      "tetrahedra": 7,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "eLAkabcddbrwpk",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 7.774132399981926e-08,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 8,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "cPcbbbdxm",
+      "snappy_solution": "all tetrahedra positively oriented",
+      "snappy_volume": 2.029883212819307,
+      "snappy_identify": [
+       "m003(0,0)",
+       "otet02_00000(0,0)"
+      ]
+     }
+    ]
+   },
+   {
+    "kind": "torus",
+    "surface": 8,
+    "pieces": [
+     {
+      "tetrahedra": 14,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": null,
+      "ideal_isosig": "hLAzPkabcefgggbrwbqlbr",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 2.029883401761124,
+      "snappy_identify": []
+     },
+     {
+      "tetrahedra": 4,
+      "boundary_components": 1,
+      "solid_torus": false,
+      "TxI": false,
+      "regina": "SFS [D: (2,1) (3,-2)]",
+      "ideal_isosig": "dLQbcbcdlcn",
+      "snappy_solution": "contains degenerate tetrahedra",
+      "snappy_volume": 0.0,
+      "snappy_identify": []
+     }
+    ]
+   }
+  ],
+  "verdict": "toroidal, a piece with a geometric solution (likely hyperbolic piece: mixed)",
+  "seconds": 1.5
+ }
+}

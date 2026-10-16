@@ -1,0 +1,4986 @@
+{
+ "11n_30": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (9,-2)]",
+  "plumbing_name_matches": true
+ },
+ "12n_233": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -7
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (7,-1)]",
+  "plumbing_name_matches": true
+ },
+ "11n_137": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -3,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,2) (3,2) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "12n_195": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "11n_78": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (3,-1)]",
+  "plumbing_name_matches": true
+ },
+ "12n_235": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,2) (7,-6)]",
+  "plumbing_name_matches": true
+ },
+ "12n_236": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (13,-3)]",
+  "plumbing_name_matches": true
+ },
+ "12n_239": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (17,-7)]",
+  "plumbing_name_matches": true
+ },
+ "12n_309": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 0.2,
+  "plumbing": {
+   "weights": [
+    -1,
+    -2,
+    -5,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,1) (7,-5)]",
+  "plumbing_name_matches": true
+ },
+ "12n_167": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -4,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,2) (13,-4)]",
+  "plumbing_name_matches": true
+ },
+ "12n_346": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 0.2,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "12n_304": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 5,
+  "seconds": 0.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -5,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,4) (7,-2)]",
+  "plumbing_name_matches": true
+ },
+ "12n_294": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (4,1) (5,3) (5,-2)]",
+  "plumbing_name_matches": true
+ },
+ "12n_404": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (11,-7)]",
+  "plumbing_name_matches": true
+ },
+ "12n_82": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "12n_8": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,3)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "12n_75": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -4,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 2,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1160": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,2) (17,-11)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1187": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (25,-14)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1106": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 2.2,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1205": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ -1,2 | 1,-1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1149": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 3.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,2) (23,-14)]",
+  "plumbing_name_matches": true
+ },
+ "13n_107": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 3.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,2) (13,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_11": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 4.1,
+  "plumbing": {
+   "weights": [
+    -4,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,2)], m = [ 2,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1290": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (5,-1)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1063": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 5.9,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1207": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 10,
+  "seconds": 3.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (13,-6)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1238": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 3.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (27,-17)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1293": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 3.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1298": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 3.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (23,-13)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1061": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 8.4,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -3,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,2) (3,2) (7,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1415": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 0.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -5,
+    -2,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,4) (13,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1324": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 3.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1421": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -4,
+    -2,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,3) (13,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1334": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 2.9,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1420": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,4) (13,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1429": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 0.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -5,
+    -2,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,4) (11,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1576": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1305": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 6.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (5,-1)]",
+  "plumbing_name_matches": true
+ },
+ "13n_158": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 0.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1600": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,3) (12,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1618": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_162": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (5,3) (5,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1749": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 4.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -4,
+    -2,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,2) (7,5) (8,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1582": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 8.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -4,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,5) (9,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1975": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.1,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ 1,2 | 1,1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_1581": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 10.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -4,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,5) (9,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1491": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 13.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -4,
+    -2,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,5) (9,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1285": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 24.0,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1317": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 22.0,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1312": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 22.1,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_199": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 7.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,3) (11,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_197": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 8.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,-1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_2271": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (7,2) (7,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2131": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (5,3) (5,3) (7,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2300": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -1,
+    -3,
+    -4,
+    -2,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (7,2) (8,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2580": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 1.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -6
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,2) (11,-6)]",
+  "plumbing_name_matches": true
+ },
+ "13n_251": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -4,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,-2 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_222": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 3.7,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_2605": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.8,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ 1,2 | 1,1 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_2721": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,2) (14,-9)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2657": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 1.5,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (3,1) (4,-1)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2065": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 8.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -4,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,3) (9,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2064": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 10.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -5,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,4) (9,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_265": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 2.9,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,3)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3060": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 2.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (14,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_3501": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 10,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     8,
+     9
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (11,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_309": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 2.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,1 | 0,-1 ], n = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3518": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 10,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3516": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,2) (13,-10)]",
+  "plumbing_name_matches": true
+ },
+ "13n_3503": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 4.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (17,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_396": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3993": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 0.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (5,1) (11,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_412": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 0.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3144": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 6.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -5,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,4) (7,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_445": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 1.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,4)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_3514": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 5.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (13,-3)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2935": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 8.5,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -3,
+    -3,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (3,1) (5,-8)]",
+  "plumbing_name_matches": true
+ },
+ "13n_440": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 2.8,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_46": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 2.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (5,4)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_449": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 4.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_509": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 2.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,1 | 0,-1 ], n = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_5": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 3.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_690": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 1.4,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (25,-16)]",
+  "plumbing_name_matches": true
+ },
+ "13n_683": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 1.9,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (19,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_691": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 1.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (29,-12)]",
+  "plumbing_name_matches": true
+ },
+ "13n_675": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 3.4,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 1,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_979": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS (d only)",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 3.1,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -3,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "plumbing_name_matches": true
+ },
+ "13n_701": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 5.6,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -5,
+    -2,
+    -2,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (17,-4)]",
+  "plumbing_name_matches": true
+ },
+ "13n_929": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 7,
+  "seconds": 4.3,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-2)]",
+  "plumbing_name_matches": true
+ },
+ "13n_983": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 2.5,
+  "plumbing": {
+   "weights": [
+    -3,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-5)]",
+  "plumbing_name_matches": true
+ },
+ "13n_2904": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 6,
+  "seconds": 22.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -3,
+    -3,
+    -4,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,2) (3,2) (19,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_1496": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 50.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -2,
+    -3
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (2,1) (7,2) (9,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_571": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 8,
+  "seconds": 21.3,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -4
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,2) (10,-7)]",
+  "plumbing_name_matches": true
+ },
+ "13n_3595": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "(1,1) OBSTRUCTED, (0,2) open",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 4,
+  "seconds": 31.7,
+  "plumbing": {
+   "weights": [
+    -2,
+    -3,
+    -5,
+    -5
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,2) (5,4) (5,-1)]",
+  "plumbing_name_matches": true
+ },
+ "13n_577": {
+  "expected": null,
+  "source": "case 3, earlier search",
+  "applicability": "APPLICABLE",
+  "verdict": "PASS",
+  "cw_consistent": true,
+  "ni_wu": null,
+  "vertices": 9,
+  "seconds": 56.0,
+  "plumbing": {
+   "weights": [
+    -2,
+    -2,
+    -2,
+    -2,
+    -3,
+    -2,
+    -2,
+    -3,
+    -2
+   ],
+   "edges": [
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     8
+    ]
+   ]
+  },
+  "plumbing_name": "SFS [S2: (3,1) (5,2) (11,-8)]",
+  "plumbing_name_matches": true
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "13n_3923": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_3525": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsnb",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_714": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3902": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_989": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "13n_3004": {
+  "plumbing_name": "SFS [S2: (3,1) (3,1) (18,-7)]",
+  "plumbing_name_matches": true,
+  "D": 45,
+  "sigma": -4,
+  "n_even": 2,
+  "group": [
+   3,
+   3,
+   5
+  ],
+  "forms": 23,
+  "forms_with_isomorphic_group": 11,
+  "fit_plus": [],
+  "fit_minus": [],
+  "blocked": [
+   1,
+   -1
+  ]
+ },
+ "13n_3005": {
+  "plumbing_name": "SFS [S2: (3,2) (3,2) (18,-7)]",
+  "plumbing_name_matches": true,
+  "D": 153,
+  "sigma": -4,
+  "n_even": 2,
+  "group": [
+   3,
+   3,
+   17
+  ],
+  "forms": 102,
+  "forms_with_isomorphic_group": 41,
+  "fit_plus": [],
+  "fit_minus": [],
+  "blocked": [
+   1,
+   -1
+  ]
+ }
+}

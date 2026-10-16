@@ -1,0 +1,3935 @@
+[
+ {
+  "name": "11n_116",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_132",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_141",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "12n_184",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_19",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_195",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_210",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_214",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_230",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_258",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]"
+ },
+ {
+  "name": "12n_265",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/63",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_282",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_309",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (5,1) (7,-5)]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_314",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_318",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_346",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_351",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_354",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_377",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_382",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_411",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_437",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_449",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_456",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_51",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_519",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_629",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_634",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_690",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "12n_808",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_812",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_815",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_82",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "12n_835",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_868",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "12n_87",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1002",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (29,-17)]",
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (29,-17)]"
+ },
+ {
+  "name": "13n_1007",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1010",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/75",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1016",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1019",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1021",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1033",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/101",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1038",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1041",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1048",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1051",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/75",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1057",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1059",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+ },
+ {
+  "name": "13n_1062",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+ },
+ {
+  "name": "13n_1083",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]"
+ },
+ {
+  "name": "13n_1087",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_1090",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1096",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1099",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/101",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1128",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_1133",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1134",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1226",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1231",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1236",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1242",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/75",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1245",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_125",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1275",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/75",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1279",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1286",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]"
+ },
+ {
+  "name": "13n_1287",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+ },
+ {
+  "name": "13n_1304",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1313",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]"
+ },
+ {
+  "name": "13n_1314",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]",
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-10)]"
+ },
+ {
+  "name": "13n_1316",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1330",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1337",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1350",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1351",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1354",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (5,2) (5,2) (8,-5)]"
+ },
+ {
+  "name": "13n_1371",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1376",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1387",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1391",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1435",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (7,2) (11,-8)]"
+ },
+ {
+  "name": "13n_1441",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1467",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1469",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1474",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_148",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1496",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,2) (9,-7)]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (7,2) (9,-7)]"
+ },
+ {
+  "name": "13n_1505",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (13,8)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1526",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1541",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1550",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1552",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/93",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1576",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (11,8)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_158",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1588",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,2) (11,-7)]",
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (7,2) (11,-7)]"
+ },
+ {
+  "name": "13n_1607",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1616",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1618",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (8,5)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1625",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1639",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1646",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1658",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (7,2)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1671",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1674",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (7,3)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_1687",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1690",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1694",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1717",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_172",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_1720",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1736",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1739",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1746",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1777",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_1780",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1799",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1805",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1815",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1816",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1830",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1848",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1849",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1868",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1888",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1899",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1911",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1915",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1944",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/87",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1948",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1953",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1957",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1995",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_1999",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2003",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2004",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2033",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2051",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2066",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2079",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2094",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2117",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2122",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2127",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2134",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2140",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_217",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/91",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2222",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2230",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2233",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2248",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/61",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2249",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/61",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2255",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2256",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2266",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2276",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2279",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2282",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2296",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (4,1) (9,-7)]",
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2300",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (7,2) (8,-5)]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (3,1) (7,2) (8,-5)]"
+ },
+ {
+  "name": "13n_2333",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2343",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2344",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2376",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,2) (4,1)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2415",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2445",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2454",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/105",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2458",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_2471",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2475",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2480",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2485",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2522",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2527",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2533",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2559",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (7,3) (9,-5)]",
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (7,3) (9,-5)]"
+ },
+ {
+  "name": "13n_2592",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2599",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2611",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (9,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2622",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2632",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2638",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2645",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2648",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2683",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2695",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2719",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2728",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_273",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2734",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/63",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2735",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2757",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2769",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2784",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2794",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2798",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2800",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2828",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/65",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2872",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_2943",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_2950",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2968",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2992",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (7,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_2995",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3023",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3077",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3149",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_315",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3163",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,1) (7,-5)]",
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3173",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (3,1) (3,2)] U/m SFS [D: (3,1) (5,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_318",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | -1,0 ]",
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3181",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/61",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3192",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_322",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3238",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3242",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3247",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_326",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3287",
+  "kind": "pair",
+  "sigma2": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (3,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_330",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/127",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3301",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3315",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3343",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/63",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3346",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3410",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3413",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3428",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/65",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_345",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3466",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3469",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3477",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3479",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_348",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3510",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3517",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_352",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/127",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3541",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3545",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3547",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3567",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3577",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3578",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_358",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3582",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_36",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,3)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3624",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_363",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3630",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3658",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3661",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3677",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3687",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_369",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_3690",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3693",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3702",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3741",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3744",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/111",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3747",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3750",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/111",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3752",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_3764",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3769",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3772",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3775",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/111",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3778",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/57",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3781",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/111",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3782",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_3812",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3819",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3826",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3828",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3832",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3842",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3843",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3846",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_3847",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3850",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3851",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/33",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3856",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3857",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3863",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3864",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3865",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3870",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3871",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3872",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3873",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3874",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_388",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3885",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (7,4)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3887",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3888",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3892",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3894",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3895",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3896",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3897",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3898",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3899",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3912",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/63",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3933",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/73",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3934",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3935",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3936",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3937",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/73",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3938",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3939",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3941",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3951",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/43",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_396",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_3962",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3963",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_397",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_3975",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3981",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3982",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/119",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_3997",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4010",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4028",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4032",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4036",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4058",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4079",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4104",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4105",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4115",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_412",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (11,4)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_4132",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_420",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4206",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4238",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4241",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4283",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4298",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4304",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4317",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/103",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4324",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4332",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4373",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/53",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4379",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/61",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4390",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4396",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/135",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_440",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_446",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4462",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4466",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4475",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/37",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4486",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_449",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4522",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_453",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_4539",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_456",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/67",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4571",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4572",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/23",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4578",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/17",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4582",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_459",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4591",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4595",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4607",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4620",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/21",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4634",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4638",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_4643",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_468",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/13",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4737",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_475",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_478",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/11",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4802",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/45",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_481",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_4828",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/75",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_487",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/19",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_4934",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_496",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/41",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_4968",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_5017",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_5019",
+  "kind": "hyperbolic",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "hyperbolic",
+  "old_name": "HYPERBOLIC"
+ },
+ {
+  "name": "13n_510",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_514",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/127",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_521",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_524",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/95",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_526",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/127",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_531",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_539",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/59",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_543",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/79",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_547",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_557",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/89",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_560",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,2) (12,-7)]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (3,1) (5,2) (12,-7)]"
+ },
+ {
+  "name": "13n_567",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]",
+  "H1": "Z/31",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (5,2)], m = [ 1,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_571",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,2) (10,-7)]",
+  "H1": "Z/5",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (3,1) (5,2) (10,-7)]"
+ },
+ {
+  "name": "13n_572",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_574",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,2) (9,-4)]",
+  "H1": "Z/39",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_577",
+  "kind": "star",
+  "sigma2": "SFS [S2: (3,1) (5,2) (11,-8)]",
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (3,1) (5,2) (11,-8)]"
+ },
+ {
+  "name": "13n_611",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]"
+ },
+ {
+  "name": "13n_612",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]",
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]"
+ },
+ {
+  "name": "13n_628",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_700",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_715",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_737",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_741",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_746",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/35",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (7,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_751",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (5,2) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_761",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,3) (5,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_783",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (8,3)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_793",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_795",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_803",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_826",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_835",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_860",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/77",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (7,5)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_863",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/3",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_866",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_872",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_876",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_882",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_901",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_906",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_911",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/47",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_917",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "0",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_922",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/25",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_925",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/55",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_93",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]",
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (5,2)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]"
+ },
+ {
+  "name": "13n_931",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,2) (7,-12)]"
+ },
+ {
+  "name": "13n_936",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/51",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_939",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/49",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_942",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_948",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/7",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_951",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]",
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_954",
+  "kind": "triple",
+  "sigma2": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]",
+  "H1": "Z/71",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_968",
+  "kind": "star",
+  "sigma2": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]",
+  "H1": "Z/69",
+  "H1_ok": true,
+  "old_kind": "star",
+  "old_name": "SFS [S2: (2,1) (3,1) (3,1) (7,-12)]"
+ },
+ {
+  "name": "13n_973",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/9",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]"
+ },
+ {
+  "name": "13n_979",
+  "kind": "pair",
+  "sigma2": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]",
+  "H1": "Z/81",
+  "H1_ok": true,
+  "old_kind": "pair",
+  "old_name": "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ 0,1 | 1,0 ]"
+ },
+ {
+  "name": "13n_985",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/15",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ },
+ {
+  "name": "13n_988",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/27",
+  "H1_ok": true,
+  "old_kind": "triple",
+  "old_name": "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]"
+ },
+ {
+  "name": "13n_99",
+  "kind": "unrecognised",
+  "sigma2": null,
+  "H1": "Z/29",
+  "H1_ok": true,
+  "old_kind": "unrecognised",
+  "old_name": null
+ }
+]

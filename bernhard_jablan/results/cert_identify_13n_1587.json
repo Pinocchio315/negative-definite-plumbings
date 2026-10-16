@@ -1,0 +1,1610 @@
+[
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"snappy_cert": true,
+"snappy_sig": "vLvLLvMzPPwMQQQbdjghkjmrnmotquurqsstuxfvvoxoavfovavthcoqtcv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "pLLLwzzPQAQcdfejlmjnmklmoooiceaaiauocbffatu",
+"regina_tets": [
+15,
+15
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 6,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "12a_237",
+"snappy_cert": true,
+"snappy_sig": "uLLPwAvAAPwPwQcccdefghklkmonopqrstttqffaaaagcvaaajxccaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 3,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_tets": [
+15,
+15
+],
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg"
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 7,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+15,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "oLLvLMAAPQccegfiijljnnmlmniiicvrcafajffbs",
+"regina_tets": [
+14,
+14
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"snappy_cert": true,
+"snappy_sig": "vLvLLvMzPPwMQQQbdjghkjmrnmotquurqsstuxfvvoxoavfovavthcoqtcv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "pLLLwzzPQAQcdfejlmjnmklmoooiceaaiauocbffatu",
+"regina_tets": [
+15,
+15
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 4,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 5,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+16,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 3,
+"name": "11n_66",
+"snappy_cert": true,
+"snappy_sig": "vLvLLvMzPPwMQQQbdjghkjmrnmotquurqsstuxfvvoxoavfovavthcoqtcv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "pLLLwzzPQAQcdfejlmjnmklmoooiceaaiauocbffatu",
+"regina_tets": [
+15,
+15
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 4,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 6,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 7,
+"name": "11n_66",
+"snappy_cert": true,
+"snappy_sig": "vLvLLvMzPPwMQQQbdjghkjmrnmotquurqsstuxfvvoxoavfovavthcoqtcv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "pLLLwzzPQAQcdfejlmjnmklmoooiceaaiauocbffatu",
+"regina_tets": [
+15,
+15
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+13,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 3,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 0,
+"regina_tets": [
+15,
+15
+],
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg"
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 6,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+15,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 3,
+"name": "11n_66",
+"snappy_cert": true,
+"snappy_sig": "vLvLLvMzPPwMQQQbdjghkjmrnmotquurqsstuxfvvoxoavfovavthcoqtcv",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLLLwzzPQAQcdfejlmjnmklmoooiceaaiauocbffatu",
+"regina_tets": [
+15,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 4,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 7,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+15,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 0,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 1,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 2,
+"name": "9_46",
+"snappy_cert": true,
+"snappy_sig": "gLLPQccdfeffqffhhnk",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "fLLQcbcedeetsqsaq",
+"regina_tets": [
+5,
+5
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 3,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 4,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+16,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 6,
+"name": "12n_563",
+"snappy_cert": true,
+"snappy_sig": "qvLAvPPvQQPkecfhklkokmnlmpopporiaoifmgtxhddcpp",
+"regina_cert": true,
+"regina_height": 2,
+"regina_sig": "pLvLPwvPQQQcegffkjmlokmnonoiaapcplpascwkkkg",
+"regina_tets": [
+15,
+16
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 7,
+"name": "12n_155",
+"snappy_cert": true,
+"snappy_sig": "rLLPwAvvwQQQcccdfeghkomqnpnqppqhggaaaavpalaagvbbb",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 8,
+"name": "11n_99",
+"snappy_cert": true,
+"snappy_sig": "ovvLALQMAQcfhgkijllkmjmnnnttaparkobardapv",
+"regina_cert": true,
+"regina_height": 0,
+"regina_sig": "mLLvLPAQQcefjikjiilklliixsvdbbghihk",
+"regina_tets": [
+12,
+12
+]
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 9,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 10,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 11,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "neighbour",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"crossing": 12,
+"name": "10_38",
+"snappy_cert": true,
+"snappy_sig": "oLLPwAPLwQcccdfeghijklmnnnhggaaaaaaaaaacv",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_811",
+"subset": [
+10,
+11,
+12
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_1728",
+"subset": [
+5,
+6,
+7,
+10,
+11,
+12
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_1947",
+"subset": [
+4,
+5,
+6,
+9,
+10
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": true,
+"regina_height": 1,
+"regina_sig": "rLLvLvAMPMQQccdgkmjklojlppqoqpqdogqprmapcofooofrw",
+"regina_tets": [
+17,
+17
+]
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_1952",
+"subset": [
+4,
+5,
+6,
+9,
+10,
+11,
+12
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_2129",
+"subset": [
+4,
+5,
+6
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_2105",
+"subset": [
+4,
+5,
+6,
+12
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+},
+{
+"kind": "minimal_diagram",
+"ref": "13a_2582",
+"subset": [
+4,
+5,
+6,
+10,
+12
+],
+"name": "13n_1587",
+"snappy_cert": true,
+"snappy_sig": "tLLPLvvwQALQQkccdfgljmnolqrspsqrqshggaccfcaaoaacfcccco",
+"regina_cert": false
+}
+]

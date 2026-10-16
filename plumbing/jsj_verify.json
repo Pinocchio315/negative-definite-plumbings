@@ -1,0 +1,866 @@
+{
+ "12n_253": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "12n_265": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsnb",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "12n_690": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "12n_202": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_1009": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_1010": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_1029": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_1022": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwhk",
+  "volume": 3.2529080484716464,
+  "cusps": 1
+ },
+ "13n_1004": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_1011": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkdisr",
+  "volume": 4.003979154528881,
+  "cusps": 1
+ },
+ "13n_1007": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQccecddephrwwn",
+  "volume": 3.648688644405824,
+  "cusps": 1
+ },
+ "13n_1030": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_1038": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkxr",
+  "volume": 3.4029912511664553,
+  "cusps": 1
+ },
+ "13n_1033": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_1091": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjqj",
+  "volume": 3.4742477613127423,
+  "cusps": 1
+ },
+ "13n_1051": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsnqj",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_1095": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkxr",
+  "volume": 3.4029912511664553,
+  "cusps": 1
+ },
+ "13n_1043": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQccecddelqccjn",
+  "volume": 4.003979154528881,
+  "cusps": 1
+ },
+ "13n_1048": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQccecddephrwwn",
+  "volume": 3.648688644405824,
+  "cusps": 1
+ },
+ "13n_1050": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_1096": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkxr",
+  "volume": 3.4029912511664553,
+  "cusps": 1
+ },
+ "13n_1041": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "gLLAQbcdeefftsohtsk",
+  "volume": 5.0327661755731805,
+  "cusps": 1
+ },
+ "13n_1100": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjak",
+  "volume": 3.252908048471646,
+  "cusps": 1
+ },
+ "13n_1181": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_1097": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_1175": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_1099": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_1218": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqs",
+  "volume": 3.6086890617707836,
+  "cusps": 1
+ },
+ "13n_1200": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_1240": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqj",
+  "volume": 3.30824155473042,
+  "cusps": 1
+ },
+ "13n_1271": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_1245": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1242": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqj",
+  "volume": 3.30824155473042,
+  "cusps": 1
+ },
+ "13n_1257": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnbxn",
+  "volume": 3.9542298166756664,
+  "cusps": 1
+ },
+ "13n_1272": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_1251": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqs",
+  "volume": 3.6086890617707836,
+  "cusps": 1
+ },
+ "13n_1273": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqj",
+  "volume": 3.30824155473042,
+  "cusps": 1
+ },
+ "13n_1278": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnjqj",
+  "volume": 3.5142520583769032,
+  "cusps": 1
+ },
+ "13n_1277": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1275": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsnqw",
+  "volume": 3.308241554730419,
+  "cusps": 1
+ },
+ "13n_1279": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1304": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnjqj",
+  "volume": 3.5142520583769032,
+  "cusps": 1
+ },
+ "13n_1325": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnbxn",
+  "volume": 3.9542298166756664,
+  "cusps": 1
+ },
+ "13n_1300": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnjqw",
+  "volume": 3.331744231641115,
+  "cusps": 1
+ },
+ "13n_1328": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1329": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1348": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_1372": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLPkaccddjbkaj",
+  "volume": 3.163963228883144,
+  "cusps": 1
+ },
+ "13n_1330": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_1371": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdedejkaqjw",
+  "volume": 4.188306370546258,
+  "cusps": 1
+ },
+ "13n_1387": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_1391": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_1376": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeejkdisr",
+  "volume": 4.1883063705462575,
+  "cusps": 1
+ },
+ "13n_217": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsnb",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_2454": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_2943": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqs",
+  "volume": 3.6086890617707836,
+  "cusps": 1
+ },
+ "13n_2757": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_2758": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_2976": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3315": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_2974": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_2975": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3507": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_3410": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqs",
+  "volume": 3.6086890617707836,
+  "cusps": 1
+ },
+ "13n_3511": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_3512": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_3510": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_3524": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsnb",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_3517": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_3658": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3724": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLPkaccddjnkaj",
+  "volume": 3.177293278600325,
+  "cusps": 1
+ },
+ "13n_3812": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_3826": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_3832": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_3828": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjsnqj",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_3840": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQccecddephrwwr",
+  "volume": 3.719977654342576,
+  "cusps": 1
+ },
+ "13n_3814": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeejkdxbn",
+  "volume": 3.7199776543425775,
+  "cusps": 1
+ },
+ "13n_3810": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3842": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkdxbn",
+  "volume": 3.6486886444058237,
+  "cusps": 1
+ },
+ "13n_3847": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjak",
+  "volume": 3.252908048471646,
+  "cusps": 1
+ },
+ "13n_3850": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqw",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_3843": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcbecdeexxwsip",
+  "volume": 3.059338057778956,
+  "cusps": 1
+ },
+ "13n_3851": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_3864": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqw",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_3857": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsnqj",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_3865": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwhk",
+  "volume": 3.2529080484716464,
+  "cusps": 1
+ },
+ "13n_3856": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkdxbn",
+  "volume": 3.6486886444058237,
+  "cusps": 1
+ },
+ "13n_3863": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjsnqj",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_3888": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnbxn",
+  "volume": 3.9542298166756664,
+  "cusps": 1
+ },
+ "13n_3887": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_3892": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnjqj",
+  "volume": 3.5142520583769032,
+  "cusps": 1
+ },
+ "13n_3873": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_3894": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnjqj",
+  "volume": 3.5142520583769032,
+  "cusps": 1
+ },
+ "13n_3912": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLPkbcddddjknw",
+  "volume": 3.1639632288831434,
+  "cusps": 1
+ },
+ "13n_3895": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnbxn",
+  "volume": 3.9542298166756664,
+  "cusps": 1
+ },
+ "13n_3896": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqw",
+  "volume": 3.514252058376902,
+  "cusps": 1
+ },
+ "13n_5062": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbs",
+  "volume": 2.828122088330783,
+  "cusps": 1
+ },
+ "13n_4032": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbiht",
+  "volume": 2.0298832128193074,
+  "cusps": 1
+ },
+ "13n_4058": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQbcccdero",
+  "volume": 2.8281220883307827,
+  "cusps": 1
+ },
+ "13n_3935": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_711": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_715": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_606": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLPkbcddddkokg",
+  "volume": 3.1772932786003256,
+  "cusps": 1
+ },
+ "13n_3915": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "gLLMQbcdeffftskuikg",
+  "volume": 5.137941201873418,
+  "cusps": 1
+ },
+ "13n_727": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_725": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQbcccdxwb",
+  "volume": 2.568970600936709,
+  "cusps": 1
+ },
+ "13n_601": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLPkbcddddkokg",
+  "volume": 3.1772932786003256,
+  "cusps": 1
+ },
+ "13n_733": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_793": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbk",
+  "volume": 2.9441064866766964,
+  "cusps": 1
+ },
+ "13n_791": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwhk",
+  "volume": 3.2529080484716464,
+  "cusps": 1
+ },
+ "13n_769": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_795": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwhk",
+  "volume": 3.2529080484716464,
+  "cusps": 1
+ },
+ "13n_765": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_797": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbk",
+  "volume": 2.9441064866766964,
+  "cusps": 1
+ },
+ "13n_732": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQbcccdxwb",
+  "volume": 2.568970600936709,
+  "cusps": 1
+ },
+ "13n_798": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_803": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_815": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjsjqw",
+  "volume": 3.4742477613127414,
+  "cusps": 1
+ },
+ "13n_823": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjsjb",
+  "volume": 2.7818339123960794,
+  "cusps": 1
+ },
+ "13n_837": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQbcccdxwb",
+  "volume": 2.568970600936709,
+  "cusps": 1
+ },
+ "13n_869": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnbxn",
+  "volume": 3.9254753155689284,
+  "cusps": 1
+ },
+ "13n_826": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkxr",
+  "volume": 3.4029912511664553,
+  "cusps": 1
+ },
+ "13n_819": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnjs",
+  "volume": 2.5689706009367086,
+  "cusps": 1
+ },
+ "13n_888": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbk",
+  "volume": 2.9441064866766964,
+  "cusps": 1
+ },
+ "13n_882": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "dLQacccjnbk",
+  "volume": 2.9441064866766964,
+  "cusps": 1
+ },
+ "13n_879": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnnbxn",
+  "volume": 3.9254753155689284,
+  "cusps": 1
+ },
+ "13n_901": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkexjn",
+  "volume": 3.6486886444058246,
+  "cusps": 1
+ },
+ "13n_906": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsnqj",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_905": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_922": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjak",
+  "volume": 3.252908048471646,
+  "cusps": 1
+ },
+ "13n_916": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkxr",
+  "volume": 3.4029912511664553,
+  "cusps": 1
+ },
+ "13n_917": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjsnqj",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_920": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjak",
+  "volume": 3.252908048471646,
+  "cusps": 1
+ },
+ "13n_923": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcddemkqw",
+  "volume": 3.4029912511664557,
+  "cusps": 1
+ },
+ "13n_907": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkdisr",
+  "volume": 4.003979154528881,
+  "cusps": 1
+ },
+ "13n_925": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddjnjaj",
+  "volume": 3.4029912511664566,
+  "cusps": 1
+ },
+ "13n_942": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsnqj",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_941": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkbbcdddhwqn",
+  "volume": 3.0593380577789557,
+  "cusps": 1
+ },
+ "13n_948": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQcacdeeenkexjn",
+  "volume": 3.6486886444058246,
+  "cusps": 1
+ },
+ "13n_985": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "cPcbbbdxm",
+  "volume": 2.029883212819307,
+  "cusps": 1
+ },
+ "13n_943": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "fLLQccecddelqccjn",
+  "volume": 4.003979154528881,
+  "cusps": 1
+ },
+ "13n_972": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "gLLAQbdeeefflsahqxk",
+  "volume": 4.484452783040404,
+  "cusps": 1
+ },
+ "13n_995": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqj",
+  "volume": 3.148509826440727,
+  "cusps": 1
+ },
+ "13n_994": {
+  "certified_hyperbolic_piece": true,
+  "isosig": "eLAkaccddnsjqj",
+  "volume": 3.148509826440727,
+  "cusps": 1
+ }
+}

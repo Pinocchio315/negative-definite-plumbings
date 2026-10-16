@@ -1,0 +1,7423 @@
+{
+ "12n_214": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "[.2.2.(-2 1;2) 0]",
+  "algebraic_notation": false
+ },
+ "12n_258": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (3,1)], m = [ 1,1 | 0,1 ]": 7
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[.-2 1 1.2 0.2.2 0]",
+  "algebraic_notation": false
+ },
+ "11n_116": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-30:21:-20]",
+  "algebraic_notation": false
+ },
+ "12n_141": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "[.2.-(2 1;2).2]",
+  "algebraic_notation": false
+ },
+ "12n_519": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[3:-2 1 0:-2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_629": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*-2 1 0:-2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_411": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[3.-2 1 0.2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_449": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*-2 1::2 0]",
+  "algebraic_notation": false
+ },
+ "12n_377": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.2.-2.2 0.2 1]",
+  "algebraic_notation": false
+ },
+ "12n_382": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2 1.2.-2.2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_314": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*-2 1 1]",
+  "algebraic_notation": false
+ },
+ "12n_318": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2 0.-2 1.-2 0.3 0]",
+  "algebraic_notation": false
+ },
+ "12n_351": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2 1:3 0:-2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_354": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2 1 1 0:2 1 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_265": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[(-2 1;2):2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_282": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.2 0.2.-2 1 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_808": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*-2 0:-2 0:2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_812": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2:-2 0.2]",
+  "algebraic_notation": false
+ },
+ "12n_634": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*-2 1 0:2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_690": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-(3;2):2:2]",
+  "algebraic_notation": false
+ },
+ "12n_815": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2:2 0.-2]",
+  "algebraic_notation": false
+ },
+ "12n_835": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0.-2 0.-1.-2 0.2 0]",
+  "algebraic_notation": false
+ },
+ "13n_1019": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1021": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (17,-13)]": 1
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1133": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (4,1) (5,1) (5,-3)]": 1
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1134": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (4,1) (5,2) (7,-4)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1010": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1016": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "12n_868": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2:.-2:.2 0]",
+  "algebraic_notation": false
+ },
+ "13n_1007": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1051": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1057": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1033": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1038": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1090": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1096": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1099": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1128": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 8
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1041": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1048": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1350": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1354": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (5,2) (5,2) (8,-5)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_125": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1275": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1313": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (7,-11)]": 5
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1330": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1435": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (7,2) (11,-8)]": 6
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1441": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1242": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1245": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1474": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_148": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1279": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1304": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1467": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1469": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1550": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1552": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (3,2) (3,2)] U/m SFS [D: (3,2) (5,3)], m = [ 0,1 | 1,0 ]": 5
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1387": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1391": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1526": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1541": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1371": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1376": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1646": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1671": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (5,1)] U/m SFS [D: (3,1) (3,2)], m = [ 0,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1607": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1616": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_172": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1720": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1625": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1639": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1687": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1690": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1694": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1717": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1736": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1739": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1746": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1780": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1799": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1805": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1815": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1816": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1830": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1848": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1849": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1868": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1953": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1957": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1911": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1915": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1888": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1899": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1944": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1948": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1995": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1999": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2003": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2004": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2066": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (5,1) (9,-7)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2079": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2033": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2051": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2122": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2127": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2248": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2255": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2134": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2140": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2094": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2117": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2230": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2233": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2256": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2266": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2458": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2471": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_217": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2222": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2344": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2415": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,3) (5,2)], m = [ 0,1 | 1,0 ]": 7
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2333": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2343": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2279": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2282": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2445": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2454": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2475": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2480": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2485": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2522": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2638": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,1) (4,1) (13,-5)]": 1
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2648": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2527": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2533": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2622": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2632": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2592": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2599": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2683": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2695": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_273": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (7,3)], m = [ 1,1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2734": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2769": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2784": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2719": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2728": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2735": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2757": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2794": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2798": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3192": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3238": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2800": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2828": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2872": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2943": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2995": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3023": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3077": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3149": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3242": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3247": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3301": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3315": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3343": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3346": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3466": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3469": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_326": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_330": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3410": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3413": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3428": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_345": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3477": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3479": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3547": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,1) (5,1) (7,-3)]": 1
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3567": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_348": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3510": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3517": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_352": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3541": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3545": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3624": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_363": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 5
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3577": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3578": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_358": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3582": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3661": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3677": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3687": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3690": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3693": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3702": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3630": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3658": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3752": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3764": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3769": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3772": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3812": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3819": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3741": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3744": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3747": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3750": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3781": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3782": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3843": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3846": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3775": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3778": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3826": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3828": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3832": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3842": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3870": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3871": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3851": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3856": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3847": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3850": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3857": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3863": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3864": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3865": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3874": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3887": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3872": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3873": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3898": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,1)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3899": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,1)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3894": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3895": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3888": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3892": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3936": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3938": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3896": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3897": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3912": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3933": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3939": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3941": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,1)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3934": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1) (3,1)] U/n SFS [D: (2,1) (3,2)], m = [ 1,-1 | 0,-1 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3935": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3963": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_397": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,5)], m = [ 1,-1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3951": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3962": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3975": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3981": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4104": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4105": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3982": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3997": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4010": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4028": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4058": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4079": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4032": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4036": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_420": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4206": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4115": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4132": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4238": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4241": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4283": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4298": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4324": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4332": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4304": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4317": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4373": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4379": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_446": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4462": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_453": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4539": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4466": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4475": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4390": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4396": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4486": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4522": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4578": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4582": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4571": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4572": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4620": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4634": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4595": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4607": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_459": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4591": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_468": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4737": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4802": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_481": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4638": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4643": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_572": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,1) (5,2) (6,-5)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_628": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (3,2)], m = [ -1,2 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_539": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_543": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | -1,0 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4828": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_487": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5017": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5019": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4934": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4968": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_835": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_863": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_700": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,1)], m = [ 1,1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_715": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_866": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_876": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,1)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_521": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_524": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_526": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_531": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_510": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_514": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_793": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_795": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_803": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_826": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_906": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_911": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (4,3)], m = [ 1,-1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_985": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_988": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "11n_23": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,-1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(21;2+ )-(3;2)]",
+  "algebraic_notation": true
+ },
+ "12n_104": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(4 1;2) (2 1;2-)]",
+  "algebraic_notation": true
+ },
+ "13n_948": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_973": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,2 | 0,1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "12n_135": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "[(3;2);2;(;2 1)]",
+  "algebraic_notation": true
+ },
+ "12n_193": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (4,3)], m = [ -1,1 | 1,0 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(3 1;3) (-2 1;2)]",
+  "algebraic_notation": true
+ },
+ "13n_882": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_901": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_917": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_922": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_939": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_942": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_925": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_936": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "12n_443": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*-2 1::-3 0]",
+  "algebraic_notation": false
+ },
+ "12n_454": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,1 ]": 5
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(4;-2 1) (3;2)]",
+  "algebraic_notation": true
+ },
+ "12n_260": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,-1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(3;3) 1 (-2 1;2)]",
+  "algebraic_notation": true
+ },
+ "12n_361": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0.2 1:.-2]",
+  "algebraic_notation": false
+ },
+ "13n_99": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "11n_173": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*20:-20:20]",
+  "algebraic_notation": false
+ },
+ "12n_416": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2 1:2 1 0:2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_432": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.3 0.-2 1.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_509": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-3:-2 1 0:-2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_522": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[4 1;4;-2 1]",
+  "algebraic_notation": true
+ },
+ "12n_202": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[(2 1;2-):2:2]",
+  "algebraic_notation": false
+ },
+ "12n_253": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2:(2;-2 1) 0:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_631": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 1 0:-2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_675": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,4)], m = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "[(-4 1;2) (3;2)]",
+  "algebraic_notation": true
+ },
+ "12n_569": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2 2 0:-3 0:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_630": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2 1:.-2]",
+  "algebraic_notation": false
+ },
+ "12n_701": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*4:.-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_707": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.2.2.-2.3]",
+  "algebraic_notation": false
+ },
+ "12n_524": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-3 0:-2 1 0:-2 1 0]",
+  "algebraic_notation": false
+ },
+ "12n_527": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.2 1.-2.2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_531": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2 1.-2.2.2 0.2]",
+  "algebraic_notation": false
+ },
+ "12n_557": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2 -2 0:-2 -1 0:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_793": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-2.4.2 0.2]",
+  "algebraic_notation": false
+ },
+ "12n_803": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0.2:2 0.-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_804": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[3 1.-2.2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_805": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[4.-2.2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_769": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*.2:2 0.2 0:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_791": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*-2 0.2 0.2 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_855": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[3 2:2:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_856": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[5:2:-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_811": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2:-2 0.-2]",
+  "algebraic_notation": false
+ },
+ "12n_814": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0:-3 0:2 0]",
+  "algebraic_notation": false
+ },
+ "12n_818": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[-4.2.2 0.2]",
+  "algebraic_notation": false
+ },
+ "12n_833": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0.2.2:-2 0]",
+  "algebraic_notation": false
+ },
+ "13n_1014": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1020": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (4,1)], m = [ 1,-1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "12n_881": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[2.-2.-2 0.-2.2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_90": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "[(3;2);2;(2 1;2-)]",
+  "algebraic_notation": true
+ },
+ "12n_98": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "[6*(-2 1;2).2 1]",
+  "algebraic_notation": false
+ },
+ "13n_1004": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "12n_844": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2.2 0.2:.-2 0]",
+  "algebraic_notation": false
+ },
+ "12n_854": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*.-2:2.2 0]",
+  "algebraic_notation": false
+ },
+ "12n_859": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[9*2.-2::2 0]",
+  "algebraic_notation": false
+ },
+ "12n_873": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "[8*2 0.-2 0.-2 0.2 0]",
+  "algebraic_notation": false
+ },
+ "13n_1086": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1089": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,2)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1050": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1058": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (7,-2)]": 4
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1229": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,1) (5,4)], m = [ -1,1 | 1,0 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1233": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (3,2) (5,4)], m = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1009": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1011": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1022": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1029": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1030": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1043": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1175": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1181": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1280": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (5,-1)]": 3
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1295": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (7,-4)]": 5
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1097": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1100": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1091": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1095": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1200": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1218": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1257": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1271": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1300": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1310": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (5,-1)]": 4
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1240": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1251": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1272": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1273": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1333": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,1) (5,-1)]": 4
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1348": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1322": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (3,2) (7,-4)]": 5
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1325": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1277": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1278": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_175": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,1) (5,3) (5,-7)]": 5
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1789": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1660": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (5,4)] U/m SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1735": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1328": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1329": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1383": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (3,2)] U/n SFS [D: (3,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1475": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1361": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ -1,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1372": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1804": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1806": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1901": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1906": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1912": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1917": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1988": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2104": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1950": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1955": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1959": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_1962": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2105": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2121": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2123": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2125": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2190": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2195": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2303": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_231": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,2)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2133": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2153": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2310": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2393": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,2) (5,1) (8,-5)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2159": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2178": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2442": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_247": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,2)], m = [ 0,1 | 1,-1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2202": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2253": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2496": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2498": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2502": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_254": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (5,4)], m = [ 0,1 | 1,-1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2472": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2482": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2562": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2566": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (5,1) (9,-5)]": 4
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2486": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2494": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2542": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2546": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2548": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2556": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_260": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (7,4)], m = [ 0,1 | 1,-1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2613": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2586": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2589": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2738": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_274": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,-3 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2594": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2595": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2647": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2649": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2767": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2779": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2677": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2731": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2956": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,1) (3,1) (3,2) (5,-3)]": 6
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2966": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (3,1) (4,1)] U/m SFS [D: (3,2) (3,2)], m = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_285": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 1,1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2911": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2745": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2758": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2669": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2672": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_299": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 1,0 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3039": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2797": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2808": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2810": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2849": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3084": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3089": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_317": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (9,7)], m = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3196": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (3,2) (7,3) (7,-4)]": 6
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3076": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3081": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2976": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2989": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2974": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_2975": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3119": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3124": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3104": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3115": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3239": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3250": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3225": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3227": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3254": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3257": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3311": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3312": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3297": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3298": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3280": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3282": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3332": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3347": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3317": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3319": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3375": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3377": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_339": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3421": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3507": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3511": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3383": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3386": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3449": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3467": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_347": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3470": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3594": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3596": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3512": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3524": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3539": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3550": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3554": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3558": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3562": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3583": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3653": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3663": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_360": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3601": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3664": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_367": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3612": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3648": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3675": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3676": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3688": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3697": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3698": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3700": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3703": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3709": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3728": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3735": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3721": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3724": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3770": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3774": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3712": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3713": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3739": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3743": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3745": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3749": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3814": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_384": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (13,5)], m = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3776": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3780": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3793": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3810": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3840": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3866": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,4)], m = [ -1,1 | 1,0 ], n = [ 0,1 | 1,0 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3965": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3990": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3884": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3915": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_3998": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4033": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4074": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4085": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_413": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4162": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4096": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4117": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4050": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4067": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4179": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4181": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4253": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_427": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,1) (3,2)], m = [ -1,1 | 0,1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4200": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4207": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4223": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4226": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4233": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4235": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4229": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4231": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_428": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2) (3,2)], m = [ -1,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4309": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4343": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4345": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4349": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4353": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4354": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4359": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4371": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4377": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4366": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4367": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4360": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4364": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4386": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4404": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4405": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4407": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4455": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4456": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4515": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_452": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,5)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4435": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4443": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4461": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4473": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4499": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4501": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_460": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (7,4)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4612": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4480": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4489": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4646": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_465": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ -1,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4520": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4531": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4541": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4552": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4622": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4626": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4561": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4588": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4637": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4645": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4650": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4658": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4687": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4698": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4667": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4681": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4708": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4714": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4738": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4762": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4715": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4717": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4725": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4731": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4766": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4776": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_480": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 2
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4834": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4791": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4793": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4865": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4881": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4896": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4902": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4885": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4887": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4891": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4892": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4939": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4951": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4928": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4932": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4904": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4905": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4960": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4967": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4981": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4984": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5018": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5032": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5009": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5014": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4990": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_4997": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_517": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,-1 | 1,0 ], n = [ 1,1 | 0,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_523": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5089": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5097": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5036": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5062": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_629": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (2,1) (3,1) (3,1)], m = [ -1,1 | 0,1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_670": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,2) (4,3)], m = [ 0,1 | 1,-1 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5065": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_5069": {
+  "old": "hyperbolic",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_584": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_586": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_594": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ -1,3 | 1,-2 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_601": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_533": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_556": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [A: (2,1)] U/n SFS [D: (3,1) (4,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_606": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_618": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2)], m = [ 1,-3 | 0,1 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_676": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (3,1) (4,3)], m = [ 0,1 | 1,-1 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_689": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_733": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_754": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,2)] U/m SFS [D: (4,1) (5,3)], m = [ -1,1 | 1,0 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_755": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (4,1) (5,3)], m = [ -1,1 | 1,0 ]": 2
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_765": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_711": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_725": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_727": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_732": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_81": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (2,1)] U/n SFS [D: (2,1) (5,3)], m = [ 0,-1 | 1,0 ], n = [ 0,1 | 1,0 ]": 4
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_815": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_837": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_852": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [D: (2,1) (3,2) (3,2)], m = [ -1,1 | 1,0 ]": 1
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_797": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_798": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_819": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_823": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_769": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_791": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_937": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,1)] U/n SFS [D: (2,1) (3,1)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 3
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_94": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (5,3)] U/m SFS [D: (3,2) (3,2)], m = [ 1,-1 | 0,1 ]": 3
+  },
+  "kinds": {
+   "pair": 1
+  },
+  "new": "pair",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_861": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [D: (2,1) (3,1)] U/m SFS [A: (4,3)] U/n SFS [D: (2,1) (3,2)], m = [ 0,1 | 1,0 ], n = [ 0,1 | 1,1 ]": 1
+  },
+  "kinds": {
+   "triple": 1
+  },
+  "new": "triple",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_869": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_923": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_932": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {
+   "SFS [S2: (2,1) (3,2) (3,2) (7,-2)]": 2
+  },
+  "kinds": {
+   "star": 1
+  },
+  "new": "star",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_879": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_888": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_995": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_916": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_920": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_905": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_907": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_972": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_994": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_941": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ },
+ "13n_943": {
+  "old": "unrecognised",
+  "verified_hyperbolic": false,
+  "names": {},
+  "kinds": {},
+  "new": "still unrecognised",
+  "conway": "",
+  "algebraic_notation": false
+ }
+}

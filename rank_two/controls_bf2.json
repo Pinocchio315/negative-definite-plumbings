@@ -1,0 +1,12 @@
+{
+ "negative": {
+  "tested": 9673,
+  "obstructed": [],
+  "errors": []
+ },
+ "positive": {
+  "tested": 50,
+  "obstructed": 50,
+  "not_obstructed": []
+ }
+}

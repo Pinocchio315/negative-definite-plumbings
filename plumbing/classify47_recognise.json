@@ -1,0 +1,642 @@
+{
+ "13n_1662": {
+  "reach_kind": "pair",
+  "reach_name": "SFS [D: (2,1) (5,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ]",
+  "H1": "Z/3 + Z/39",
+  "names": {
+   "SFS [D: (2,1) (5,1)] U/m SFS [D: (3,1) (3,2)], m = [ -1,1 | 1,0 ]": 1
+  }
+ },
+ "13n_2526": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/5",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2305": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/5",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2550": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3004": {
+  "reach_kind": "star",
+  "reach_name": "SFS [S2: (3,1) (3,1) (18,-7)]",
+  "H1": "Z/3 + Z/15",
+  "names": {
+   "SFS [S2: (3,1) (3,1) (18,-7)]": 1
+  }
+ },
+ "13n_3005": {
+  "reach_kind": "star",
+  "reach_name": "SFS [S2: (3,2) (3,2) (18,-7)]",
+  "H1": "Z/3 + Z/51",
+  "names": {
+   "SFS [S2: (3,2) (3,2) (18,-7)]": 1
+  }
+ },
+ "13n_2034": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2688": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_1992": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2691": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/63",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2791": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2245": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3127": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3099": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_2833": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3329": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3231": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3446": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/13 + Z/13",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3546": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/5",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3253": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/13 + Z/13",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3525": {
+  "reach_kind": "unrecognised",
+  "reach_name": null,
+  "H1": "Z/3 + Z/63",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3570": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/13 + Z/13",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3902": {
+  "reach_kind": "unrecognised",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3923": {
+  "reach_kind": "unrecognised",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3718": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3695": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_3720": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4262": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4696": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/5",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4401": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/39",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4805": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/39",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4800": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/39",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4735": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4783": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4771": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4695": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4903": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/13 + Z/13",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4674": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4927": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/3 + Z/51",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4870": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4831": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_989": {
+  "reach_kind": "unrecognised",
+  "reach_name": null,
+  "H1": "Z/5 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_5085": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/35",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_714": {
+  "reach_kind": "unrecognised",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_5076": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/15 + Z/15",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_4954": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/25",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ },
+ "13n_5008": {
+  "reach_kind": "hyperbolic",
+  "reach_name": null,
+  "H1": "Z/5 + Z/45",
+  "names": {},
+  "more": {
+   "new": "still unrecognised",
+   "names": {}
+  },
+  "retry": {
+   "names": {},
+   "kinds": {}
+  }
+ }
+}

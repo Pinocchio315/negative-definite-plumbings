@@ -1,0 +1,1877 @@
+[
+  {
+    "name": "9_49",
+    "V": [
+      [
+        -1,
+        1,
+        -1,
+        1
+      ],
+      [
+        0,
+        -2,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        -1,
+        1
+      ],
+      [
+        0,
+        -1,
+        0,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 25,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "11a_123",
+    "V": [
+      [
+        -1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        -3,
+        -2,
+        -1
+      ],
+      [
+        0,
+        -2,
+        -3,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 117,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "11n_133",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 25,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_311",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        -2,
+        -1,
+        -1,
+        -2,
+        -1
+      ],
+      [
+        1,
+        -1,
+        -2,
+        -1,
+        -1,
+        -1
+      ],
+      [
+        1,
+        -2,
+        -1,
+        -2,
+        -2,
+        -1
+      ],
+      [
+        1,
+        -1,
+        -1,
+        -1,
+        -2,
+        -1
+      ],
+      [
+        1,
+        -1,
+        0,
+        -1,
+        -1,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 189,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_386",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        -1,
+        0,
+        0,
+        1,
+        1,
+        -1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -1,
+        1
+      ]
+    ],
+    "sigma": 4,
+    "determinant": 189,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_433",
+    "V": [
+      [
+        -1,
+        -1,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        0,
+        -2,
+        -1,
+        0,
+        0,
+        -2
+      ],
+      [
+        0,
+        -1,
+        -2,
+        0,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        -1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 189,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_561",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        1,
+        -1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 225,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_563",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        -1
+      ],
+      [
+        0,
+        0,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        -1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 117,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_569",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        -1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        -1,
+        0,
+        0,
+        0,
+        -1
+      ]
+    ],
+    "sigma": 4,
+    "determinant": 153,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_664",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        1,
+        1,
+        -1,
+        1,
+        0,
+        1,
+        1
+      ],
+      [
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        -1,
+        1,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        -1
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 169,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_683",
+    "V": [
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        0,
+        1,
+        -1,
+        -1,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        -1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 117,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_725",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        -1
+      ],
+      [
+        1,
+        0,
+        -2,
+        1,
+        -1,
+        1
+      ],
+      [
+        -1,
+        0,
+        0,
+        -1,
+        1,
+        -1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        -2,
+        1
+      ],
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 117,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_780",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        -1,
+        -2,
+        0,
+        -1,
+        -1
+      ],
+      [
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        -1
+      ],
+      [
+        1,
+        -1,
+        -1,
+        0,
+        -2,
+        -1
+      ],
+      [
+        1,
+        0,
+        -1,
+        0,
+        0,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 225,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_907",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        0,
+        -1
+      ],
+      [
+        -1,
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        -2
+      ],
+      [
+        -1,
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        0,
+        -1
+      ],
+      [
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        -2
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 225,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_276",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        -1,
+        0,
+        1,
+        -1
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    ],
+    "sigma": 4,
+    "determinant": 25,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_494",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        0,
+        0,
+        -1
+      ],
+      [
+        -1,
+        -1,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        -1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 45,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_496",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ],
+      [
+        -1,
+        -1,
+        1,
+        0,
+        -1,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        1,
+        1,
+        0
+      ],
+      [
+        -1,
+        -1,
+        1,
+        0,
+        -1,
+        0,
+        1,
+        0
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 117,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_626",
+    "V": [
+      [
+        0,
+        0,
+        0,
+        1,
+        -1,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        1,
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        1
+      ],
+      [
+        -1,
+        0,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "sigma": 4,
+    "determinant": 153,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_654",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        -2,
+        -1,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        1,
+        -1,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        -1
+      ]
+    ],
+    "sigma": -4,
+    "determinant": 45,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "10_103",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      [
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    ],
+    "sigma": 2,
+    "determinant": 75,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "11n_148",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        -1,
+        -1,
+        -1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        -1,
+        0,
+        -1,
+        1,
+        -1,
+        1
+      ],
+      [
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        1
+      ]
+    ],
+    "sigma": -2,
+    "determinant": 75,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_327",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        -1,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        -1,
+        2
+      ]
+    ],
+    "sigma": 2,
+    "determinant": 175,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_921",
+    "V": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      [
+        -1,
+        -1,
+        0,
+        -1,
+        -1,
+        1,
+        -1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        -2,
+        1,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        -1,
+        -1,
+        1,
+        -1,
+        -1
+      ]
+    ],
+    "sigma": -2,
+    "determinant": 175,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12a_1194",
+    "V": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ],
+      [
+        -1,
+        1,
+        1,
+        1,
+        0,
+        -1,
+        1,
+        -1
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        -1,
+        0,
+        1,
+        1,
+        0,
+        -1,
+        1,
+        0
+      ],
+      [
+        -1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        1,
+        -1
+      ],
+      [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        -1
+      ],
+      [
+        -1,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2
+      ]
+    ],
+    "sigma": 2,
+    "determinant": 175,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  },
+  {
+    "name": "12n_147",
+    "V": [
+      [
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        -1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -1
+      ]
+    ],
+    "sigma": -2,
+    "determinant": 75,
+    "ua_tabulated": "",
+    "expected": "ALL_PATTERNS_EXCLUDED: BF \u00a76.2 published n(K)>2",
+    "source_csv": "database_knotinfo/csv_data/knotinfo_data_complete.csv",
+    "source_csv_sha256": "e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d"
+  }
+]
