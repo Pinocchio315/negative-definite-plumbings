@@ -176,6 +176,11 @@ the following:
   found by a randomised Reidemeister search, which is not included. `check.py` verifies these certificates
   independently of the search.
 
+## License
+
+The code is released under the MIT License (`LICENSE`). The KnotInfo data in `data/` are included only to reproduce
+the computations and remain subject to the terms of [KnotInfo](https://knotinfo.org).
+
 ## Citation
 
 Seong-Jin Lee, *Negative-Definite Plumbings and New Unknotting Numbers* (2026).
