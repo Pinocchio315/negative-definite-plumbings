@@ -19,8 +19,8 @@ by crossing changes.
 
 `verify_completeness.py` works as follows:
 - It computes the determinant of every candidate exactly, by fraction-free elimination.
-- It excludes every candidate that is not the target by an exact invariant: the crossing number after
-  simplification, the Alexander polynomial, or knot Floer homology up to mirror.
+- It compares exact invariants of every candidate with those of the target: the crossing number after
+  simplification, the Alexander polynomial, and knot Floer homology up to mirror.
 - It stores every compared value.
 
 For 13n1587 the counts are:
@@ -28,7 +28,9 @@ For 13n1587 the counts are:
 - 13,346 diagrams with determinant 75;
 - 11,903 simplify to fewer than 13 crossings;
 - 1,379 have a different Alexander polynomial;
-- 57 are separated by covers of degree at most 4 (computed up to degree 5);
+- the remaining 64 all have the Alexander polynomial and the knot Floer homology of 13n1587, so knot Floer
+  homology excludes none of them; `cover_invariant.py` separates 57 of them by covers of degree at most 4
+  (computed up to degree 5);
 - the remaining 7 are minimal diagrams of 13n1587.
 
 The 7 minimal diagrams give 91 crossing changes and 8 knot types. For 12n563, 1,288 reference diagrams give 18

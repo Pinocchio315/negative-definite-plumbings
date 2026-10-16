@@ -29,6 +29,7 @@ SnapPy. Its triangulation is then recognised with Regina.
 | `invert.py` | | building blocks of normal forms: Hirzebruch–Jung legs, chains, node weights from $\lvert\det\rvert=D$ |
 | `precheck.py` | `precheck_u12.json`, `precheck_u23.json` | the normal forms of $\Sigma(K)$ and $-\Sigma(K)$ from the Regina names; verdict `APPLICABLE` (one is negative definite) or `NOT APPLICABLE` (both have $p^+\ge1$) |
 | `precheck_sigma0.py` | `precheck_sigma0.json` | the same for the 32 graph-manifold covers with $\sigma=0$ that no other run processed |
+| `both_orientations.py` | `both_orientations.json` | for each of the 299 verdicts `NOT APPLICABLE`: the different trees accepted over all orientation choices. Each knot has exactly two, the normal forms of $\Sigma(K)$ and $-\Sigma(K)$, both with $p^+\ge1$ (asserted by `../paper/make_tables.py`). `precheck.py` keeps one tree per orientation choice; for the 18 knots where these coincide, all accepted trees are recomputed |
 | `run_invert.py` | | module: orientation from the linking pairing, and the $u=1$ test (Ni–Wu formula; graded roots and the mapping cone for one bad vertex) |
 | `run_fresh.py` | `run_fresh.json` | normal form and tests for `recognise_more_fresh.json`. For $[1,2]$ the $u=1$ test; for $[2,3]$ and $[2,4]$ Owens's test (`../owens_u3_graph.py`) |
 | `run_retry13.py`, `run_pachner4.py` | `run_retry13.json`, `run_pachner4.json` | the same for the covers recognised by `recognise_retry.py` and `pachner_recognise.py` |
@@ -75,4 +76,6 @@ For 13n3004 and 13n3005, Owens's test excludes $u=2$ in both orientations.
 
 - `general.py`: names, legs and linking forms.
 - `plumbing.py`: plumbing matrices, the plumbing link, triangulated plumbed manifolds.
-- `d_owens.py`: correction terms of a negative-definite plumbing tree, $d=\max(c^2+\lvert V\rvert)/4$.
+- `d_owens.py`: correction terms of a negative-definite plumbing tree, $d=\max(c^2+\lvert V\rvert)/4$. Run as a
+  script, it recomputes the worked example `d_owens_13n309.json` (Owens's $(1,1)$ test) from
+  `plumbing_13n309.json`, two plumbings of $\Sigma(13n309)$ found by an early search.

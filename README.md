@@ -89,7 +89,9 @@ The script reads the deposited records and writes `paper/tables/*.tex`. One of t
 macros for every count in the text. It takes a few seconds and asserts the conditions the paper relies on:
 - Every new value comes from an obstruction computed with the normal form, satisfies the Casson–Walker identity, and
   was identified by an independent triangulation.
-- Every knot of class (3) of Section 3.1 has a negative-definite normal form.
+- Every knot of class (3) of Section 3.1 has a negative-definite normal form, with at most two bad vertices.
+- For every knot of class (2), two different trees are accepted, the normal forms of $\Sigma(K)$ and $-\Sigma(K)$,
+  and neither is negative definite.
 - The classification is complete: no knot is left unclassified.
 - The rank-two test has no false positive among the negative controls and detects all positive controls.
 
@@ -102,6 +104,7 @@ recent Mac with 8–11 processes.
 | --- | --- | --- |
 | classification of the double branched covers of the 47 non-alternating knots with $u=u_a=3$ | `cd plumbing; python -B classify47.py recognise`, `sage -python classify47.py hyp`, `python -B classify47.py jsj`, `sage -python classify47.py piece`, `python -B classify47.py normal`, `python -B classify47.py verify`, `python -B classify47.py summary` | about 5 min |
 | normal forms deciding class (2) | `cd plumbing/neumann; python -B precheck.py u12; python -B precheck.py u23` | 2 s per knot |
+| both normal forms for each knot of class (2) | `cd plumbing/neumann; python -B both_orientations.py` | about 4 min |
 | the 43 new values from the normal form alone | `cd plumbing/neumann; python -B rederive_all.py` | about 1 min |
 | the 96 knots of class (3) first found by plumbing searches | `cd plumbing/neumann; python -B normal_case3.py` | about 2 min |
 | rank-two test on the 66 knots, controls | `cd rank_two; python -B check66.py; python -B controls_bf2.py` | 20 s |
@@ -123,7 +126,7 @@ the following:
 | §3.1 | recognition of $\Sigma(K)$ | `plumbing/reach_orb.py`, `reach_u23_orb.py`, `recognise_more.py`, `recognise_retry.py` | `reach_*_orb.json`, `recognise_*.json` |
 | §3.1 | verified hyperbolicity | `plumbing/verify_hyp.py` (Sage) | `verify_hyp.json` |
 | §3.1 | incompressible tori and hyperbolic pieces | `plumbing/jsj.py`, `jsj_verify.py` (Sage), `pachner_recognise.py` | `jsj.json`, `jsj_verify.json`, `pachner_recognise.json` |
-| §3.1 | normal forms of $\pm\Sigma(K)$ | `plumbing/neumann/precheck.py`, `precheck_sigma0.py`, `run_fresh.py`, `run_retry13.py`, `run_pachner4.py`, `normal_case3.py` | `plumbing/neumann/*.json` |
+| §3.1 | normal forms of $\pm\Sigma(K)$ | `plumbing/neumann/precheck.py`, `precheck_sigma0.py`, `run_fresh.py`, `run_retry13.py`, `run_pachner4.py`, `normal_case3.py`, `both_orientations.py` | `plumbing/neumann/*.json` |
 | §3.1 | the 47 non-alternating knots of §4.1 | `plumbing/classify47.py` | `classify47_*.json` |
 | §3.2 | $u=1$ excluded: Ni–Wu, mapping cone | `plumbing/neumann/run_invert.py` (`u1_test`), `lib/lower_bounds/montesinos/` | `rederive_all.json` |
 | §3.3 | $u=2$ excluded: Owens, Traczyk | `plumbing/owens_u3_graph.py` (`run_one`), `lib/lower_bounds/owens/` | `rederive_all.json`, `classify47_normal.json` |
@@ -146,7 +149,7 @@ the following:
     - the 43 new values: `rederive_all.json`;
     - the knots of class (3): `run_fresh.json`, `run_retry13.json`, `run_pachner4.json`, `normal_case3.json`,
       `precheck_sigma0.json`;
-    - the knots of class (2): `precheck_*.json`;
+    - the knots of class (2): `precheck_*.json`, with both normal forms listed in `both_orientations.json`;
     - the 47 non-alternating knots with $u=u_a=3$: `classify47_*.json`.
   - `make_tables.py` asserts this.
   - The search records still supply Regina names, and they are the inputs of the normal-form runs.

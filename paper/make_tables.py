@@ -234,7 +234,8 @@ for r in nbr:
 assert set(groups) == set(WHY) and sum(map(len, groups.values())) == len(nbr)
 L = [r'\begin{table}[htbp]', r'\centering',
      r'\caption{The knots obtained by changing one crossing in a minimal diagram of \kn{13n}{1587}, with the number of such '
-     r'crossing changes and the reason why $u\ge2$.}\label{tab:nbr}', r'\begin{tabular}{lrrll}', r'\toprule',
+     r'crossing changes and the reason why $u\ge2$. Knots are named up to mirror image.}\label{tab:nbr}',
+     r'\begin{tabular}{lrrll}', r'\toprule',
      r'Knot & Changes & $|\sigma|$ & $H_1(\dbc(K))$ & $u\ge2$ by\\', r'\midrule']
 for n, rs in sorted(groups.items(), key=lambda x: (-len(x[1]), x[0])):
     sig = {abs(x['sigma']) for x in rs}; assert len(sig) == 1
@@ -249,11 +250,35 @@ def bad_vertices(p):
     return sum(1 for i, w in enumerate(p['weights']) if w > -deg[i])
 
 
+# class (2): two different accepted trees, i.e. the normal forms of Sigma_2 and -Sigma_2, neither negative definite
+BO = J(TOOL, 'neumann', 'both_orientations.json')
+CLASS2 = [x['name'] for f in ('reach_u12_orb.json', 'reach_u23_orb.json') for x in J(TOOL, f) if status(x['name']) == 'nodef']
+CLASS2 += [n for n, s in C47.items() if s == 'nodef']
+assert len(CLASS2) == both('nodef') and all(BO[n]['distinct_trees'] == 2 and min(BO[n]['pplus']) >= 1 for n in CLASS2)
+
+
+# class (3): the negative-definite normal form Gamma has at most two bad vertices (Theorem 2.6 applies)
+def negdef_form(n):
+    for src in NF_SOURCES:
+        if n in src:
+            return src[n]['plumbing']
+    r = ps0[n] if n in ps0 else C47n[n]
+    return r['normal_forms'][[o for o, v in r['pplus'].items() if v == 0][0]]
+
+
+CLASS3 = [x['name'] for f in ('reach_u12_orb.json', 'reach_u23_orb.json') for x in J(TOOL, f)
+          if status(x['name']) in ('obstructed', 'tested', 'notest')] + THMC_OBSTRUCTED
+BAD3 = Counter(bad_vertices(negdef_form(n)) for n in CLASS3)
+assert len(CLASS3) == both('obstructed') + both('tested') + both('notest') and set(BAD3) <= {1, 2}
+assert all(bad_vertices(negdef_form(n)) == 1 for n in THMC_OBSTRUCTED)        # 13n3004, 13n3005
+
+
 nums = dict(nNewUtwo=len(rows2), nNewUthree=len(rows3), nUfive=len(rows5), nAdopted=len(rows2) + len(rows3),
             nObstrD=sum(nf[e['knot']]['verdict'] == 'OBSTRUCTED' for e in rows2),
             nObstrHF=sum(nf[e['knot']]['verdict'] == 'OBSTRUCTED_HF' for e in rows2),
             nBadOne=sum(bad_vertices(nf[e['knot']]['plumbing']) == 1 for e in rows2 + rows3),
             nBadTwo=sum(bad_vertices(nf[e['knot']]['plumbing']) == 2 for e in rows2 + rows3),
+            nNegDefBadOne=BAD3[1], nNegDefBadTwo=BAD3[2],
             nIdentified=sum(bool(nf[e['knot']].get('plumbing_name_matches')) for e in rows2 + rows3),
             nUthreeAll=len(rows66), nUthreeAlt=sum('a_' in n for n in rows66), nUthreeNonalt=sum('n_' in n for n in rows66),
             nOpenUonetwo=sum(cols['u12'].values()), nOpenUtwothree=sum(cols['u23'].values()),
