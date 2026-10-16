@@ -218,11 +218,31 @@ assert not bfc['negative']['obstructed'] and not bfc['positive']['not_obstructed
 
 # Section 5: the knot 13n1587 (bernhard_jablan/results)
 BJR = os.path.join(HERE, '..', 'bernhard_jablan', 'results')
-comp = J(BJR, 'completeness_13n_1587.json')['summary']
+comp_full = J(BJR, 'completeness_13n_1587.json')
+comp = comp_full['summary']
 nbr = J(BJR, 'neighbor_lower_13n_1587.json')
 comp12, bj12 = J(BJR, 'completeness_12n_563.json')['summary'], J(BJR, 'bjset_12n_563.json')
-assert all(x['ids'] and x['ids'] != ['0_1'] for x in bj12['changes'])            # no crossing change of 12n563 gives the unknot
+
+
+def det_of_pd(pd):                       # exact determinant |det(V + V^T)| of the knot of a diagram
+    import spherogram, sympy
+    V = spherogram.Link(pd).seifert_matrix()
+    return abs(int(sympy.Matrix(len(V), len(V), lambda i, j: V[i][j] + V[j][i]).det()))
+
+
+# no crossing change of 12n563 gives the unknot: every changed diagram is named and has determinant other than one
+assert len(bj12['changes']) == 216 and all(len(x['ids']) == 1 and x['ids'][0] in BY and det_of_pd(x['pd']) != 1
+                                           for x in bj12['changes'])
 dec = comp['decisions']
+# the 57 candidates that share the Alexander polynomial and knot Floer homology of 13n1587 are separated from it by the
+# H_1-multisets of connected covers of degree <= 4; the 7 accepted diagrams have the same multisets as 13n1587
+cov = {(r['ref'], tuple(r['subset'])): r for r in J(BJR, 'cover_separation_13n_1587.json')['rows']}
+cands = lambda tag: {(r['ref'], tuple(c['subset'])) for r in comp_full['references'] for c in r['candidates']
+                     if c['decision'].startswith(tag)}
+UNRES, ACC = cands('UNRESOLVED'), cands('ACCEPTED')
+assert set(cov) == UNRES | ACC and len(UNRES) == dec['UNRESOLVED: same Alexander and HFK as target but not identified as target']
+assert all(not cov[k]['cover_invariant_equal'] and cov[k]['first_differing_degree'] <= 4 for k in UNRES)
+assert all(cov[k]['cover_invariant_equal'] for k in ACC) and len(ACC) == len(comp['accepted'])
 NAME = {'5_2#?3c': r'$5_2\#3_1$'}
 WHY = {'9_46': r'$H_1$ needs two generators \cite{Wendt}', '10_38': r'no unknotting crossing \cite[Thm.~1]{McCoy}',
        '12a_237': r'$|\sigma|=4$', '12n_155': r'$|\sigma|=4$', '5_2#?3c': r'$|\sigma|=4$',
@@ -273,6 +293,29 @@ assert len(CLASS3) == both('obstructed') + both('tested') + both('notest') and s
 assert all(bad_vertices(negdef_form(n)) == 1 for n in THMC_OBSTRUCTED)        # 13n3004, 13n3005
 
 
+# every tree above is identified with Sigma_2 by triangulating its plumbed manifold, and its inertia and determinant are
+# exact (neumann/identify_trees.py)
+IT = J(TOOL, 'neumann', 'identify_trees.json')
+
+
+def canon(w, edges):
+    adj = {i: [] for i in range(len(w))}
+    for a, b in edges:
+        adj[a].append(b); adj[b].append(a)
+    enc = lambda v, p: '(' + str(w[v]) + ''.join(sorted(enc(u, v) for u in adj[v] if u != p)) + ')'
+    return min(enc(r, -1) for r in range(len(w)))
+
+
+def identified(n, tree, cls):
+    t = {x['canon']: x for x in IT[n]['trees']}.get(canon(tree['weights'], tree['edges'])) if n in IT else None
+    ok = bool(t and IT[n]['cls'] == cls and t['matched'] and t['nullity'] == 0 and abs(t['det']) == int(BY[n]['determinant']))
+    return t if ok else None
+
+
+assert all(identified(n, t, 2) and identified(n, t, 2)['pplus'] == t['pplus'] >= 1 for n in CLASS2 for t in BO[n]['trees'])
+assert all(identified(n, negdef_form(n), 3) and identified(n, negdef_form(n), 3)['pplus'] == 0 for n in CLASS3)
+
+
 nums = dict(nNewUtwo=len(rows2), nNewUthree=len(rows3), nUfive=len(rows5), nAdopted=len(rows2) + len(rows3),
             nObstrD=sum(nf[e['knot']]['verdict'] == 'OBSTRUCTED' for e in rows2),
             nObstrHF=sum(nf[e['knot']]['verdict'] == 'OBSTRUCTED_HF' for e in rows2),
@@ -293,7 +336,7 @@ nums = dict(nNewUtwo=len(rows2), nNewUthree=len(rows3), nUfive=len(rows5), nAdop
             nBFNegCtrl=bfc['negative']['tested'], nBFPubCtrl=bfc['positive']['tested'] // 2,
             nRefAlt=comp['references'], nDetCand=comp['exact_det_candidates'],
             nExclCross=dec['excluded: crossing number < 13'], nExclAlex=dec['excluded: Alexander polynomial differs'],
-            nExclCover=dec['UNRESOLVED: same Alexander and HFK as target but not identified as target'],
+            nExclCover=len(UNRES),
             nMinDiag=dec['ACCEPTED: SnapPy identifies target; HFK agrees'], nNbrChanges=len(nbr), nNbrTypes=len(groups),
             nTwelveRef=comp12['references'], nTwelveDiag=bj12['n_diagrams'], nTwelveChanges=len(bj12['changes']),
             nInconclusive=both('tested'), nPosVol=both('hyperbolic') + both('mixed'),

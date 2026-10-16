@@ -12,7 +12,7 @@ by crossing changes.
 
 | Script | Output | Content |
 | --- | --- | --- |
-| `enum_diagrams.py TARGET` | `diagrams_TARGET.json` | all diagrams obtained from the reference diagrams by crossing changes, filtered by the determinant and identified with SnapPy |
+| `enum_diagrams.py TARGET` | `diagrams_TARGET.json` | all diagrams obtained from the reference diagrams by crossing changes, filtered by the determinant and identified with SnapPy. Crossing 0 of each reference diagram is never changed: changing all crossings gives the mirror image, so the diagrams are enumerated up to mirror image (also in `verify_completeness.py`) |
 | `neighbors.py diagrams_TARGET.json` | `bjset_TARGET.json` | the knots obtained by one crossing change in each minimal diagram |
 | `verify_completeness.py TARGET OUT.json` | `completeness_TARGET.json` | completeness with exact invariants (details below) |
 | `cover_invariant.py TARGET OUT.json DMAX` | `cover_separation_TARGET.json` | separates candidates with the same Alexander polynomial and knot Floer homology, by the homology of all connected covers of degree at most DMAX |

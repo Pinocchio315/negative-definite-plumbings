@@ -24,12 +24,13 @@ SnapPy. Its triangulation is then recognised with Regina.
 
 | Script | Output | Content |
 | --- | --- | --- |
-| `formula.py` | | the Regina name of the boundary of a plumbing tree, computed by formula |
+| `formula.py` | | the Regina name of the boundary of a plumbing tree, computed by formula. The chain between two nodes contributes the product $E\,V(c_r)\,E\cdots V(c_1)\,E$ with $E=\left(\begin{smallmatrix}0&1\\1&0\end{smallmatrix}\right)$ and $V(c)=\left(\begin{smallmatrix}1&0\\c&-1\end{smallmatrix}\right)$; this choice among 128 sign and transpose conventions was fixed by `calibrate.py`. The search uses it only to propose candidates: every tree the paper uses is identified by triangulation (`identify_trees.py`) |
 | `calibrate.py` | `calibrate.json` | checks `formula.py` against Regina's recognition of triangulated plumbings (random pair and triple trees) |
 | `invert.py` | | building blocks of normal forms: Hirzebruch–Jung legs, chains, node weights from $\lvert\det\rvert=D$ |
 | `precheck.py` | `precheck_u12.json`, `precheck_u23.json` | the normal forms of $\Sigma(K)$ and $-\Sigma(K)$ from the Regina names; verdict `APPLICABLE` (one is negative definite) or `NOT APPLICABLE` (both have $p^+\ge1$) |
 | `precheck_sigma0.py` | `precheck_sigma0.json` | the same for the 32 graph-manifold covers with $\sigma=0$ that no other run processed |
 | `both_orientations.py` | `both_orientations.json` | for each of the 299 verdicts `NOT APPLICABLE`: the different trees accepted over all orientation choices. Each knot has exactly two, the normal forms of $\Sigma(K)$ and $-\Sigma(K)$, both with $p^+\ge1$ (asserted by `../paper/make_tables.py`). `precheck.py` keeps one tree per orientation choice; for the 18 knots where these coincide, all accepted trees are recomputed |
+| `identify_trees.py` | `identify_trees.json` | every tree used for classes (2) and (3) (598 and 180): triangulated as surgery on the plumbing link and recognised with Regina, independently of `formula.py`; all 778 have a Regina name of $\Sigma(K)$. Also the exact inertia (Descartes' rule on the characteristic polynomial) and determinant of $Q_\Gamma$ |
 | `run_invert.py` | | module: orientation from the linking pairing, and the $u=1$ test (Ni–Wu formula; graded roots and the mapping cone for one bad vertex) |
 | `run_fresh.py` | `run_fresh.json` | normal form and tests for `recognise_more_fresh.json`. For $[1,2]$ the $u=1$ test; for $[2,3]$ and $[2,4]$ Owens's test (`../owens_u3_graph.py`) |
 | `run_retry13.py`, `run_pachner4.py` | `run_retry13.json`, `run_pachner4.json` | the same for the covers recognised by `recognise_retry.py` and `pachner_recognise.py` |

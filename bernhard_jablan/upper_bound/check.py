@@ -32,10 +32,15 @@ out = {}
 
 
 def snappy_sig(pd):
+    """Isometry signature of the complement, or None if SnapPy fails; a failure never counts as a match."""
     try:
         return snappy.Link(pd).exterior().isometry_signature()
-    except Exception as e:
-        return 'ERR ' + repr(e)[:60]
+    except Exception:
+        return None
+
+
+def sig_match(a, b):
+    return a is not None and a == b
 
 
 def regina_sigs(pd, height=2):
@@ -64,13 +69,15 @@ def unknot_evidence(pd):
 # (a)
 K0 = json.loads(BY['13n_1587']['pd_notation'])
 s0, r0 = snappy_sig(K0), regina_sigs(K0)
+assert s0 is not None and r0
+out['a_reference_signatures'] = dict(snappy=s0, regina=sorted(r0))
 hits = [json.loads(l) for l in open(os.path.join(HERE, 'hits.jsonl'))]
 rec_a = []
 for h in hits:
     if h['knot'] != '13n_1587':
         continue
     pd = h['pd']
-    same = dict(snappy=snappy_sig(pd) == s0, regina=bool(regina_sigs(pd) & r0))
+    same = dict(snappy=sig_match(snappy_sig(pd), s0), regina=bool(regina_sigs(pd) & r0))
     if h['mode'] == 'A':
         ev = unknot_evidence(change(pd, h['pair']))
         rec_a.append(dict(mode='A', crossings=len(pd), pair=h['pair'], signs=h['signs'], diagram_is_13n1587=same, unknot=ev))
@@ -78,7 +85,7 @@ for h in hits:
         q = change(pd, [h['crossing']])
         t = json.loads(BY[h['target']]['pd_notation'])
         rec_a.append(dict(mode='B', crossings=len(pd), crossing=h['crossing'], sign=h['sign'], diagram_is_13n1587=same,
-                          target=h['target'], target_snappy=snappy_sig(q) == snappy_sig(t),
+                          target=h['target'], target_snappy=sig_match(snappy_sig(q), snappy_sig(t)),
                           target_regina=bool(regina_sigs(q) & regina_sigs(t))))
     print('(a)', rec_a[-1], flush=True)
 out['a_upper_bound'] = rec_a

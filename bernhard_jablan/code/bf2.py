@@ -93,10 +93,6 @@ class LinkingForm:
         by = self.Bx[j]
         return (2 * sum(x[k] * by[k] for k in range(self.n))) % self.D
 
-    def invariant_factors(self):
-        S = sympy.matrices.normalforms.smith_normal_form(sympy.Matrix(self._M), domain=sympy.ZZ)
-        return S
-
 
 def gl2_z4():
     out = []

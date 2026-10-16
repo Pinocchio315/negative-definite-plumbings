@@ -2,8 +2,9 @@
 
 Run the scripts from this folder.
 
-**The test.** `bf2.py` decides whether a knot can be turned into a knot with Alexander polynomial one by two crossing
-changes. This is the obstruction of Borodzik and Friedl, in the form of Lemma 4.1 of the paper.
+**The test.** `bf2.py` tests the necessary conditions of Lemma 4.1 of the paper, the obstruction of Borodzik and
+Friedl, for turning a knot into a knot with Alexander polynomial one by two crossing changes. If no matrix satisfies
+them, two crossing changes cannot do this; a surviving matrix proves nothing.
 - $C$ runs over the binary forms of BF Lemma 5.2, with $\lvert\det C\rvert=\det K$ and both signs of $\det C$.
 - Signature: $\operatorname{sign}C=\sigma(K)+e_1+e_2$.
 - Diagonal residues: modulo 4 they are $e_1,e_2$, with an even off-diagonal entry, tested over the 96 elements of
