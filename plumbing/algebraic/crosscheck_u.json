@@ -1,0 +1,610 @@
+{
+ "13n_326": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.663045883139233
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_330": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.48682531300955
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_345": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.07531654214876
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_347": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.930503498826432
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_348": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.66304588313924
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_352": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.486825313009554
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_358": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.07531654214876
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_360": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.93050349882643
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3739": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.621121505287615
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3741": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.618971026036984
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3743": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.919203084491166
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3744": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.716140104042978
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3745": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.62112150528761
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3747": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.618971026036988
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3749": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.919203084491162
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3750": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.71614010404297
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3770": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.62112150528761
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3772": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.61897102603698
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3774": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.919203084491162
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3775": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.71614010404297
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3776": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.621121505287604
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3778": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.618971026036984
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3780": {
+  "second_crossings": 14,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.919203084491166
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_3781": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.716140104042974
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_510": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.66304588313924
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_514": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.486825313009557
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_521": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.075316542148762
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_523": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.93050349882643
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_524": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 17.663045883139233
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_526": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.48682531300955
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_531": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 19.075316542148755
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ },
+ "13n_533": {
+  "second_crossings": 15,
+  "second_same_normal_forms": {
+   "1": true,
+   "-1": true
+  },
+  "isometric_to_knotinfo": [
+   true,
+   true
+  ],
+  "knotinfo_exterior": {
+   "solution": "all tetrahedra positively oriented",
+   "volume": 18.930503498826425
+  },
+  "numpy_inertia_agrees": {
+   "1": true,
+   "-1": true
+  }
+ }
+}

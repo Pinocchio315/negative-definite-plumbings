@@ -11,6 +11,7 @@ from collections import Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 CEN = os.path.join(HERE, '..')
 TOOL = os.path.join(CEN, 'plumbing')
+ALGD = os.path.join(TOOL, 'algebraic')                             # algebraic diagrams (Lemma 2.7)
 OUT = os.path.join(HERE, 'tables')
 os.makedirs(OUT, exist_ok=True)
 from database_knotinfo import link_list
@@ -133,6 +134,8 @@ ps0 = J(TOOL, 'neumann', 'precheck_sigma0.json')     # graph-type covers that no
 
 
 nc3 = J(TOOL, 'neumann', 'normal_case3.json')     # class (3) knots first found by the earlier plumbing searches
+UA = J(ALGD, 'u_plumbing.json'); XA = J(ALGD, 'crosscheck_u.json'); AD = J(ALGD, 'alg_diagrams.json')
+VA = J(ALGD, 'validate_plumbing.json')               # the construction on every algebraic KnotInfo diagram
 NF_SOURCES = (p4, r13, fresh, nf, nc3)               # every verdict in these files comes from a Neumann normal form
 
 
@@ -155,6 +158,9 @@ def status(n):
         if n in src and src[n]:
             assert src[n].get('verdict') == 'NO PLUMBING', n
             return 'nodef' if pre.get(n, {}).get('verdict') == 'NOT APPLICABLE' else 'other'
+    if n in UA:                          # not recognised by Regina; normal forms from an algebraic diagram
+        assert JS[n]['verdict'].startswith('toroidal, no geometric'), n
+        return 'nodef_alg'
     if n in JS and JS[n]['verdict'].startswith('toroidal, no geometric'):
         return 'graph4'
     if n in ps0:
@@ -177,13 +183,14 @@ for n in THMC_OBSTRUCTED:          # Owens's test excludes u = 2 in both orienta
     r, v = C47n[n], C47v[n]
     assert r['test_verdict'] == 'OBSTRUCTED' and r['cw_consistent'] and v['plumbing_name_matches'] and v['blocked'] == [1, -1]
 cols['u23'] += Counter('obstructed' if s == 'negdef' else s for s in C47.values())
-assert not cols['u12']['other'] and not cols['u23']['other']
+assert not cols['u12']['other'] and not cols['u23']['other'] and not cols['u12']['graph4'] and not cols['u23']['graph4']
 assert cols['u23']['obstructed'] == len(rows3) + len(THMC_OBSTRUCTED) and cols['u12']['obstructed'] == len(rows2)
 order = [('hyperbolic', r'hyperbolic (verified)'), ('mixed', r'toroidal, with a hyperbolic JSJ piece'),
-         ('nodef', r'graph manifold, no negative-definite plumbing tree'),
+         (None, r'graph manifold, no negative-definite plumbing tree:'),
+         ('nodef', r'\quad recognised by Regina'), ('nodef_alg', r'\quad from an algebraic diagram'),
          (None, r'$\pm\dbc(K)$ bounds a negative-definite plumbing tree:'),
          ('obstructed', r'\quad $u=1$, resp.\ $u=2$, excluded'), ('tested', r'\quad obstructions inconclusive'),
-         ('notest', r'\quad no correction-term test ($\sigma=0$)'), ('graph4', r'toroidal, JSJ pieces not identified')]
+         ('notest', r'\quad no correction-term test ($\sigma=0$)')]
 L = [r'\begin{tabular}{lrr}', r'\toprule', r'$\dbc(K)$ & $u\in[1,2]$ & $u\in[2,3],[2,4]$\\', r'\midrule']
 for k, lab in order:
     L.append(f"{lab} & & \\\\" if k is None else f"{lab} & {cols['u12'][k]} & {cols['u23'][k]}\\\\")
@@ -277,6 +284,28 @@ CLASS2 += [n for n, s in C47.items() if s == 'nodef']
 assert len(CLASS2) == both('nodef') and all(BO[n]['distinct_trees'] == 2 and min(BO[n]['pplus']) >= 1 for n in CLASS2)
 
 
+# class (2), covers not recognised by Regina: by Lemma 2.7 an algebraic diagram (obtained by Reidemeister moves; SnapPy
+# finds the exteriors isometric to the KnotInfo ones) gives the normal forms of Sigma_2 and -Sigma_2. Both have four nodes,
+# cokernel cyclic of order det K and positive eigenvalues, and a second, independently found algebraic diagram gives the
+# same two normal forms. The KnotInfo diagrams are not algebraic.
+CLASS2ALG = [x['name'] for f in ('reach_u12_orb.json', 'reach_u23_orb.json') for x in J(TOOL, f) if status(x['name']) == 'nodef_alg']
+assert sorted(CLASS2ALG) == sorted(UA) == sorted(AD) == sorted(XA) and 'nodef_alg' not in C47.values()
+for n in CLASS2ALG:
+    D = int(BY[n]['determinant'])
+    assert UA[n]['D'] == D and UA[n]['knotinfo_diagram_vertices'] > 1 and UA[n]['diagram_crossings'] == AD[n]['crossings']
+    for s in ('1', '-1'):
+        t = UA[n][s]; deg = Counter(v for e in t['edges'] for v in e)
+        assert t['det_raw'] == D and t['smith'] in ([D], [-D]) and abs(t['inertia']['det']) == D and not t['inertia']['nullity']
+        assert t['inertia']['pplus'] >= 1 and len(t['nodes']) == 4
+        assert all(w <= -2 for v, w in enumerate(t['weights']) if deg[v] <= 2)                  # normal form
+    assert UA[n]['1']['canon'] != UA[n]['-1']['canon']
+    x = XA[n]
+    assert all(x['second_same_normal_forms'].values()) and all(x['isometric_to_knotinfo']) and all(x['numpy_inertia_agrees'].values())
+VS = VA['summary']                     # the construction on the KnotInfo diagrams that are algebraic
+assert not VS['det_mismatch'] and not VS['identified_disagree']
+ALG_THM = [e['knot'] for e in rows2 + rows3 if e['knot'] in VA['records'] and VA['records'][e['knot']]['identified']['agrees']]
+
+
 # class (3): the negative-definite normal form Gamma has at most two bad vertices (Theorem 2.6 applies)
 def negdef_form(n):
     for src in NF_SOURCES:
@@ -326,8 +355,9 @@ nums = dict(nNewUtwo=len(rows2), nNewUthree=len(rows3), nUfive=len(rows5), nAdop
             nUthreeAll=len(rows66), nUthreeAlt=sum('a_' in n for n in rows66), nUthreeNonalt=sum('n_' in n for n in rows66),
             nOpenUonetwo=sum(cols['u12'].values()), nOpenUtwothree=sum(cols['u23'].values()),
             nOpenAll=sum(cols['u12'].values()) + sum(cols['u23'].values()),
-            nHypCert=both('hyperbolic'), nMixed=both('mixed'), nNoDef=both('nodef'),
-            nNegDef=both('obstructed') + both('tested') + both('notest'), nGraphFour=both('graph4'),
+            nHypCert=both('hyperbolic'), nMixed=both('mixed'), nNoDef=both('nodef') + both('nodef_alg'),
+            nNoDefRec=both('nodef'),
+            nNegDef=both('obstructed') + both('tested') + both('notest'), nGraphFour=both('nodef_alg'),
             nNegDefOne=cols['u12']['obstructed'] + cols['u12']['tested'] + cols['u12']['notest'],
             nNegDefTwo=cols['u23']['obstructed'] + cols['u23']['tested'] + cols['u23']['notest'], nNoTest=both('notest'),
             nUthreeNoCond=len(c66) - len(signed_only), nUthreeSigned=len(signed_only),
@@ -340,8 +370,10 @@ nums = dict(nNewUtwo=len(rows2), nNewUthree=len(rows3), nUfive=len(rows5), nAdop
             nMinDiag=dec['ACCEPTED: SnapPy identifies target; HFK agrees'], nNbrChanges=len(nbr), nNbrTypes=len(groups),
             nTwelveRef=comp12['references'], nTwelveDiag=bj12['n_diagrams'], nTwelveChanges=len(bj12['changes']),
             nInconclusive=both('tested'), nPosVol=both('hyperbolic') + both('mixed'),
-            nNoPlumb=both('hyperbolic') + both('mixed') + both('nodef'),
-            nGraphMfd=both('nodef') + both('obstructed') + both('tested') + both('notest'),
+            nNoPlumb=both('hyperbolic') + both('mixed') + both('nodef') + both('nodef_alg'),
+            nGraphMfd=both('nodef') + both('nodef_alg') + both('obstructed') + both('tested') + both('notest'),
+            nAlgCheck=VS['algebraic'], nAlgTrees=VS['identified_class2'] + VS['identified_class3'], nAlgThm=len(ALG_THM),
+            nAlgCrossMin=min(r['crossings'] for r in AD.values()), nAlgCrossMax=max(r['crossings'] for r in AD.values()),
             nThmCNoPlumb=sum(s in ('hyperbolic', 'mixed', 'nodef') for s in C47.values()),
             nNewAll=len(rows2) + len(rows3) + len(rows66) + len(rows5), nClassicalNew=len(rows66) + len(rows5),
             nCtrl=len(ctl), nCtrlFourTwo=len(c42), nCtrlFourThree=len(c43),

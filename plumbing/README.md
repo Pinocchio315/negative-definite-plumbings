@@ -73,6 +73,12 @@ records of this section supply the Regina names used as input.
 
 For 13n3004 and 13n3005, Owens's test excludes $u=2$ in both orientations.
 
+## 5. Algebraic diagrams (`algebraic/`)
+
+For the 32 knots whose cover Regina does not recognise, `algebraic/` finds algebraic diagrams and reads the normal
+forms of $\Sigma(K)$ and $-\Sigma(K)$ from them (Lemma 2.7). It also tests the construction on every KnotInfo diagram
+that is algebraic. See `algebraic/README.md`.
+
 ## Modules
 
 - `general.py`: names, legs and linking forms.

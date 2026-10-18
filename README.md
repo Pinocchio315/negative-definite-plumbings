@@ -18,14 +18,17 @@ final table of arXiv:2609.09861v2, and knot data come from KnotInfo through `dat
 | --- | ---: | ---: | ---: |
 | hyperbolic (verified) | 187 | 303 | 490 |
 | toroidal, with a hyperbolic JSJ piece | 69 | 80 | 149 |
-| graph manifold; neither $\Sigma(K)$ nor $-\Sigma(K)$ bounds a negative-definite plumbing tree | 102 | 197 | 299 |
+| graph manifold recognised by Regina; neither $\Sigma(K)$ nor $-\Sigma(K)$ bounds a negative-definite plumbing tree | 102 | 197 | 299 |
+| graph manifold with four Seifert pieces, from an algebraic diagram; neither orientation bounds a negative-definite plumbing tree | 20 | 12 | 32 |
 | $\Sigma(K)$ or $-\Sigma(K)$ bounds a negative-definite plumbing tree | 59 | 121 | 180 |
-| toroidal, JSJ pieces not identified | 20 | 12 | 32 |
 | **total** | **437** | **713** | **1,150** |
 
-For 938 of these knots, no orientation of $\Sigma(K)$ bounds a negative-definite plumbing tree. A graph manifold falls
-in the third or fourth row according to its Neumann normal forms, by Neumann's theorem on the positive index of
-plumbing trees.
+For 970 of these knots, no orientation of $\Sigma(K)$ bounds a negative-definite plumbing tree. For a graph manifold,
+the Neumann normal forms decide this, by Neumann's theorem on the positive index of plumbing trees.
+
+The 32 covers of the fourth row were left undecided in the first version of the paper. Regina recognises neither them
+nor their pieces. These knots are arborescent, and the revised version reads their normal forms from algebraic
+diagrams (Lemma 2.7, `plumbing/algebraic/`).
 
 **New values.**
 
@@ -47,7 +50,8 @@ $u=2$. This gives a second proof for them.
 ├── data/                 inputs: ranges of arXiv:2609.09861v2, the new values, KnotInfo extracts
 ├── lib/                  shared modules (from the arXiv:2609.09861 repository, byte-identical) and helpers
 ├── plumbing/             Sections 2.2 and 3: Sigma_2, hyperbolicity, JSJ, Neumann normal forms, obstructions
-│   └── neumann/          normal forms of Sigma_2 and -Sigma_2, tests, re-derivation and verification
+│   ├── neumann/          normal forms of Sigma_2 and -Sigma_2, tests, re-derivation and verification
+│   └── algebraic/        Lemma 2.7: normal forms from algebraic diagrams (32 covers with four Seifert pieces)
 ├── rank_two/             Section 4.1: the rank-two linking pairing test, 66 knots, controls
 │   └── alternating_audit/  independent implementation for the 19 alternating knots
 ├── special_alternating/  Section 4.2: u = 5 for three special alternating knots
@@ -92,8 +96,12 @@ macros for every count in the text. It takes a few seconds and asserts the condi
 - Every knot of class (3) of Section 3.1 has a negative-definite normal form, with at most two bad vertices.
 - For every knot of class (2), two different trees are accepted, the normal forms of $\Sigma(K)$ and $-\Sigma(K)$,
   and neither is negative definite.
-- Every tree used for classes (2) and (3) is identified with $\Sigma(K)$ by triangulation, and its inertia and
-  determinant are exact.
+- Every tree used for classes (2) and (3) that comes from Regina's data is identified with $\Sigma(K)$ by triangulation,
+  and its inertia and determinant are exact.
+- For each of the 32 knots whose cover Regina does not recognise, the two normal forms from an algebraic diagram have
+  four nodes, a cyclic cokernel of order $\det K$ and positive eigenvalues. A second diagram gives the same two normal
+  forms. The construction agrees with every tree identified by triangulation whose knot has an algebraic KnotInfo
+  diagram.
 - For 13n1587, the 57 candidates sharing its Alexander polynomial and knot Floer homology are separated by covers of
   degree at most 4; no crossing change of a minimal diagram of 12n563 has determinant one.
 - The classification is complete: no knot is left unclassified.
@@ -112,6 +120,7 @@ recent Mac with 8–11 processes.
 | identification of every tree used for classes (2) and (3) by triangulation | `cd plumbing/neumann; python -B identify_trees.py` | about 1 min |
 | the 43 new values from the normal form alone | `cd plumbing/neumann; python -B rederive_all.py` | about 1 min |
 | the 96 knots of class (3) first found by plumbing searches | `cd plumbing/neumann; python -B normal_case3.py` | about 2 min |
+| algebraic diagrams of the 32 knots, their normal forms, and the checks of the construction | `cd plumbing/algebraic; python -B alg_diagrams.py; python -B u_plumbing.py; python -B crosscheck_u.py; python -B validate_plumbing.py; python -B cw_general.py` | about 3 min |
 | rank-two test on the 66 knots, controls | `cd rank_two; python -B check66.py; python -B controls_bf2.py` | 20 s |
 | $u=5$ | `cd special_alternating; python -B verify3.py` | 75 s |
 | neighbours of 13n1587 | `cd bernhard_jablan/code; python -B neighbor_lower.py ../results/bjset_13n_1587.json` | seconds |
@@ -121,23 +130,28 @@ Every row above was re-run in this layout, and each reproduced the deposited rec
 the following:
 - run times;
 - tuples written as lists;
-- for 13n1662, the randomised recognition named the cover at a later attempt, with the same name.
+- for 13n1662, the randomised recognition named the cover at a later attempt, with the same name;
+- in `plumbing/algebraic/`, the randomised search found other algebraic diagrams for 30 of the 32 knots, with the
+  same normal forms.
 
 ## Paper and code
 
 | Paper | Claim | Code | Records |
 | --- | --- | --- | --- |
 | §2.2 | the plumbing graph ↔ Regina notation; normal forms from Regina names | `plumbing/neumann/formula.py`, `calibrate.py`, `precheck.py` | `calibrate.json` |
+| §2.2 | Lemma 2.7: the plumbing tree of an algebraic diagram | `plumbing/algebraic/algebraic_plumbing.py`, `basic_polyhedron.py` | |
 | §3.1 | recognition of $\Sigma(K)$ | `plumbing/reach_orb.py`, `reach_u23_orb.py`, `recognise_more.py`, `recognise_retry.py` | `reach_*_orb.json`, `recognise_*.json` |
 | §3.1 | verified hyperbolicity | `plumbing/verify_hyp.py` (Sage) | `verify_hyp.json` |
 | §3.1 | incompressible tori and hyperbolic pieces | `plumbing/jsj.py`, `jsj_verify.py` (Sage), `pachner_recognise.py` | `jsj.json`, `jsj_verify.json`, `pachner_recognise.json` |
 | §3.1 | normal forms of $\pm\Sigma(K)$ | `plumbing/neumann/precheck.py`, `precheck_sigma0.py`, `run_fresh.py`, `run_retry13.py`, `run_pachner4.py`, `normal_case3.py`, `both_orientations.py`, `identify_trees.py` | `plumbing/neumann/*.json` |
 | §3.1 | the 47 non-alternating knots of §4.1 | `plumbing/classify47.py` | `classify47_*.json` |
+| §3.1 | the 32 covers with four Seifert pieces: algebraic diagrams and normal forms | `plumbing/algebraic/alg_diagrams.py`, `u_plumbing.py` | `alg_diagrams.json`, `u_plumbing.json` |
 | §3.2 | $u=1$ excluded: Ni–Wu, mapping cone | `plumbing/neumann/run_invert.py` (`u1_test`), `lib/lower_bounds/montesinos/` | `rederive_all.json` |
 | §3.3 | $u=2$ excluded: Owens, Traczyk | `plumbing/owens_u3_graph.py` (`run_one`), `lib/lower_bounds/owens/` | `rederive_all.json`, `classify47_normal.json` |
 | §3.4 | identification, Casson–Walker identity | `plumbing/neumann/rederive_all.py`, `plumbing/owens_u3_graph.py` (`L_closed`), `plumbing/graph_verify.py` | `rederive_all.json`, `graph_verify.json` |
 | §3.4 | independent implementations | `bernhard_jablan/code/u1_independent.py`, `owens_independent.py`, `plumbing/owens_general_group.py`, `plumbing/neumann/verify_fresh.py` | `owens_general_group.json`, `verify_fresh.json`, `classify47_verify.json` |
 | §3.4 | controls of Owens's test | `plumbing/owens_u3_graph.py controls` | `owens_u3_controls.json` |
+| §3.4 | second algebraic diagrams; the construction on the algebraic KnotInfo diagrams | `plumbing/algebraic/crosscheck_u.py`, `validate_plumbing.py`, `cw_general.py` | `crosscheck_u.json`, `validate_plumbing.json`, `cw_general.json` |
 | §4.1 | rank-two linking pairing test | `rank_two/bf2.py`, `extend.py`, `robust47.py`, `upper47.py`, `check66.py`, `controls_bf2.py` | `rank_two/*.json` |
 | §4.1 | second implementation for the alternating knots | `rank_two/alternating_audit/independent_audit/code/independent_hnf.py` | `hnf_results.json` |
 | §4.2 | $u=5$ | `special_alternating/verify3.py` | `verify3.json` |
