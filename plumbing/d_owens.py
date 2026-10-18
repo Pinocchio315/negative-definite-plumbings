@@ -50,16 +50,3 @@ def owens_1_1(D, d):
         passing = [f for f, mv in mvecs.items() if mv is not None and OI.admits(mv, vec, D)]
         out['Y' if o == 1 else '-Y'] = dict(d_spin=str(vec[0]), passing=passing)
     return dict(forms=sorted(mvecs), result=out, obstructed=all(not r['passing'] for r in out.values()))
-
-
-if __name__ == '__main__':
-    found = json.load(open('plumbing_13n309.json'))['found']
-    rec = {}
-    for i, f in enumerate(found):
-        D, d = plumbing_d(f['weights'], f['edges'])
-        ow = owens_1_1(D, d)
-        rec[f'match{i}'] = dict(plumbing=f, D=D, d={t: str(v) for t, v in sorted(d.items())}, owens_1_1=ow)
-        print(f'match {i}: D {D} | d(spin) {d[0]} | d values', sorted(set(str(v) for v in d.values())),
-              '| Owens (1,1):', {k: (v['d_spin'], v['passing'][:4]) for k, v in ow['result'].items()},
-              '->', 'OBSTRUCTED (both orientations)' if ow['obstructed'] else 'not obstructed', flush=True)
-    json.dump(rec, open('d_owens_13n309.json', 'w'), indent=1, default=str)

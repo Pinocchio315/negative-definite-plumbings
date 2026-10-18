@@ -148,7 +148,7 @@ the following:
 | §3.1 | the 32 covers with four Seifert pieces: algebraic diagrams and normal forms | `plumbing/algebraic/alg_diagrams.py`, `u_plumbing.py` | `alg_diagrams.json`, `u_plumbing.json` |
 | §3.2 | $u=1$ excluded: Ni–Wu, mapping cone | `plumbing/neumann/run_invert.py` (`u1_test`), `lib/lower_bounds/montesinos/` | `rederive_all.json` |
 | §3.3 | $u=2$ excluded: Owens, Traczyk | `plumbing/owens_u3_graph.py` (`run_one`), `lib/lower_bounds/owens/` | `rederive_all.json`, `classify47_normal.json` |
-| §3.4 | identification, Casson–Walker identity | `plumbing/neumann/rederive_all.py`, `plumbing/owens_u3_graph.py` (`L_closed`), `plumbing/graph_verify.py` | `rederive_all.json`, `graph_verify.json` |
+| §3.4 | identification, Casson–Walker identity | `plumbing/neumann/rederive_all.py`, `plumbing/owens_u3_graph.py` (`L_closed`) | `rederive_all.json` |
 | §3.4 | independent implementations | `bernhard_jablan/code/u1_independent.py`, `owens_independent.py`, `plumbing/owens_general_group.py`, `plumbing/neumann/verify_fresh.py` | `owens_general_group.json`, `verify_fresh.json`, `classify47_verify.json` |
 | §3.4 | controls of Owens's test | `plumbing/owens_u3_graph.py controls` | `owens_u3_controls.json` |
 | §3.4 | second algebraic diagrams; the construction on the algebraic KnotInfo diagrams | `plumbing/algebraic/crosscheck_u.py`, `validate_plumbing.py`, `cw_general.py` | `crosscheck_u.json`, `validate_plumbing.json`, `cw_general.json` |

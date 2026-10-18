@@ -9,8 +9,8 @@ consecutive nodes) plumbing trees are filtered by |det| = D, negative definitene
 a tree is accepted when Regina recognises its boundary with one of the collected names.  Equal names are equal
 manifolds; a different name for the same manifold can only lose a knot, never give a wrong identification.
 Correction terms d = max (K^2+|V|)/4: Ozsvath-Szabo for <= 1 bad vertex, Ozsvath-Stipsicz-Szabo for 2, Zemke
-(lattice = Heegaard Floer homology for negative-definite plumbing trees) in general.  Floer ranks (graded roots) and
-the Casson-Walker identity of crosscheck.py only for <= 1 bad vertex.
+(lattice = Heegaard Floer homology for negative-definite plumbing trees) in general.  Floer ranks (graded roots) only
+for <= 1 bad vertex.
 u = 1 test: v2's u1_admissible (both orientations, all affine identifications), with HF_red ranks when available.
 Usage: graph_u1.py [workers]          Output: graph_u1.json (written after every knot), graph_u1.log
 """

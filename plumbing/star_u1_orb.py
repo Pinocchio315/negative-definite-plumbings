@@ -2,7 +2,7 @@
 """star_u1.py on the knots that the orbifold-route classification (reach_u12_orb.json) recognises as stars but
 reach.py did not (Regina's recognition depends on the triangulation).  Same pipeline: star plumbing search accepted
 on the Regina name, v2's correction terms, graded-root HF_red, Ni-Wu u = 1 test (both orientations, all affine
-identifications), then the Casson-Walker identity of crosscheck.py.
+identifications).
 Output: star_u1_orb.json
 """
 import gzip, json, os, sys, time, warnings

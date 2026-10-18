@@ -17,8 +17,8 @@ them, two crossing changes cannot do this; a surviving matrix proves nothing.
 | `extend.py` | `extend.jsonl` | the test on the 2,264 knots whose KnotInfo range is $[1,3]$, $[1,4]$, $[2,3]$, $[2,4]$ or $[2,5]$; 96 are obstructed |
 | `parse_paper.py` | `paper_results.json` | the exact values and improved ranges of arXiv:2609.09861v2, read from `../data/arxiv_2609.09861v2_main.tex` |
 | `select47.py` | `new47.txt` | the obstructed 13-crossing non-alternating knots that are not exact in v2 and have upper bound 3 |
-| `robust47.py` | `robust47.json` | the test again, with the KnotInfo Seifert matrix and with one computed from the PD code; also the test without sign conditions |
-| `upper47.py` | `upper47.json` | three crossing changes in the KnotInfo diagram that give the unknot (knot Floer homology of total rank one, $\pi_1\cong\mathbb Z$); none with two or fewer |
+| `robust47.py` | | the test again, with the KnotInfo Seifert matrix and with one computed from the PD code; also the test without sign conditions. `check66.py` runs it on all 66 knots |
+| `upper47.py` | | three crossing changes in the KnotInfo diagram that give the unknot (knot Floer homology of total rank one, $\pi_1\cong\mathbb Z$); none with two or fewer. `check66.py` runs it on all 66 knots |
 | `check66.py` | `check66.json` | `robust47.work` and `upper47.work` on all 66 knots of `../data/new66_u3.txt` |
 | `controls_bf2.py` | `controls_bf2.json` | negative controls: 9,673 knots with $u\le2$ (v2) or $u_a\le2$ (KnotInfo), none excluded. Positive controls: the 25 knots of BF §6.2 and their mirrors, all excluded |
 

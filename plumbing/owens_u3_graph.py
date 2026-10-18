@@ -11,7 +11,7 @@ even integer for some group isomorphism phi (matching_exists).
 Correction terms: negative-definite plumbing found as in graph_u1 (orbifold-route Regina names, exact name match;
 stars included), d = max (K^2+|V|)/4 = -m_{-Q}.
 Orientation: Owens's Sigma_2 is the canonical one of the sigma > 0 representative.  Canonical Sigma_2(K) = s_cw Y with
-s_cw from the closed-form Casson-Walker identity (graph_verify.py), so the expected orientation is
+s_cw from the closed-form Casson-Walker identity (L_closed below), so the expected orientation is
 sign(sigma) * s_cw.  Verdicts are also computed in both orientations: 'OBSTRUCTED' means no form fits in either.
 Controls (mode 'controls'): KnotInfo Montesinos knots (<= 12 crossings, v2 notation plumbing) with |sigma| in {2,4}
 and exact u in {2,3}: |sigma| = 4, u = 2 knots must pass in the expected orientation; alternating ones must give

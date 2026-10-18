@@ -3,7 +3,8 @@
 `lower_bounds/` and `tait_graphs/tait/` are byte-identical copies of the corresponding modules of the
 [arXiv:2609.09861 repository](https://github.com/Pinocchio315/unknotting-tait-graphs). There they are documented and
 validated. Here they are only imported as modules; their command-line entry points, such as `main()` of
-`montesinos_u1.py`, read records of that repository that are not included here.
+`montesinos_u1.py`, read records of that repository that are not included here. The two `tait` modules that nothing
+here imports, `polygon.py` and `search.py`, are omitted.
 
 | Module | Used for |
 | --- | --- |

@@ -45,10 +45,8 @@ SnapPy. Its triangulation is then recognised with Regina.
 | `star_u1.py`, `star_u1_orb.py` | `star_u1.json`, `star_u1_orb.json` | star-shaped plumbings found by search for Seifert fibred covers, and the $u=1$ test |
 | `graph_u1.py` | `graph_u1.json` | the same for graph manifolds with two or three Seifert pieces; `NO PLUMBING` when the search finds none |
 | `owens_u3_graph.py` | `owens_u3_targets.json`, `owens_u3_controls.json` | Owens's test with plumbing correction terms. `controls` runs the 469 Montesinos knots of Section 3.4 |
-| `owens_u3_verify.py` | `owens_u3_verify.json` | independent Owens check, cyclic groups |
+| `owens_u3_verify.py` | | independent Owens check for cyclic groups; `owens_general_group.py` and `neumann/verify_fresh.py` use its functions |
 | `owens_general_group.py` | `owens_general_group.json` | independent Owens check for non-cyclic groups: every form, exact class minima, every group isomorphism (13n2933) |
-| `crosscheck.py` | `crosscheck.json`, `crosscheck_controls.json` | recognition by the orbifold route; Casson–Walker identity with $\sum d+2\sum\operatorname{rank}HF_{\mathrm{red}}$ |
-| `graph_verify.py` | `graph_verify.json` | calibration of the closed Casson–Walker formula $L(\Gamma)$ on star plumbings and Montesinos controls |
 
 The verdicts used in the paper come from the normal forms of Section 2, as `../paper/make_tables.py` asserts. The
 records of this section supply the Regina names used as input.
@@ -83,6 +81,4 @@ that is algebraic. See `algebraic/README.md`.
 
 - `general.py`: names, legs and linking forms.
 - `plumbing.py`: plumbing matrices, the plumbing link, triangulated plumbed manifolds.
-- `d_owens.py`: correction terms of a negative-definite plumbing tree, $d=\max(c^2+\lvert V\rvert)/4$. Run as a
-  script, it recomputes the worked example `d_owens_13n309.json` (Owens's $(1,1)$ test) from
-  `plumbing_13n309.json`, two plumbings of $\Sigma(13n309)$ found by an early search.
+- `d_owens.py`: correction terms of a negative-definite plumbing tree, $d=\max(c^2+\lvert V\rvert)/4$.

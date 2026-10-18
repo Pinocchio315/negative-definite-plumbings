@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 """Casson-Walker invariant of a plumbing tree in the normalisation of Section 3.4 of the paper, for any signature:
     L(Y) = (|det Q|/12) * ( tr Q - 3 sigma(Q) + sum_v (2 - d_v) (Q^{-1})_{vv} )
-(Lescop's plumbing formula; for negative-definite trees sigma = -s and this is graph_verify.L_closed).
+(the formula of Section 3.4 with 3s replaced by -3 sigma(Q); for negative-definite trees sigma = -s, and this is
+owens_u3_graph.L_closed).
 Checks on every algebraic KnotInfo diagram (validate_plumbing.json): L(raw tree) = L(normal form), and exactly one
 orientation SIGMA of the construction satisfies L = R(K) (graph_u1.R_of), the same for all knots.
 Output: cw_general.json
