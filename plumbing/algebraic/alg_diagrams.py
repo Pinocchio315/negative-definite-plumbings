@@ -17,7 +17,8 @@ BY = {r['name']: r for r in link_list()[1:]}
 ITERS = 6000
 
 
-def search(n, seed=1):
+def search(n, seed=1, avoid=None):
+    """An algebraic diagram of n with the fewest crossings found; diagrams for which avoid(pd) holds are skipped."""
     import spherogram
     random.seed(seed)
     K0 = spherogram.Link(json.loads(BY[n]['pd_notation']))
@@ -32,7 +33,7 @@ def search(n, seed=1):
             except Exception:
                 continue
             pd = [list(x) for x in L.PD_code()]
-            if len(L.link_components) == 1 and reduce_diagram(pd) == 1:
+            if len(L.link_components) == 1 and reduce_diagram(pd) == 1 and not (avoid and avoid(pd)):
                 found.append(dict(pd=pd, crossings=len(pd), iteration=it, mode=mode, seed=seed))
         if found and it >= 200:
             break

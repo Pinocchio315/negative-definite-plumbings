@@ -75,7 +75,8 @@ python -m pip install -r requirements.txt
 - **Python packages.** The pinned versions are in `requirements.txt`: SnapPy 3.3.2, Spherogram 2.4.1, Regina 7.4.1,
   knot_floer_homology 1.2.2, NumPy 2.5.2, SymPy 1.14.0, NetworkX 3.6.1 and `database_knotinfo` 2026.8.1.
 - **KnotInfo data.** The KnotInfo CSV of `database_knotinfo` 2026.8.1 has SHA-256
-  `e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d`.
+  `e37cfb46060b0ba5165a730e482275c8a82460c6a462653e662188cfe952598d`. The statement that KnotInfo 2026.10.5 records
+  the 112 new values as ranges rests on `data/knotinfo_2026-10-05_new_values.json` (see `data/README.md`).
 - **SageMath.** Verified hyperbolicity uses SnapPy's interval arithmetic inside SageMath. This concerns
   `plumbing/verify_hyp.py`, `plumbing/jsj_verify.py`, and the `hyp` and `piece` stages of `plumbing/classify47.py`.
   - Run them with `sage -python`.
@@ -99,9 +100,12 @@ macros for every count in the text. It takes a few seconds and asserts the condi
 - Every tree used for classes (2) and (3) that comes from Regina's data is identified with $\Sigma(K)$ by triangulation,
   and its inertia and determinant are exact.
 - For each of the 32 knots whose cover Regina does not recognise, the two normal forms from an algebraic diagram have
-  four nodes, a cyclic cokernel of order $\det K$ and positive eigenvalues. A second diagram gives the same two normal
-  forms. The construction agrees with every tree identified by triangulation whose knot has an algebraic KnotInfo
-  diagram.
+  four nodes, a cyclic cokernel of order $\det K$ and positive eigenvalues. A second diagram, different from the first,
+  gives the same two normal forms. The construction agrees with every tree identified by triangulation whose knot has
+  an algebraic KnotInfo diagram, and every tree it returns is in normal form.
+- For each of the six knots whose $u=1$ is excluded by reduced Floer homology, every identification that survives the
+  correction-term test violates the mapping cone condition (`plumbing/neumann/hfred_certificates.json`).
+- KnotInfo 2026.10.5 records the unknotting numbers of all 112 knots as ranges.
 - For 13n1587, the 57 candidates sharing its Alexander polynomial and knot Floer homology are separated by covers of
   degree at most 4; no crossing change of a minimal diagram of 12n563 has determinant one.
 - The classification is complete: no knot is left unclassified.
@@ -119,8 +123,10 @@ recent Mac with 8–11 processes.
 | both normal forms for each knot of class (2) | `cd plumbing/neumann; python -B both_orientations.py` | about 4 min |
 | identification of every tree used for classes (2) and (3) by triangulation | `cd plumbing/neumann; python -B identify_trees.py` | about 1 min |
 | the 43 new values from the normal form alone | `cd plumbing/neumann; python -B rederive_all.py` | about 1 min |
+| certificates of the six exclusions of $u=1$ by reduced Floer homology | `cd plumbing/neumann; python -B hfred_certificates.py` | about 1 min |
 | the 96 knots of class (3) first found by plumbing searches | `cd plumbing/neumann; python -B normal_case3.py` | about 2 min |
 | algebraic diagrams of the 32 knots, their normal forms, and the checks of the construction | `cd plumbing/algebraic; python -B alg_diagrams.py; python -B u_plumbing.py; python -B crosscheck_u.py; python -B validate_plumbing.py; python -B cw_general.py` | about 3 min |
+| KnotInfo 2026.10.5 entries of the 112 knots | `cd data; python -B knotinfo_2026_10_05.py PATH/knotinfo_data_complete.csv` | seconds |
 | rank-two test on the 66 knots, controls | `cd rank_two; python -B check66.py; python -B controls_bf2.py` | 20 s |
 | $u=5$ | `cd special_alternating; python -B verify3.py` | 75 s |
 | neighbours of 13n1587 | `cd bernhard_jablan/code; python -B neighbor_lower.py ../results/bjset_13n_1587.json` | seconds |
@@ -132,12 +138,13 @@ the following:
 - tuples written as lists;
 - for 13n1662, the randomised recognition named the cover at a later attempt, with the same name;
 - in `plumbing/algebraic/`, the randomised search found other algebraic diagrams for 30 of the 32 knots, with the
-  same normal forms.
+  same normal forms. The changes made there after a review are listed in `plumbing/algebraic/README.md`.
 
 ## Paper and code
 
 | Paper | Claim | Code | Records |
 | --- | --- | --- | --- |
+| §1 | KnotInfo 2026.10.5 records the 112 values as ranges | `data/knotinfo_2026_10_05.py` | `data/knotinfo_2026-10-05_new_values.json` |
 | §2.2 | the plumbing graph ↔ Regina notation; normal forms from Regina names | `plumbing/neumann/formula.py`, `calibrate.py`, `precheck.py` | `calibrate.json` |
 | §2.2 | Lemma 2.7: the plumbing tree of an algebraic diagram | `plumbing/algebraic/algebraic_plumbing.py`, `basic_polyhedron.py` | |
 | §3.1 | recognition of $\Sigma(K)$ | `plumbing/reach_orb.py`, `reach_u23_orb.py`, `recognise_more.py`, `recognise_retry.py` | `reach_*_orb.json`, `recognise_*.json` |
@@ -147,6 +154,7 @@ the following:
 | §3.1 | the 47 non-alternating knots of §4.1 | `plumbing/classify47.py` | `classify47_*.json` |
 | §3.1 | the 32 covers with four Seifert pieces: algebraic diagrams and normal forms | `plumbing/algebraic/alg_diagrams.py`, `u_plumbing.py` | `alg_diagrams.json`, `u_plumbing.json` |
 | §3.2 | $u=1$ excluded: Ni–Wu, mapping cone | `plumbing/neumann/run_invert.py` (`u1_test`), `lib/lower_bounds/montesinos/` | `rederive_all.json` |
+| §3.2 | the six exclusions by reduced Floer homology, with every surviving identification | `plumbing/neumann/hfred_certificates.py` | `hfred_certificates.json` |
 | §3.3 | $u=2$ excluded: Owens, Traczyk | `plumbing/owens_u3_graph.py` (`run_one`), `lib/lower_bounds/owens/` | `rederive_all.json`, `classify47_normal.json` |
 | §3.4 | identification, Casson–Walker identity | `plumbing/neumann/rederive_all.py`, `plumbing/owens_u3_graph.py` (`L_closed`) | `rederive_all.json` |
 | §3.4 | independent implementations | `bernhard_jablan/code/u1_independent.py`, `owens_independent.py`, `plumbing/owens_general_group.py`, `plumbing/neumann/verify_fresh.py` | `owens_general_group.json`, `verify_fresh.json`, `classify47_verify.json` |

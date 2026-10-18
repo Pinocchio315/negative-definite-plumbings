@@ -112,8 +112,9 @@ def plumbing_from_algebraic(pd, sigma=SIGMA):
 def normal_form(w, edges):
     """Neumann's moves on a weighted tree: blow-down of +-1 vertices of degree <= 2, absorption of 0 vertices of
     degree 2, removal of a 0 leaf with its neighbour (neighbour of degree <= 2), and the string identity
-    (a)-(c)-(b) = (a-1)-(-2)^(c-1)-(b-1) for c >= 2 (also at a leaf), until every vertex of degree <= 2 has weight
-    <= -2.  Returns (weights, edges) or raises ValueError for reducible / S^1 x S^2 cases."""
+    (a)-(c)-(b) = (a-1)-(-2)^(c-1)-(b-1) for c >= 2 (also at a leaf or at an isolated vertex), until every vertex
+    of degree <= 2 has weight <= -2.  An isolated vertex of weight +-1 is blown down to the empty tree (S^3).
+    Returns (weights, edges) or raises ValueError for reducible / S^1 x S^2 cases."""
     W = {i: x for i, x in enumerate(w)}
     A = {i: set() for i in range(len(w))}
     for a, b in edges:
@@ -131,8 +132,6 @@ def normal_form(w, edges):
     changed = True
     while changed:
         changed = False
-        if len(W) == 1:
-            break
         for v in list(W):
             if v not in W:
                 continue

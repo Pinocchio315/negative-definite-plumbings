@@ -69,6 +69,13 @@ rows3 = sorted((e for e in vals if e['strict'] and e['lo'] == 3), key=lambda e: 
 rows5 = sorted((e for e in vals if not e['strict']), key=lambda e: key(e['knot']))
 assert all(nf[e['knot']]['verdict'].startswith('OBSTRUCTED') and nf[e['knot']]['cw_consistent'] for e in rows2 + rows3)
 assert all(nf[e['knot']].get('plumbing_name_matches') for e in rows2 + rows3)     # identified by an independent triangulation
+# the six exclusions of u = 1 by reduced Floer homology: every identification surviving the correction-term test fails
+# the mapping cone condition (neumann/hfred_certificates.py)
+HFC = J(TOOL, 'neumann', 'hfred_certificates.json')
+assert sorted(HFC) == sorted(e['knot'] for e in rows2 if nf[e['knot']]['verdict'] == 'OBSTRUCTED_HF')
+assert all(c['certified'] and c['survivors'] and all(x['fails'] for x in c['survivors']) for c in HFC.values())
+# KnotInfo version 2026.10.5 records all 112 values as ranges containing them (data/knotinfo_2026_10_05.py)
+KI10 = J(CEN, 'data', 'knotinfo_2026-10-05_new_values.json')['unknotting_number']
 
 
 def longtable(cols, caption, label, head, body, desc):
@@ -91,7 +98,7 @@ def table(rows, caption, label, desc):
 
 
 open(os.path.join(OUT, 'new_u2.tex'), 'w').write(table(rows2, r'New exact values $u(K)=2$ (previous range $[1,2]$). $|V|$ is the number of vertices of the Neumann normal form.', 'tab:new-u2', r'New exact values $u(K)=2$'))
-open(os.path.join(OUT, 'new_u3.tex'), 'w').write(table(rows3, r"New exact values $u(K)=3$ from Owens's theorem with normal-form correction terms (previous range $[2,3]$).", 'tab:new-u3', r'New exact values $u(K)=3$'))
+open(os.path.join(OUT, 'new_u3.tex'), 'w').write(table(rows3, r"New exact values $u(K)=3$ (previous range $[2,3]$). Owens's theorem with normal-form correction terms excludes the sign pattern $(1,1)$ of two crossing changes, and Traczyk's criterion excludes $(0,2)$ (Section~\ref{sec:u2}).", 'tab:new-u3', r'New exact values $u(K)=3$'))
 # the 66 values u = u_a = 3 (data/new66_u3.txt): H_1 of the double branched cover from the Seifert matrix
 from sympy import Matrix, ZZ
 from sympy.matrices.normalforms import smith_normal_form
@@ -123,6 +130,11 @@ def plain_table(names, caption, label, with_h1, halves=1, desc=''):
 
 
 rows66 = sorted((l.strip() for l in open(os.path.join(CEN, 'data', 'new66_u3.txt')) if l.strip()), key=key)
+NEWVAL = {**{e['knot']: e['lo'] for e in rows2 + rows3 + rows5}, **{n: 3 for n in rows66}}       # the 112 new values
+assert len(NEWVAL) == len(rows2) + len(rows3) + len(rows5) + len(rows66) and set(KI10) == set(NEWVAL)
+for n, v in NEWVAL.items():
+    lo, hi = map(int, KI10[n].strip('[]').split(','))
+    assert lo < hi and lo <= v <= hi, (n, KI10[n])
 open(os.path.join(OUT, 'u3_66.tex'), 'w').write(plain_table(rows66, r'Knots with $u(K)=u_a(K)=3$, listed down the columns.', 'tab:u3-66', True, halves=2))
 
 # Sigma_2 map of the open non-alternating knots
@@ -251,17 +263,19 @@ assert set(cov) == UNRES | ACC and len(UNRES) == dec['UNRESOLVED: same Alexander
 assert all(not cov[k]['cover_invariant_equal'] and cov[k]['first_differing_degree'] <= 4 for k in UNRES)
 assert all(cov[k]['cover_invariant_equal'] for k in ACC) and len(ACC) == len(comp['accepted'])
 NAME = {'5_2#?3c': r'$5_2\#3_1$'}
-WHY = {'9_46': r'$H_1$ needs two generators \cite{Wendt}', '10_38': r'no unknotting crossing \cite[Thm.~1]{McCoy}',
+WHY = {'9_46': r'$H_1$ needs two generators \cite{Wendt}', '10_38': r'no unknotting crossing \cite{McCoy}',
        '12a_237': r'$|\sigma|=4$', '12n_155': r'$|\sigma|=4$', '5_2#?3c': r'$|\sigma|=4$',
-       '11n_66': r'\cite[Thm.~10.12]{GordonLuecke06}', '11n_99': r'\cite[Thm.~10.12]{GordonLuecke06}',
-       '12n_563': r'\cite[\S3.8]{Lee}'}
+       '11n_66': r'\cite{GordonLuecke06}', '11n_99': r'\cite{GordonLuecke06}',
+       '12n_563': r'\cite{Lee}'}
 groups = {}
 for r in nbr:
     groups.setdefault(r['name'], []).append(r)
 assert set(groups) == set(WHY) and sum(map(len, groups.values())) == len(nbr)
 L = [r'\begin{table}[htbp]', r'\centering',
-     r'\caption{The knots obtained by changing one crossing in a minimal diagram of \kn{13n}{1587}, with the number of such '
-     r'crossing changes and the reason why $u\ge2$. Knots are named up to mirror image.}\label{tab:nbr}',
+     r'\caption{The knots obtained by changing one crossing in a minimal diagram of \kn{13n}{1587}, and the reason why '
+     r'$u\ge2$. For each knot, \emph{Changes} is the number of crossing changes that give it, among the '
+     r'\nNbrChanges{} changes of one crossing in the \nMinDiag{} minimal diagrams obtained from reference diagrams in '
+     r'Section~\ref{sec:13n1587}. Knots are named up to mirror image.}\label{tab:nbr}',
      r'\begin{tabular}{lrrll}', r'\toprule',
      r'Knot & Changes & $|\sigma|$ & $H_1(\dbc(K))$ & $u\ge2$ by\\', r'\midrule']
 for n, rs in sorted(groups.items(), key=lambda x: (-len(x[1]), x[0])):
@@ -286,8 +300,8 @@ assert len(CLASS2) == both('nodef') and all(BO[n]['distinct_trees'] == 2 and min
 
 # class (2), covers not recognised by Regina: by Lemma 2.7 an algebraic diagram (obtained by Reidemeister moves; SnapPy
 # finds the exteriors isometric to the KnotInfo ones) gives the normal forms of Sigma_2 and -Sigma_2. Both have four nodes,
-# cokernel cyclic of order det K and positive eigenvalues, and a second, independently found algebraic diagram gives the
-# same two normal forms. The KnotInfo diagrams are not algebraic.
+# cokernel cyclic of order det K and positive eigenvalues, and a second algebraic diagram, different from the first, gives
+# the same two normal forms. The KnotInfo diagrams are not algebraic.
 CLASS2ALG = [x['name'] for f in ('reach_u12_orb.json', 'reach_u23_orb.json') for x in J(TOOL, f) if status(x['name']) == 'nodef_alg']
 assert sorted(CLASS2ALG) == sorted(UA) == sorted(AD) == sorted(XA) and 'nodef_alg' not in C47.values()
 for n in CLASS2ALG:
@@ -301,8 +315,9 @@ for n in CLASS2ALG:
     assert UA[n]['1']['canon'] != UA[n]['-1']['canon']
     x = XA[n]
     assert all(x['second_same_normal_forms'].values()) and all(x['isometric_to_knotinfo']) and all(x['numpy_inertia_agrees'].values())
+    assert x['second_differs_from_first'] in ('crossings', 'face sizes', 'diagram')
 VS = VA['summary']                     # the construction on the KnotInfo diagrams that are algebraic
-assert not VS['det_mismatch'] and not VS['identified_disagree']
+assert not VS['det_mismatch'] and not VS['identified_disagree'] and not VS['not_in_normal_form']
 ALG_THM = [e['knot'] for e in rows2 + rows3 if e['knot'] in VA['records'] and VA['records'][e['knot']]['identified']['agrees']]
 
 

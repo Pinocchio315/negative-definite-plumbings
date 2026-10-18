@@ -5,9 +5,11 @@ algebraic (bigon merging reaches one vertex).
   (2) agreement with the trees identified by triangulation (neumann/identify_trees.json): for a knot of class (2) the two
       normal forms are exactly its two identified trees, the normal forms of Sigma_2(K) and -Sigma_2(K); for a knot of
       class (3) its identified negative-definite tree is one of the two normal forms.
+  (3) every returned tree is in normal form: each vertex of degree <= 2 has weight <= -2.
 Output: validate_plumbing.json
 """
 import json, os, sys, time, warnings
+from collections import Counter
 warnings.filterwarnings('ignore')
 from multiprocessing import Pool
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -81,7 +83,11 @@ if __name__ == '__main__':
         if not ok:
             miss.append(n)
         r['identified'] = dict(cls=cls, agrees=ok)
+    def in_normal_form(t):
+        deg = Counter(v for e in t['edges'] for v in e)
+        return all(x <= -2 for v, x in enumerate(t['weights']) if deg[v] <= 2)
+    not_nf = sorted(n for n, r in out.items() for s in ('1', '-1') if r[s]['weights'] is None or not in_normal_form(r[s]))
     summary = dict(algebraic=len(out), det_mismatch=bad_det, identified_class2=len(compared[2]),
-                   identified_class3=len(compared[3]), identified_disagree=sorted(miss))
+                   identified_class3=len(compared[3]), identified_disagree=sorted(miss), not_in_normal_form=not_nf)
     json.dump(dict(summary=summary, records=dict(sorted(out.items()))), open(os.path.join(HERE, 'validate_plumbing.json'), 'w'), indent=1)
     print(json.dumps(summary, indent=1))

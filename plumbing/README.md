@@ -35,6 +35,7 @@ SnapPy. Its triangulation is then recognised with Regina.
 | `run_fresh.py` | `run_fresh.json` | normal form and tests for `recognise_more_fresh.json`. For $[1,2]$ the $u=1$ test; for $[2,3]$ and $[2,4]$ Owens's test (`../owens_u3_graph.py`) |
 | `run_retry13.py`, `run_pachner4.py` | `run_retry13.json`, `run_pachner4.json` | the same for the covers recognised by `recognise_retry.py` and `pachner_recognise.py` |
 | `rederive_all.py` | `rederive_all.json` | the 43 new values of Sections 3.2 and 3.3 from the normal form alone: verdict, Casson–Walker identity, and an independent identification by triangulating the plumbing |
+| `hfred_certificates.py` | `hfred_certificates.json` | certificates of the six exclusions of $u=1$ by reduced Floer homology (Section 3.2). For each knot: $d$ and the rank of $HF_{\mathrm{red}}$ in every class $g^k$ of a generator $g$; every identification that survives the correction-term test (the sign, the affine map $i\mapsto ai+b$ from the Ni–Wu labels, and $V$); and for each of them $T_i$, the pulled-back ranks, $r_i$, $2c_i$, and the first condition that fails |
 | `normal_case3.py` | `normal_case3.json` | the same for the 96 knots of class (3) whose plumbing was first found by the searches of Section 3 below |
 | `verify_fresh.py` | `verify_fresh.json` | checks of `run_fresh.json`: independent Ni–Wu test, independent Owens step for non-cyclic groups (13n2956), Traczyk's criterion from $V_K(e^{i\pi/3})$ in exact arithmetic |
 
