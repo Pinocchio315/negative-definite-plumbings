@@ -98,7 +98,7 @@ def table(rows, caption, label, desc):
 
 
 open(os.path.join(OUT, 'new_u2.tex'), 'w').write(table(rows2, r'New exact values $u(K)=2$ (previous range $[1,2]$). $|V|$ is the number of vertices of the Neumann normal form.', 'tab:new-u2', r'New exact values $u(K)=2$'))
-open(os.path.join(OUT, 'new_u3.tex'), 'w').write(table(rows3, r"New exact values $u(K)=3$ (previous range $[2,3]$). Owens's theorem with normal-form correction terms excludes the sign pattern $(1,1)$ of two crossing changes, and Traczyk's criterion excludes $(0,2)$ (Section~\ref{sec:u2}).", 'tab:new-u3', r'New exact values $u(K)=3$'))
+open(os.path.join(OUT, 'new_u3.tex'), 'w').write(table(rows3, r"New exact values $u(K)=3$ (previous range $[2,3]$). Owens's theorem with normal-form correction terms excludes two crossing changes of opposite signs, and Traczyk's criterion excludes two changes of the same sign (Section~\ref{sec:u2}).", 'tab:new-u3', r'New exact values $u(K)=3$'))
 # the 66 values u = u_a = 3 (data/new66_u3.txt): H_1 of the double branched cover from the Seifert matrix
 from sympy import Matrix, ZZ
 from sympy.matrices.normalforms import smith_normal_form

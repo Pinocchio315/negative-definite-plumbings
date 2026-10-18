@@ -38,7 +38,7 @@ diagrams (Lemma 2.7, `plumbing/algebraic/`).
 | $u=3$ (§3.3) | 13n2933, 13n2956 | Owens's $u=2$ obstruction with normal-form correction terms, and Traczyk's criterion |
 | $u=u_a=3$ (§4.1) | 66 knots (19 alternating, 47 non-alternating), previous range $[2,3]$ | rank-two linking pairing obstruction (Borodzik–Friedl) and three crossing changes |
 | $u=5$ (§4.2) | 13a4770, 13a4787, 13a4801 | theorem of McCoy–Park and a finite check of one diagram |
-| second explicit counterexample to the Bernhard–Jablan conjecture (§5) | 13n1587 | $u=2$, and every crossing change in a minimal diagram gives a knot with $u\ge2$ |
+| a further explicit counterexample to the Bernhard–Jablan conjecture (§5) | 13n1587 | $u=2$, and every crossing change in a minimal diagram gives a knot with $u\ge2$ |
 
 In total, 112 unknotting numbers are new. For 13n3004 and 13n3005, two of the 66 knots, Owens's test also excludes
 $u=2$. This gives a second proof for them.
