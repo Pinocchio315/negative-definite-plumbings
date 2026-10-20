@@ -1,7 +1,7 @@
 # Negative-definite plumbings and new unknotting numbers
 
 This repository contains the code and the computational records for the paper
-**Negative-Definite Plumbings and New Unknotting Numbers** by Seong-Jin Lee.
+**Negative-Definite Plumbings and New Unknotting Numbers** by Seong-Jin Lee ([arXiv:2610.25430][paper]).
 
 The paper continues [arXiv:2609.09861][v2] (*Computation of unknotting numbers: which knot breaks the
 Bernhard–Jablan conjecture?*). Its code is in [unknotting-tait-graphs][v2code]. Unknotting ranges are those of the
@@ -205,10 +205,11 @@ the computations and remain subject to the terms of [KnotInfo](https://knotinfo.
 
 ## Citation
 
-Seong-Jin Lee, *Negative-Definite Plumbings and New Unknotting Numbers* (2026).
+Seong-Jin Lee, *Negative-Definite Plumbings and New Unknotting Numbers*, [arXiv:2610.25430][paper] [math.GT] (2026).
 
 The preceding paper: Seong-Jin Lee, *Computation of unknotting numbers: which knot breaks the Bernhard–Jablan
 conjecture?*, [arXiv:2609.09861][v2] [math.GT] (2026).
 
+[paper]: https://arxiv.org/abs/2610.25430
 [v2]: https://arxiv.org/abs/2609.09861
 [v2code]: https://github.com/Pinocchio315/unknotting-tait-graphs
